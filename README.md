@@ -44,6 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#34](https://github.com/launchdarkly/hello-tvos/pull/34) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
+2. 🎉 Merged PR [#33](https://github.com/launchdarkly/hello-tvos/pull/33) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
+3. 🎉 Merged PR [#32](https://github.com/launchdarkly/hello-macos/pull/32) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
+4. 🎉 Merged PR [#42](https://github.com/launchdarkly/hello-ios/pull/42) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
+5. 🎉 Merged PR [#34](https://github.com/launchdarkly/hello-ios-swift/pull/34) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
 <!--END_SECTION:activity-->
 
 ### Github Stats
