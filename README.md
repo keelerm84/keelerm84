@@ -34,6 +34,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying Hugo With Github Actions](https://cupfullofcode.com/blog/2018/12/21/deploying-hugo-with-github-actions/)
+- [A Look at Vim and Emacs](https://cupfullofcode.com/blog/2015/03/29/a-look-at-vim-and-emacs/)
+- [Invalidate Projectile Cache on Delete](https://cupfullofcode.com/blog/2014/10/06/invalidate-projectile-cache-on-delete/)
+- [Performing Controlled PHP Refactorings in Emacs](https://cupfullofcode.com/blog/2014/09/21/performing-controlled-php-refactorings-in-emacs/)
+- [Embedding Code Snippets in Org Mode](https://cupfullofcode.com/blog/2013/11/22/embedding-code-snippets-in-org-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Activity
