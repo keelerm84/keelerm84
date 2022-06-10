@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/launchdarkly/ruby-eventsource/issues/32) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-2. 🎉 Merged PR [#82](https://github.com/launchdarkly/sdk-test-harness/pull/82) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 🎉 Merged PR [#31](https://github.com/keelerm84/dotfiles/pull/31) in [keelerm84/dotfiles](https://github.com/keelerm84/dotfiles)
-4. 🎉 Merged PR [#33](https://github.com/launchdarkly/hello-macos/pull/33) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
-5. 🎉 Merged PR [#35](https://github.com/launchdarkly/hello-ios-swift/pull/35) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
+1. 🗣 Commented on [#199](https://github.com/launchdarkly/ruby-server-sdk/issues/199) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+2. 🗣 Commented on [#32](https://github.com/launchdarkly/ruby-eventsource/issues/32) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+3. 🎉 Merged PR [#82](https://github.com/launchdarkly/sdk-test-harness/pull/82) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+4. 🎉 Merged PR [#31](https://github.com/keelerm84/dotfiles/pull/31) in [keelerm84/dotfiles](https://github.com/keelerm84/dotfiles)
+5. 🎉 Merged PR [#33](https://github.com/launchdarkly/hello-macos/pull/33) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
 <!--END_SECTION:activity-->
 
 ### Github Stats
