@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#39](https://github.com/launchdarkly/haskell-server-sdk/pull/39) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-2. 💪 Opened PR [#84](https://github.com/launchdarkly/sdk-test-harness/pull/84) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 🎉 Merged PR [#172](https://github.com/launchdarkly/python-server-sdk/pull/172) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. 🗣 Commented on [#172](https://github.com/launchdarkly/python-server-sdk/issues/172) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. ❌ Closed PR [#177](https://github.com/launchdarkly/python-server-sdk/pull/177) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🎉 Merged PR [#170](https://github.com/launchdarkly/python-server-sdk/pull/170) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+2. 🗣 Commented on [#170](https://github.com/launchdarkly/python-server-sdk/issues/170) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+3. ❌ Closed PR [#39](https://github.com/launchdarkly/haskell-server-sdk/pull/39) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+4. 💪 Opened PR [#84](https://github.com/launchdarkly/sdk-test-harness/pull/84) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. 🎉 Merged PR [#172](https://github.com/launchdarkly/python-server-sdk/pull/172) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
