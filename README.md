@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/launchdarkly/php-server-sdk/issues/140) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-2. ❗️ Closed issue [#140](https://github.com/launchdarkly/php-server-sdk/issues/140) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-3. ❌ Closed PR [#31](https://github.com/launchdarkly/hello-ios-swift/pull/31) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
-4. 🗣 Commented on [#31](https://github.com/launchdarkly/hello-ios-swift/issues/31) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
-5. ❌ Closed PR [#12](https://github.com/launchdarkly/hello-python/pull/12) in [launchdarkly/hello-python](https://github.com/launchdarkly/hello-python)
+1. 🗣 Commented on [#202](https://github.com/launchdarkly/ruby-server-sdk/issues/202) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+2. ❗️ Closed issue [#196](https://github.com/launchdarkly/ruby-server-sdk/issues/196) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+3. 🗣 Commented on [#196](https://github.com/launchdarkly/ruby-server-sdk/issues/196) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+4. 🗣 Commented on [#140](https://github.com/launchdarkly/php-server-sdk/issues/140) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+5. ❗️ Closed issue [#140](https://github.com/launchdarkly/php-server-sdk/issues/140) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
