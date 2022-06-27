@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/keelerm84/surveydoc/pull/26) in [keelerm84/surveydoc](https://github.com/keelerm84/surveydoc)
-2. 🎉 Merged PR [#7](https://github.com/launchdarkly/hello-bootstrap-rails/pull/7) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-3. 🗣 Commented on [#7](https://github.com/launchdarkly/hello-bootstrap-rails/issues/7) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-4. 🗣 Commented on [#7](https://github.com/launchdarkly/hello-bootstrap-rails/issues/7) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-5. 💪 Opened PR [#7](https://github.com/launchdarkly/hello-bootstrap-rails/pull/7) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+1. ❌ Closed PR [#12](https://github.com/launchdarkly/hello-python/pull/12) in [launchdarkly/hello-python](https://github.com/launchdarkly/hello-python)
+2. 🗣 Commented on [#12](https://github.com/launchdarkly/hello-python/issues/12) in [launchdarkly/hello-python](https://github.com/launchdarkly/hello-python)
+3. 🎉 Merged PR [#26](https://github.com/keelerm84/surveydoc/pull/26) in [keelerm84/surveydoc](https://github.com/keelerm84/surveydoc)
+4. 🎉 Merged PR [#7](https://github.com/launchdarkly/hello-bootstrap-rails/pull/7) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+5. 🗣 Commented on [#7](https://github.com/launchdarkly/hello-bootstrap-rails/issues/7) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
 <!--END_SECTION:activity-->
 
 ### Github Stats
