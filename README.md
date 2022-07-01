@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#273](https://github.com/launchdarkly/ios-client-sdk/issues/273) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🗣 Commented on [#31](https://github.com/launchdarkly/hello-ios-swift/issues/31) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
-3. ❌ Closed PR [#202](https://github.com/launchdarkly/ruby-server-sdk/pull/202) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-4. 🗣 Commented on [#202](https://github.com/launchdarkly/ruby-server-sdk/issues/202) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-5. 🗣 Commented on [#164](https://github.com/launchdarkly/ruby-server-sdk/issues/164) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+1. 🗣 Commented on [#159](https://github.com/launchdarkly/python-server-sdk/issues/159) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+2. ❗️ Closed issue [#159](https://github.com/launchdarkly/python-server-sdk/issues/159) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+3. ❗️ Closed issue [#171](https://github.com/launchdarkly/python-server-sdk/issues/171) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 🗣 Commented on [#171](https://github.com/launchdarkly/python-server-sdk/issues/171) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. 🗣 Commented on [#273](https://github.com/launchdarkly/ios-client-sdk/issues/273) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
