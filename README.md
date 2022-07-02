@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/launchdarkly/hello-haskell-server/pull/7) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
-2. 🗣 Commented on [#159](https://github.com/launchdarkly/python-server-sdk/issues/159) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. ❗️ Closed issue [#159](https://github.com/launchdarkly/python-server-sdk/issues/159) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. ❗️ Closed issue [#171](https://github.com/launchdarkly/python-server-sdk/issues/171) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🗣 Commented on [#171](https://github.com/launchdarkly/python-server-sdk/issues/171) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🗣 Commented on [#35](https://github.com/launchdarkly/haskell-server-sdk/issues/35) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. ❗️ Closed issue [#35](https://github.com/launchdarkly/haskell-server-sdk/issues/35) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+3. 💪 Opened PR [#7](https://github.com/launchdarkly/hello-haskell-server/pull/7) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
+4. 🗣 Commented on [#159](https://github.com/launchdarkly/python-server-sdk/issues/159) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. ❗️ Closed issue [#159](https://github.com/launchdarkly/python-server-sdk/issues/159) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
