@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/launchdarkly/hello-haskell-server/pull/7) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
-2. 🗣 Commented on [#35](https://github.com/launchdarkly/haskell-server-sdk/issues/35) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-3. ❗️ Closed issue [#35](https://github.com/launchdarkly/haskell-server-sdk/issues/35) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-4. 💪 Opened PR [#7](https://github.com/launchdarkly/hello-haskell-server/pull/7) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
-5. 🗣 Commented on [#159](https://github.com/launchdarkly/python-server-sdk/issues/159) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 💪 Opened PR [#9](https://github.com/launchdarkly/hello-c-server/pull/9) in [launchdarkly/hello-c-server](https://github.com/launchdarkly/hello-c-server)
+2. 💪 Opened PR [#12](https://github.com/launchdarkly/hello-c-client/pull/12) in [launchdarkly/hello-c-client](https://github.com/launchdarkly/hello-c-client)
+3. 💪 Opened PR [#8](https://github.com/launchdarkly/hello-cpp-client/pull/8) in [launchdarkly/hello-cpp-client](https://github.com/launchdarkly/hello-cpp-client)
+4. 💪 Opened PR [#10](https://github.com/launchdarkly/hello-dotnet-client/pull/10) in [launchdarkly/hello-dotnet-client](https://github.com/launchdarkly/hello-dotnet-client)
+5. 🎉 Merged PR [#7](https://github.com/launchdarkly/hello-haskell-server/pull/7) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
 <!--END_SECTION:activity-->
 
 ### Github Stats
