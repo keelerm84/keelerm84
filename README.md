@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/launchdarkly/hello-c-server/pull/9) in [launchdarkly/hello-c-server](https://github.com/launchdarkly/hello-c-server)
-2. 🎉 Merged PR [#8](https://github.com/launchdarkly/hello-cpp-client/pull/8) in [launchdarkly/hello-cpp-client](https://github.com/launchdarkly/hello-cpp-client)
-3. 🎉 Merged PR [#12](https://github.com/launchdarkly/hello-c-client/pull/12) in [launchdarkly/hello-c-client](https://github.com/launchdarkly/hello-c-client)
-4. 💪 Opened PR [#8](https://github.com/launchdarkly/hello-haskell-server/pull/8) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
-5. 💪 Opened PR [#44](https://github.com/launchdarkly/hello-ios/pull/44) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
+1. ❗️ Closed issue [#174](https://github.com/launchdarkly/python-server-sdk/issues/174) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+2. 🗣 Commented on [#174](https://github.com/launchdarkly/python-server-sdk/issues/174) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+3. 🎉 Merged PR [#9](https://github.com/launchdarkly/hello-c-server/pull/9) in [launchdarkly/hello-c-server](https://github.com/launchdarkly/hello-c-server)
+4. 🎉 Merged PR [#8](https://github.com/launchdarkly/hello-cpp-client/pull/8) in [launchdarkly/hello-cpp-client](https://github.com/launchdarkly/hello-cpp-client)
+5. 🎉 Merged PR [#12](https://github.com/launchdarkly/hello-c-client/pull/12) in [launchdarkly/hello-c-client](https://github.com/launchdarkly/hello-c-client)
 <!--END_SECTION:activity-->
 
 ### Github Stats
