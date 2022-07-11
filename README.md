@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/launchdarkly/hello-dotnet-client/pull/10) in [launchdarkly/hello-dotnet-client](https://github.com/launchdarkly/hello-dotnet-client)
-2. ❗️ Closed issue [#174](https://github.com/launchdarkly/python-server-sdk/issues/174) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 🗣 Commented on [#174](https://github.com/launchdarkly/python-server-sdk/issues/174) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. 🎉 Merged PR [#9](https://github.com/launchdarkly/hello-c-server/pull/9) in [launchdarkly/hello-c-server](https://github.com/launchdarkly/hello-c-server)
-5. 🎉 Merged PR [#8](https://github.com/launchdarkly/hello-cpp-client/pull/8) in [launchdarkly/hello-cpp-client](https://github.com/launchdarkly/hello-cpp-client)
+1. 🗣 Commented on [#38](https://github.com/launchdarkly/rust-eventsource-client/issues/38) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 💪 Opened PR [#38](https://github.com/launchdarkly/rust-eventsource-client/pull/38) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. 🎉 Merged PR [#10](https://github.com/launchdarkly/hello-dotnet-client/pull/10) in [launchdarkly/hello-dotnet-client](https://github.com/launchdarkly/hello-dotnet-client)
+4. ❗️ Closed issue [#174](https://github.com/launchdarkly/python-server-sdk/issues/174) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. 🗣 Commented on [#174](https://github.com/launchdarkly/python-server-sdk/issues/174) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
