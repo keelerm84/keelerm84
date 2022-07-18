@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/launchdarkly/hello-haskell-server/pull/8) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
-2. 🎉 Merged PR [#44](https://github.com/launchdarkly/hello-ios/pull/44) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
-3. 🎉 Merged PR [#36](https://github.com/launchdarkly/hello-ios-swift/pull/36) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
-4. 🎉 Merged PR [#34](https://github.com/launchdarkly/hello-macos/pull/34) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
-5. 🎉 Merged PR [#46](https://github.com/launchdarkly/swift-eventsource/pull/46) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+1. 🎉 Merged PR [#39](https://github.com/launchdarkly/rust-eventsource-client/pull/39) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 🗣 Commented on [#39](https://github.com/launchdarkly/rust-eventsource-client/issues/39) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. 💪 Opened PR [#39](https://github.com/launchdarkly/rust-eventsource-client/pull/39) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+4. 🎉 Merged PR [#8](https://github.com/launchdarkly/hello-haskell-server/pull/8) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
+5. 🎉 Merged PR [#44](https://github.com/launchdarkly/hello-ios/pull/44) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
 <!--END_SECTION:activity-->
 
 ### Github Stats
