@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#92](https://github.com/launchdarkly/sdk-test-harness/pull/92) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-2. 💪 Opened PR [#92](https://github.com/launchdarkly/sdk-test-harness/pull/92) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 💪 Opened PR [#91](https://github.com/launchdarkly/sdk-test-harness/pull/91) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 🎉 Merged PR [#39](https://github.com/launchdarkly/rust-eventsource-client/pull/39) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-5. 🗣 Commented on [#39](https://github.com/launchdarkly/rust-eventsource-client/issues/39) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+1. 🗣 Commented on [#37](https://github.com/launchdarkly/hello-ios-swift/issues/37) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
+2. 🗣 Commented on [#45](https://github.com/launchdarkly/hello-ios/issues/45) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
+3. 🎉 Merged PR [#92](https://github.com/launchdarkly/sdk-test-harness/pull/92) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+4. 💪 Opened PR [#92](https://github.com/launchdarkly/sdk-test-harness/pull/92) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. 💪 Opened PR [#91](https://github.com/launchdarkly/sdk-test-harness/pull/91) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
 <!--END_SECTION:activity-->
 
 ### Github Stats
