@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/launchdarkly-labs/ld-relay-locustfile/pull/2) in [launchdarkly-labs/ld-relay-locustfile](https://github.com/launchdarkly-labs/ld-relay-locustfile)
-2. 🎉 Merged PR [#97](https://github.com/launchdarkly/sdk-test-harness/pull/97) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 💪 Opened PR [#97](https://github.com/launchdarkly/sdk-test-harness/pull/97) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. ❗️ Closed issue [#160](https://github.com/launchdarkly/php-server-sdk/issues/160) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-5. 🗣 Commented on [#160](https://github.com/launchdarkly/php-server-sdk/issues/160) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+1. 🎉 Merged PR [#95](https://github.com/launchdarkly/sdk-test-harness/pull/95) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+2. 💪 Opened PR [#2](https://github.com/launchdarkly-labs/ld-relay-locustfile/pull/2) in [launchdarkly-labs/ld-relay-locustfile](https://github.com/launchdarkly-labs/ld-relay-locustfile)
+3. 🎉 Merged PR [#97](https://github.com/launchdarkly/sdk-test-harness/pull/97) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+4. 💪 Opened PR [#97](https://github.com/launchdarkly/sdk-test-harness/pull/97) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. ❗️ Closed issue [#160](https://github.com/launchdarkly/php-server-sdk/issues/160) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
