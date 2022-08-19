@@ -46,9 +46,9 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#48](https://github.com/launchdarkly/swift-eventsource/issues/48) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
 2. 🗣 Commented on [#48](https://github.com/launchdarkly/swift-eventsource/issues/48) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-3. 🎉 Merged PR [#44](https://github.com/launchdarkly/swift-eventsource/pull/44) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-4. 🗣 Commented on [#276](https://github.com/launchdarkly/ios-client-sdk/issues/276) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 🎉 Merged PR [#95](https://github.com/launchdarkly/sdk-test-harness/pull/95) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+3. 🗣 Commented on [#48](https://github.com/launchdarkly/swift-eventsource/issues/48) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+4. 🎉 Merged PR [#44](https://github.com/launchdarkly/swift-eventsource/pull/44) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+5. 🗣 Commented on [#276](https://github.com/launchdarkly/ios-client-sdk/issues/276) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
