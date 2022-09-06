@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#163](https://github.com/launchdarkly/php-server-sdk/issues/163) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-2. 🎉 Merged PR [#36](https://github.com/launchdarkly/hello-tvos/pull/36) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
-3. 🎉 Merged PR [#35](https://github.com/launchdarkly/hello-macos/pull/35) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
-4. 🎉 Merged PR [#38](https://github.com/launchdarkly/hello-ios-swift/pull/38) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
-5. 🎉 Merged PR [#46](https://github.com/launchdarkly/hello-ios/pull/46) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
+1. 🗣 Commented on [#278](https://github.com/launchdarkly/ios-client-sdk/issues/278) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+2. 🗣 Commented on [#163](https://github.com/launchdarkly/php-server-sdk/issues/163) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+3. 🎉 Merged PR [#36](https://github.com/launchdarkly/hello-tvos/pull/36) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
+4. 🎉 Merged PR [#35](https://github.com/launchdarkly/hello-macos/pull/35) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
+5. 🎉 Merged PR [#38](https://github.com/launchdarkly/hello-ios-swift/pull/38) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
 <!--END_SECTION:activity-->
 
 ### Github Stats
