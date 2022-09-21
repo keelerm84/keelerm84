@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#278](https://github.com/launchdarkly/ios-client-sdk/issues/278) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🗣 Commented on [#42](https://github.com/launchdarkly/haskell-server-sdk/issues/42) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-3. 🎉 Merged PR [#42](https://github.com/launchdarkly/haskell-server-sdk/pull/42) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-4. 🗣 Commented on [#281](https://github.com/launchdarkly/ios-client-sdk/issues/281) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 🗣 Commented on [#16](https://github.com/launchdarkly/rust-server-sdk/issues/16) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+1. 🗣 Commented on [#42](https://github.com/launchdarkly/haskell-server-sdk/issues/42) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. ❗️ Closed issue [#278](https://github.com/launchdarkly/ios-client-sdk/issues/278) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+3. 🗣 Commented on [#42](https://github.com/launchdarkly/haskell-server-sdk/issues/42) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+4. 🎉 Merged PR [#42](https://github.com/launchdarkly/haskell-server-sdk/pull/42) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+5. 🗣 Commented on [#281](https://github.com/launchdarkly/ios-client-sdk/issues/281) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
