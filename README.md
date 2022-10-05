@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#281](https://github.com/launchdarkly/ios-client-sdk/issues/281) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🗣 Commented on [#281](https://github.com/launchdarkly/ios-client-sdk/issues/281) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 💪 Opened PR [#51](https://github.com/launchdarkly/swift-eventsource/pull/51) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-4. 🎉 Merged PR [#6](https://github.com/launchdarkly/hello-php/pull/6) in [launchdarkly/hello-php](https://github.com/launchdarkly/hello-php)
-5. 💪 Opened PR [#6](https://github.com/launchdarkly/hello-php/pull/6) in [launchdarkly/hello-php](https://github.com/launchdarkly/hello-php)
+1. 🎉 Merged PR [#51](https://github.com/launchdarkly/swift-eventsource/pull/51) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+2. ❗️ Closed issue [#281](https://github.com/launchdarkly/ios-client-sdk/issues/281) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+3. 🗣 Commented on [#281](https://github.com/launchdarkly/ios-client-sdk/issues/281) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+4. 💪 Opened PR [#51](https://github.com/launchdarkly/swift-eventsource/pull/51) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+5. 🎉 Merged PR [#6](https://github.com/launchdarkly/hello-php/pull/6) in [launchdarkly/hello-php](https://github.com/launchdarkly/hello-php)
 <!--END_SECTION:activity-->
 
 ### Github Stats
