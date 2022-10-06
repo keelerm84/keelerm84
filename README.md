@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/launchdarkly/swift-eventsource/pull/51) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-2. ❗️ Closed issue [#281](https://github.com/launchdarkly/ios-client-sdk/issues/281) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 🗣 Commented on [#281](https://github.com/launchdarkly/ios-client-sdk/issues/281) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 💪 Opened PR [#51](https://github.com/launchdarkly/swift-eventsource/pull/51) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-5. 🎉 Merged PR [#6](https://github.com/launchdarkly/hello-php/pull/6) in [launchdarkly/hello-php](https://github.com/launchdarkly/hello-php)
+1. ❌ Closed PR [#2](https://github.com/launchdarkly-labs/ld-relay-locustfile/pull/2) in [launchdarkly-labs/ld-relay-locustfile](https://github.com/launchdarkly-labs/ld-relay-locustfile)
+2. 💪 Opened PR [#52](https://github.com/launchdarkly/swift-eventsource/pull/52) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+3. 🎉 Merged PR [#51](https://github.com/launchdarkly/swift-eventsource/pull/51) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+4. ❗️ Closed issue [#281](https://github.com/launchdarkly/ios-client-sdk/issues/281) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 🗣 Commented on [#281](https://github.com/launchdarkly/ios-client-sdk/issues/281) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
