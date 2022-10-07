@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/launchdarkly/swift-eventsource/pull/52) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-2. ❌ Closed PR [#2](https://github.com/launchdarkly-labs/ld-relay-locustfile/pull/2) in [launchdarkly-labs/ld-relay-locustfile](https://github.com/launchdarkly-labs/ld-relay-locustfile)
-3. 💪 Opened PR [#52](https://github.com/launchdarkly/swift-eventsource/pull/52) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-4. 🎉 Merged PR [#51](https://github.com/launchdarkly/swift-eventsource/pull/51) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-5. ❗️ Closed issue [#281](https://github.com/launchdarkly/ios-client-sdk/issues/281) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+1. 🗣 Commented on [#16](https://github.com/launchdarkly/rust-server-sdk/issues/16) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+2. 🎉 Merged PR [#52](https://github.com/launchdarkly/swift-eventsource/pull/52) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+3. ❌ Closed PR [#2](https://github.com/launchdarkly-labs/ld-relay-locustfile/pull/2) in [launchdarkly-labs/ld-relay-locustfile](https://github.com/launchdarkly-labs/ld-relay-locustfile)
+4. 💪 Opened PR [#52](https://github.com/launchdarkly/swift-eventsource/pull/52) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+5. 🎉 Merged PR [#51](https://github.com/launchdarkly/swift-eventsource/pull/51) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
