@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#283](https://github.com/launchdarkly/ios-client-sdk/pull/283) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🗣 Commented on [#16](https://github.com/launchdarkly/rust-server-sdk/issues/16) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-3. 🎉 Merged PR [#52](https://github.com/launchdarkly/swift-eventsource/pull/52) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-4. ❌ Closed PR [#2](https://github.com/launchdarkly-labs/ld-relay-locustfile/pull/2) in [launchdarkly-labs/ld-relay-locustfile](https://github.com/launchdarkly-labs/ld-relay-locustfile)
-5. 💪 Opened PR [#52](https://github.com/launchdarkly/swift-eventsource/pull/52) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+1. 💪 Opened PR [#47](https://github.com/launchdarkly/hello-ios/pull/47) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
+2. 💪 Opened PR [#36](https://github.com/launchdarkly/hello-macos/pull/36) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
+3. 💪 Opened PR [#39](https://github.com/launchdarkly/hello-ios-swift/pull/39) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
+4. 🗣 Commented on [#280](https://github.com/launchdarkly/ios-client-sdk/issues/280) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. ❗️ Closed issue [#280](https://github.com/launchdarkly/ios-client-sdk/issues/280) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
