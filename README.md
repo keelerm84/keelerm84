@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/launchdarkly/ld-relay-helm/pull/10) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-2. 💪 Opened PR [#10](https://github.com/launchdarkly/ld-relay-helm/pull/10) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-3. 🎉 Merged PR [#37](https://github.com/launchdarkly/hello-tvos/pull/37) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
-4. 🎉 Merged PR [#47](https://github.com/launchdarkly/hello-ios/pull/47) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
-5. 🎉 Merged PR [#36](https://github.com/launchdarkly/hello-macos/pull/36) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
+1. 🗣 Commented on [#282](https://github.com/launchdarkly/ios-client-sdk/issues/282) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+2. 🎉 Merged PR [#10](https://github.com/launchdarkly/ld-relay-helm/pull/10) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+3. 💪 Opened PR [#10](https://github.com/launchdarkly/ld-relay-helm/pull/10) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+4. 🎉 Merged PR [#37](https://github.com/launchdarkly/hello-tvos/pull/37) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
+5. 🎉 Merged PR [#47](https://github.com/launchdarkly/hello-ios/pull/47) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
 <!--END_SECTION:activity-->
 
 ### Github Stats
