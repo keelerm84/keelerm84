@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#166](https://github.com/launchdarkly/php-server-sdk/issues/166) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-2. 🗣 Commented on [#4](https://github.com/launchdarkly/hello-rust/issues/4) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
-3. 🎉 Merged PR [#4](https://github.com/launchdarkly/hello-rust/pull/4) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
-4. 🗣 Commented on [#282](https://github.com/launchdarkly/ios-client-sdk/issues/282) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 🎉 Merged PR [#10](https://github.com/launchdarkly/ld-relay-helm/pull/10) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+1. ❗️ Closed issue [#37](https://github.com/launchdarkly/rust-eventsource-client/issues/37) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 🗣 Commented on [#37](https://github.com/launchdarkly/rust-eventsource-client/issues/37) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. 🗣 Commented on [#166](https://github.com/launchdarkly/php-server-sdk/issues/166) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+4. 🗣 Commented on [#4](https://github.com/launchdarkly/hello-rust/issues/4) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
+5. 🎉 Merged PR [#4](https://github.com/launchdarkly/hello-rust/pull/4) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
 <!--END_SECTION:activity-->
 
 ### Github Stats
