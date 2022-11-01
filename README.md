@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#37](https://github.com/launchdarkly/rust-eventsource-client/issues/37) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-2. 🗣 Commented on [#37](https://github.com/launchdarkly/rust-eventsource-client/issues/37) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-3. 🗣 Commented on [#166](https://github.com/launchdarkly/php-server-sdk/issues/166) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-4. 🗣 Commented on [#4](https://github.com/launchdarkly/hello-rust/issues/4) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
-5. 🎉 Merged PR [#4](https://github.com/launchdarkly/hello-rust/pull/4) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
+1. 🎉 Merged PR [#45](https://github.com/launchdarkly/haskell-server-sdk/pull/45) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. 🗣 Commented on [#45](https://github.com/launchdarkly/haskell-server-sdk/issues/45) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+3. ❗️ Closed issue [#37](https://github.com/launchdarkly/rust-eventsource-client/issues/37) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+4. 🗣 Commented on [#37](https://github.com/launchdarkly/rust-eventsource-client/issues/37) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+5. 🗣 Commented on [#166](https://github.com/launchdarkly/php-server-sdk/issues/166) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
