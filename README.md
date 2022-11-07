@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/launchdarkly/rust-eventsource-client/pull/41) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-2. 🎉 Merged PR [#40](https://github.com/launchdarkly/rust-eventsource-client/pull/40) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-3. 🗣 Commented on [#40](https://github.com/launchdarkly/rust-eventsource-client/issues/40) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-4. 💪 Opened PR [#40](https://github.com/launchdarkly/rust-eventsource-client/pull/40) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-5. 🗣 Commented on [#46](https://github.com/launchdarkly/haskell-server-sdk/issues/46) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+1. 🎉 Merged PR [#41](https://github.com/launchdarkly/rust-eventsource-client/pull/41) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 💪 Opened PR [#41](https://github.com/launchdarkly/rust-eventsource-client/pull/41) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. 🎉 Merged PR [#40](https://github.com/launchdarkly/rust-eventsource-client/pull/40) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+4. 🗣 Commented on [#40](https://github.com/launchdarkly/rust-eventsource-client/issues/40) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+5. 💪 Opened PR [#40](https://github.com/launchdarkly/rust-eventsource-client/pull/40) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
 <!--END_SECTION:activity-->
 
 ### Github Stats
