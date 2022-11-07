@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#47](https://github.com/launchdarkly/haskell-server-sdk/pull/47) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-2. 🗣 Commented on [#47](https://github.com/launchdarkly/haskell-server-sdk/issues/47) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-3. 💪 Opened PR [#14](https://github.com/launchdarkly/ld-relay-helm/pull/14) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-4. 💪 Opened PR [#13](https://github.com/launchdarkly/ld-relay-helm/pull/13) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-5. 🎉 Merged PR [#41](https://github.com/launchdarkly/rust-eventsource-client/pull/41) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+1. 🎉 Merged PR [#14](https://github.com/launchdarkly/ld-relay-helm/pull/14) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+2. ❌ Closed PR [#47](https://github.com/launchdarkly/haskell-server-sdk/pull/47) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+3. 🗣 Commented on [#47](https://github.com/launchdarkly/haskell-server-sdk/issues/47) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+4. 💪 Opened PR [#14](https://github.com/launchdarkly/ld-relay-helm/pull/14) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+5. 💪 Opened PR [#13](https://github.com/launchdarkly/ld-relay-helm/pull/13) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
 <!--END_SECTION:activity-->
 
 ### Github Stats
