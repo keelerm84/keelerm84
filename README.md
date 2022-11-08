@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/launchdarkly/hello-ios/pull/48) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
-2. 💪 Opened PR [#48](https://github.com/launchdarkly/hello-ios/pull/48) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
-3. 🎉 Merged PR [#40](https://github.com/launchdarkly/hello-ios-swift/pull/40) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
-4. 🎉 Merged PR [#38](https://github.com/launchdarkly/hello-tvos/pull/38) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
-5. 🎉 Merged PR [#37](https://github.com/launchdarkly/hello-macos/pull/37) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
+1. 🗣 Commented on [#46](https://github.com/launchdarkly/haskell-server-sdk/issues/46) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. ❌ Closed PR [#37](https://github.com/launchdarkly/haskell-server-sdk/pull/37) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+3. 🗣 Commented on [#37](https://github.com/launchdarkly/haskell-server-sdk/issues/37) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+4. 🎉 Merged PR [#48](https://github.com/launchdarkly/hello-ios/pull/48) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
+5. 💪 Opened PR [#48](https://github.com/launchdarkly/hello-ios/pull/48) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
 <!--END_SECTION:activity-->
 
 ### Github Stats
