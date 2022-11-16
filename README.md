@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/launchdarkly/ld-relay-helm/pull/19) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-2. 🎉 Merged PR [#18](https://github.com/launchdarkly/ld-relay-helm/pull/18) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-3. 🎉 Merged PR [#17](https://github.com/launchdarkly/ld-relay-helm/pull/17) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-4. 💪 Opened PR [#18](https://github.com/launchdarkly/ld-relay-helm/pull/18) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-5. 💪 Opened PR [#17](https://github.com/launchdarkly/ld-relay-helm/pull/17) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+1. ❗️ Closed issue [#15](https://github.com/launchdarkly/ld-relay-helm/issues/15) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+2. 🗣 Commented on [#15](https://github.com/launchdarkly/ld-relay-helm/issues/15) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+3. ❗️ Closed issue [#16](https://github.com/launchdarkly/ld-relay-helm/issues/16) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+4. 🗣 Commented on [#16](https://github.com/launchdarkly/ld-relay-helm/issues/16) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+5. 🎉 Merged PR [#19](https://github.com/launchdarkly/ld-relay-helm/pull/19) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
 <!--END_SECTION:activity-->
 
 ### Github Stats
