@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/launchdarkly/hello-tvos/pull/39) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
-2. 🎉 Merged PR [#38](https://github.com/launchdarkly/hello-macos/pull/38) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
-3. 💪 Opened PR [#38](https://github.com/launchdarkly/hello-macos/pull/38) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
-4. 💪 Opened PR [#39](https://github.com/launchdarkly/hello-tvos/pull/39) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
-5. 🎉 Merged PR [#49](https://github.com/launchdarkly/hello-ios/pull/49) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
+1. ❌ Closed PR [#28](https://github.com/launchdarkly/rust-server-sdk/pull/28) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+2. 🗣 Commented on [#28](https://github.com/launchdarkly/rust-server-sdk/issues/28) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+3. 🎉 Merged PR [#39](https://github.com/launchdarkly/hello-tvos/pull/39) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
+4. 🎉 Merged PR [#38](https://github.com/launchdarkly/hello-macos/pull/38) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
+5. 💪 Opened PR [#38](https://github.com/launchdarkly/hello-macos/pull/38) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
 <!--END_SECTION:activity-->
 
 ### Github Stats
