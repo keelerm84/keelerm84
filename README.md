@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/keelerm84/surveydoc/pull/31) in [keelerm84/surveydoc](https://github.com/keelerm84/surveydoc)
-2. 🎉 Merged PR [#32](https://github.com/keelerm84/surveydoc/pull/32) in [keelerm84/surveydoc](https://github.com/keelerm84/surveydoc)
-3. 🗣 Commented on [#274](https://github.com/launchdarkly/ios-client-sdk/issues/274) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. ❗️ Closed issue [#166](https://github.com/launchdarkly/php-server-sdk/issues/166) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-5. 🗣 Commented on [#207](https://github.com/launchdarkly/ld-relay/issues/207) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🎉 Merged PR [#49](https://github.com/launchdarkly/haskell-server-sdk/pull/49) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. 🗣 Commented on [#49](https://github.com/launchdarkly/haskell-server-sdk/issues/49) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+3. 🎉 Merged PR [#31](https://github.com/keelerm84/surveydoc/pull/31) in [keelerm84/surveydoc](https://github.com/keelerm84/surveydoc)
+4. 🎉 Merged PR [#32](https://github.com/keelerm84/surveydoc/pull/32) in [keelerm84/surveydoc](https://github.com/keelerm84/surveydoc)
+5. 🗣 Commented on [#274](https://github.com/launchdarkly/ios-client-sdk/issues/274) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
