@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/launchdarkly/haskell-server-sdk/pull/49) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-2. 🗣 Commented on [#49](https://github.com/launchdarkly/haskell-server-sdk/issues/49) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-3. 🎉 Merged PR [#31](https://github.com/keelerm84/surveydoc/pull/31) in [keelerm84/surveydoc](https://github.com/keelerm84/surveydoc)
-4. 🎉 Merged PR [#32](https://github.com/keelerm84/surveydoc/pull/32) in [keelerm84/surveydoc](https://github.com/keelerm84/surveydoc)
-5. 🗣 Commented on [#274](https://github.com/launchdarkly/ios-client-sdk/issues/274) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+1. 💪 Opened PR [#9](https://github.com/launchdarkly/hello-bootstrap-rails/pull/9) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+2. 🎉 Merged PR [#49](https://github.com/launchdarkly/haskell-server-sdk/pull/49) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+3. 🗣 Commented on [#49](https://github.com/launchdarkly/haskell-server-sdk/issues/49) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+4. 🎉 Merged PR [#31](https://github.com/keelerm84/surveydoc/pull/31) in [keelerm84/surveydoc](https://github.com/keelerm84/surveydoc)
+5. 🎉 Merged PR [#32](https://github.com/keelerm84/surveydoc/pull/32) in [keelerm84/surveydoc](https://github.com/keelerm84/surveydoc)
 <!--END_SECTION:activity-->
 
 ### Github Stats
