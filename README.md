@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#207](https://github.com/launchdarkly/ld-relay/issues/207) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 🗣 Commented on [#207](https://github.com/launchdarkly/ld-relay/issues/207) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 🗣 Commented on [#49](https://github.com/launchdarkly/haskell-server-sdk/issues/49) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-4. 🎉 Merged PR [#9](https://github.com/launchdarkly/hello-ruby/pull/9) in [launchdarkly/hello-ruby](https://github.com/launchdarkly/hello-ruby)
-5. 🎉 Merged PR [#9](https://github.com/launchdarkly/hello-bootstrap-rails/pull/9) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+1. 🗣 Commented on [#20](https://github.com/launchdarkly/ld-relay-helm/issues/20) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+2. 🗣 Commented on [#14](https://github.com/launchdarkly/php-server-sdk-redis-predis/issues/14) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+3. ❗️ Closed issue [#207](https://github.com/launchdarkly/ld-relay/issues/207) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 🗣 Commented on [#207](https://github.com/launchdarkly/ld-relay/issues/207) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 🗣 Commented on [#49](https://github.com/launchdarkly/haskell-server-sdk/issues/49) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
