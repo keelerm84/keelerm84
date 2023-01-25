@@ -44,10 +44,10 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/launchdarkly/php-server-sdk-shared-tests/pull/4) in [launchdarkly/php-server-sdk-shared-tests](https://github.com/launchdarkly/php-server-sdk-shared-tests)
-2. 💪 Opened PR [#4](https://github.com/launchdarkly/php-server-sdk-shared-tests/pull/4) in [launchdarkly/php-server-sdk-shared-tests](https://github.com/launchdarkly/php-server-sdk-shared-tests)
-3. 💪 Opened PR [#15](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/15) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
-4. 🎉 Merged PR [#21](https://github.com/launchdarkly/ld-relay-helm/pull/21) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+1. ❗️ Closed issue [#14](https://github.com/launchdarkly/php-server-sdk-redis-predis/issues/14) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+2. 🗣 Commented on [#14](https://github.com/launchdarkly/php-server-sdk-redis-predis/issues/14) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+3. 🎉 Merged PR [#15](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/15) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+4. ❗️ Closed issue [#20](https://github.com/launchdarkly/ld-relay-helm/issues/20) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
 5. 🗣 Commented on [#20](https://github.com/launchdarkly/ld-relay-helm/issues/20) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
 <!--END_SECTION:activity-->
 
