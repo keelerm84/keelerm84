@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#53](https://github.com/launchdarkly/swift-eventsource/issues/53) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-2. 🗣 Commented on [#53](https://github.com/launchdarkly/swift-eventsource/issues/53) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-3. 🗣 Commented on [#194](https://github.com/launchdarkly/python-server-sdk/issues/194) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. 💪 Opened PR [#10](https://github.com/launchdarkly/hello-haskell-server/pull/10) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
-5. 💪 Opened PR [#125](https://github.com/launchdarkly/sdk-test-harness/pull/125) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 🗣 Commented on [#125](https://github.com/launchdarkly/sdk-test-harness/issues/125) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+2. 💪 Opened PR [#127](https://github.com/launchdarkly/sdk-test-harness/pull/127) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+3. 🗣 Commented on [#204](https://github.com/launchdarkly/ruby-server-sdk/issues/204) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+4. ❗️ Closed issue [#204](https://github.com/launchdarkly/ruby-server-sdk/issues/204) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+5. ❗️ Closed issue [#53](https://github.com/launchdarkly/swift-eventsource/issues/53) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
