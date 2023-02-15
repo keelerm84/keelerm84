@@ -45,10 +45,10 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#46](https://github.com/launchdarkly/rust-eventsource-client/issues/46) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-2. 🗣 Commented on [#31](https://github.com/launchdarkly/rust-server-sdk/issues/31) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-3. ❗️ Closed issue [#194](https://github.com/launchdarkly/python-server-sdk/issues/194) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. 🗣 Commented on [#194](https://github.com/launchdarkly/python-server-sdk/issues/194) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🗣 Commented on [#125](https://github.com/launchdarkly/sdk-test-harness/issues/125) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+2. 🗣 Commented on [#46](https://github.com/launchdarkly/rust-eventsource-client/issues/46) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. 🗣 Commented on [#31](https://github.com/launchdarkly/rust-server-sdk/issues/31) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+4. ❗️ Closed issue [#194](https://github.com/launchdarkly/python-server-sdk/issues/194) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. 🗣 Commented on [#194](https://github.com/launchdarkly/python-server-sdk/issues/194) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
