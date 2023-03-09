@@ -44,10 +44,10 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/7) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
-2. 🎉 Merged PR [#10](https://github.com/launchdarkly/hello-haskell-server/pull/10) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
-3. 🗣 Commented on [#31](https://github.com/launchdarkly/rust-server-sdk/issues/31) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-4. 🗣 Commented on [#46](https://github.com/launchdarkly/rust-eventsource-client/issues/46) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+1. 🗣 Commented on [#36](https://github.com/launchdarkly/ruby-eventsource/issues/36) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+2. 🎉 Merged PR [#7](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/7) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
+3. 🎉 Merged PR [#10](https://github.com/launchdarkly/hello-haskell-server/pull/10) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
+4. 🗣 Commented on [#31](https://github.com/launchdarkly/rust-server-sdk/issues/31) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
 5. 🗣 Commented on [#46](https://github.com/launchdarkly/rust-eventsource-client/issues/46) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
 <!--END_SECTION:activity-->
 
