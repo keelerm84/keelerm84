@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/launchdarkly/ruby-eventsource/pull/36) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-2. 🗣 Commented on [#35](https://github.com/launchdarkly/ruby-eventsource/issues/35) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-3. ❗️ Closed issue [#35](https://github.com/launchdarkly/ruby-eventsource/issues/35) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-4. 🗣 Commented on [#36](https://github.com/launchdarkly/ruby-eventsource/issues/36) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-5. 🎉 Merged PR [#7](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/7) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
+1. 🗣 Commented on [#54](https://github.com/launchdarkly/swift-eventsource/issues/54) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+2. 🎉 Merged PR [#197](https://github.com/launchdarkly/python-server-sdk/pull/197) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+3. 💪 Opened PR [#197](https://github.com/launchdarkly/python-server-sdk/pull/197) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 🎉 Merged PR [#36](https://github.com/launchdarkly/ruby-eventsource/pull/36) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+5. 🗣 Commented on [#35](https://github.com/launchdarkly/ruby-eventsource/issues/35) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
