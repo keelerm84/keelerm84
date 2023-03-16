@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#38](https://github.com/launchdarkly/ruby-eventsource/issues/38) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-2. 🗣 Commented on [#38](https://github.com/launchdarkly/ruby-eventsource/issues/38) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-3. 🎉 Merged PR [#39](https://github.com/launchdarkly/ruby-eventsource/pull/39) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-4. 🗣 Commented on [#38](https://github.com/launchdarkly/ruby-eventsource/issues/38) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-5. 🗣 Commented on [#36](https://github.com/launchdarkly/ruby-eventsource/issues/36) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+1. 💪 Opened PR [#8](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/8) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
+2. ❗️ Closed issue [#38](https://github.com/launchdarkly/ruby-eventsource/issues/38) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+3. 🗣 Commented on [#38](https://github.com/launchdarkly/ruby-eventsource/issues/38) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+4. 🎉 Merged PR [#39](https://github.com/launchdarkly/ruby-eventsource/pull/39) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+5. 🗣 Commented on [#38](https://github.com/launchdarkly/ruby-eventsource/issues/38) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
