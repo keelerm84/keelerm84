@@ -44,10 +44,10 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/8) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
-2. ❗️ Closed issue [#38](https://github.com/launchdarkly/ruby-eventsource/issues/38) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-3. 🗣 Commented on [#38](https://github.com/launchdarkly/ruby-eventsource/issues/38) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-4. 🎉 Merged PR [#39](https://github.com/launchdarkly/ruby-eventsource/pull/39) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+1. 🎉 Merged PR [#8](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/8) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
+2. 🗣 Commented on [#289](https://github.com/launchdarkly/ios-client-sdk/issues/289) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+3. 💪 Opened PR [#8](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/8) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
+4. ❗️ Closed issue [#38](https://github.com/launchdarkly/ruby-eventsource/issues/38) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
 5. 🗣 Commented on [#38](https://github.com/launchdarkly/ruby-eventsource/issues/38) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
 <!--END_SECTION:activity-->
 
