@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#212](https://github.com/launchdarkly/ruby-server-sdk/issues/212) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-2. 🎉 Merged PR [#8](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/8) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
-3. 🗣 Commented on [#289](https://github.com/launchdarkly/ios-client-sdk/issues/289) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 💪 Opened PR [#8](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/8) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
-5. ❗️ Closed issue [#38](https://github.com/launchdarkly/ruby-eventsource/issues/38) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+1. 🗣 Commented on [#210](https://github.com/launchdarkly/ruby-server-sdk/issues/210) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+2. 🗣 Commented on [#212](https://github.com/launchdarkly/ruby-server-sdk/issues/212) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+3. 🎉 Merged PR [#8](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/8) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
+4. 🗣 Commented on [#289](https://github.com/launchdarkly/ios-client-sdk/issues/289) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 💪 Opened PR [#8](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/8) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
 <!--END_SECTION:activity-->
 
 ### Github Stats
