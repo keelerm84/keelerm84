@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#129](https://github.com/launchdarkly/sdk-test-harness/pull/129) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-2. 🗣 Commented on [#210](https://github.com/launchdarkly/ruby-server-sdk/issues/210) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-3. 🗣 Commented on [#212](https://github.com/launchdarkly/ruby-server-sdk/issues/212) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-4. 🎉 Merged PR [#8](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/8) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
-5. 🗣 Commented on [#289](https://github.com/launchdarkly/ios-client-sdk/issues/289) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+1. 💪 Opened PR [#27](https://github.com/launchdarkly/ld-relay-helm/pull/27) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+2. 🗣 Commented on [#26](https://github.com/launchdarkly/ld-relay-helm/issues/26) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+3. 💪 Opened PR [#129](https://github.com/launchdarkly/sdk-test-harness/pull/129) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+4. 🗣 Commented on [#210](https://github.com/launchdarkly/ruby-server-sdk/issues/210) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+5. 🗣 Commented on [#212](https://github.com/launchdarkly/ruby-server-sdk/issues/212) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
