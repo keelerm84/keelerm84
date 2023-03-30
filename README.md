@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#129](https://github.com/launchdarkly/sdk-test-harness/pull/129) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-2. ❗️ Closed issue [#26](https://github.com/launchdarkly/ld-relay-helm/issues/26) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-3. 🗣 Commented on [#26](https://github.com/launchdarkly/ld-relay-helm/issues/26) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-4. 🗣 Commented on [#49](https://github.com/launchdarkly/rust-eventsource-client/issues/49) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-5. 🎉 Merged PR [#28](https://github.com/launchdarkly/ld-relay-helm/pull/28) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+1. 🗣 Commented on [#49](https://github.com/launchdarkly/rust-eventsource-client/issues/49) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. ❌ Closed PR [#129](https://github.com/launchdarkly/sdk-test-harness/pull/129) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+3. ❗️ Closed issue [#26](https://github.com/launchdarkly/ld-relay-helm/issues/26) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+4. 🗣 Commented on [#26](https://github.com/launchdarkly/ld-relay-helm/issues/26) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+5. 🗣 Commented on [#49](https://github.com/launchdarkly/rust-eventsource-client/issues/49) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
 <!--END_SECTION:activity-->
 
 ### Github Stats
