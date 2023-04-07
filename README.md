@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/launchdarkly/openfeature-java-server/pull/13) in [launchdarkly/openfeature-java-server](https://github.com/launchdarkly/openfeature-java-server)
-2. 🎉 Merged PR [#131](https://github.com/launchdarkly/sdk-test-harness/pull/131) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 🗣 Commented on [#29](https://github.com/launchdarkly/ld-relay-helm/issues/29) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-4. ❗️ Closed issue [#29](https://github.com/launchdarkly/ld-relay-helm/issues/29) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-5. 🗣 Commented on [#30](https://github.com/launchdarkly/ld-relay-helm/issues/30) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+1. 🎉 Merged PR [#13](https://github.com/launchdarkly/openfeature-java-server/pull/13) in [launchdarkly/openfeature-java-server](https://github.com/launchdarkly/openfeature-java-server)
+2. 💪 Opened PR [#13](https://github.com/launchdarkly/openfeature-java-server/pull/13) in [launchdarkly/openfeature-java-server](https://github.com/launchdarkly/openfeature-java-server)
+3. 🎉 Merged PR [#131](https://github.com/launchdarkly/sdk-test-harness/pull/131) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+4. 🗣 Commented on [#29](https://github.com/launchdarkly/ld-relay-helm/issues/29) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+5. ❗️ Closed issue [#29](https://github.com/launchdarkly/ld-relay-helm/issues/29) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
 <!--END_SECTION:activity-->
 
 ### Github Stats
