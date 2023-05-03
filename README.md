@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#205](https://github.com/launchdarkly/python-server-sdk/pull/205) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. 🎉 Merged PR [#204](https://github.com/launchdarkly/python-server-sdk/pull/204) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 🎉 Merged PR [#37](https://github.com/launchdarkly/rust-server-sdk/pull/37) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-4. 💪 Opened PR [#37](https://github.com/launchdarkly/rust-server-sdk/pull/37) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-5. 🗣 Commented on [#206](https://github.com/launchdarkly/python-server-sdk/issues/206) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🗣 Commented on [#206](https://github.com/launchdarkly/python-server-sdk/issues/206) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+2. 🎉 Merged PR [#205](https://github.com/launchdarkly/python-server-sdk/pull/205) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+3. 🎉 Merged PR [#204](https://github.com/launchdarkly/python-server-sdk/pull/204) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 🎉 Merged PR [#37](https://github.com/launchdarkly/rust-server-sdk/pull/37) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+5. 💪 Opened PR [#37](https://github.com/launchdarkly/rust-server-sdk/pull/37) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
