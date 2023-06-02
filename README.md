@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#210](https://github.com/launchdarkly/python-server-sdk/issues/210) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. 🗣 Commented on [#210](https://github.com/launchdarkly/python-server-sdk/issues/210) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 💪 Opened PR [#57](https://github.com/launchdarkly/swift-eventsource/pull/57) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-4. 🎉 Merged PR [#56](https://github.com/launchdarkly/swift-eventsource/pull/56) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-5. 🗣 Commented on [#210](https://github.com/launchdarkly/python-server-sdk/issues/210) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🎉 Merged PR [#57](https://github.com/launchdarkly/swift-eventsource/pull/57) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+2. 🔒 Closed issue [#210](https://github.com/launchdarkly/python-server-sdk/issues/210) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+3. 🗣 Commented on [#210](https://github.com/launchdarkly/python-server-sdk/issues/210) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 💪 Opened PR [#57](https://github.com/launchdarkly/swift-eventsource/pull/57) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+5. 🎉 Merged PR [#56](https://github.com/launchdarkly/swift-eventsource/pull/56) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
