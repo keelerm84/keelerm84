@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/launchdarkly/ruby-server-sdk/issues/220) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-2. 🗣 Commented on [#220](https://github.com/launchdarkly/ruby-server-sdk/issues/220) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-3. 🎉 Merged PR [#57](https://github.com/launchdarkly/swift-eventsource/pull/57) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-4. 🔒 Closed issue [#210](https://github.com/launchdarkly/python-server-sdk/issues/210) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🗣 Commented on [#210](https://github.com/launchdarkly/python-server-sdk/issues/210) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🚀 Published release [[3.1.0] - 2023-06-05](https://github.com/[3.1.0] - 2023-06-05) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+2. 🎉 Merged PR [#58](https://github.com/launchdarkly/swift-eventsource/pull/58) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+3. 💪 Opened PR [#58](https://github.com/launchdarkly/swift-eventsource/pull/58) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+4. 🗣 Commented on [#220](https://github.com/launchdarkly/ruby-server-sdk/issues/220) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+5. 🗣 Commented on [#220](https://github.com/launchdarkly/ruby-server-sdk/issues/220) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
