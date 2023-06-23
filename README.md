@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/launchdarkly/rust-server-sdk/issues/43) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-2. 🎉 Merged PR [#136](https://github.com/launchdarkly/sdk-test-harness/pull/136) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 🗣 Commented on [#50](https://github.com/launchdarkly/swift-eventsource/issues/50) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-4. 🔒 Closed issue [#50](https://github.com/launchdarkly/swift-eventsource/issues/50) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-5. 🚀 Published release [[3.1.1] - 2023-06-12](https://github.com/[3.1.1] - 2023-06-12) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+1. ❌ Closed PR [#44](https://github.com/launchdarkly/rust-server-sdk/pull/44) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+2. 🗣 Commented on [#43](https://github.com/launchdarkly/ld-relay-helm/issues/43) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+3. 🗣 Commented on [#42](https://github.com/launchdarkly/ld-relay-helm/issues/42) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+4. 🗣 Commented on [#43](https://github.com/launchdarkly/rust-server-sdk/issues/43) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+5. 🎉 Merged PR [#136](https://github.com/launchdarkly/sdk-test-harness/pull/136) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
 <!--END_SECTION:activity-->
 
 ### Github Stats
