@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/launchdarkly/ld-relay-helm/issues/45) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-2. 🗣 Commented on [#44](https://github.com/launchdarkly/ld-relay-helm/issues/44) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+1. 🗣 Commented on [#44](https://github.com/launchdarkly/ld-relay-helm/issues/44) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+2. 🔒 Closed issue [#44](https://github.com/launchdarkly/ld-relay-helm/issues/44) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
 3. 🗣 Commented on [#45](https://github.com/launchdarkly/ld-relay-helm/issues/45) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-4. 🔒 Closed issue [#43](https://github.com/launchdarkly/rust-server-sdk/issues/43) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-5. 🗣 Commented on [#43](https://github.com/launchdarkly/rust-server-sdk/issues/43) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+4. 🗣 Commented on [#45](https://github.com/launchdarkly/ld-relay-helm/issues/45) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+5. 🗣 Commented on [#44](https://github.com/launchdarkly/ld-relay-helm/issues/44) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
 <!--END_SECTION:activity-->
 
 ### Github Stats
