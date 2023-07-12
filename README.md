@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/keelerm84/surveydoc/pull/34) in [keelerm84/surveydoc](https://github.com/keelerm84/surveydoc)
-2. 🎉 Merged PR [#177](https://github.com/launchdarkly/php-server-sdk/pull/177) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-3. 🎉 Merged PR [#179](https://github.com/launchdarkly/php-server-sdk/pull/179) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-4. 🗣 Commented on [#44](https://github.com/launchdarkly/ld-relay-helm/issues/44) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-5. 🔒 Closed issue [#44](https://github.com/launchdarkly/ld-relay-helm/issues/44) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+1. 🔒 Closed issue [#31](https://github.com/launchdarkly/rust-server-sdk/issues/31) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+2. 🗣 Commented on [#31](https://github.com/launchdarkly/rust-server-sdk/issues/31) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+3. 🗣 Commented on [#54](https://github.com/launchdarkly/rust-eventsource-client/issues/54) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+4. 🎉 Merged PR [#34](https://github.com/keelerm84/surveydoc/pull/34) in [keelerm84/surveydoc](https://github.com/keelerm84/surveydoc)
+5. 🎉 Merged PR [#177](https://github.com/launchdarkly/php-server-sdk/pull/177) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
