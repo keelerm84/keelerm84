@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#59](https://github.com/launchdarkly/haskell-server-sdk/pull/59) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-2. 🗣 Commented on [#59](https://github.com/launchdarkly/haskell-server-sdk/pull/59#issuecomment-1688304399) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-3. 💪 Opened PR [#61](https://github.com/launchdarkly/haskell-server-sdk/pull/61) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-4. 🗣 Commented on [#60](https://github.com/launchdarkly/haskell-server-sdk/issues/60#issuecomment-1686761165) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-5. 🗣 Commented on [#59](https://github.com/launchdarkly/haskell-server-sdk/pull/59#issuecomment-1686740561) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+1. 🔒 Closed issue [#60](https://github.com/launchdarkly/haskell-server-sdk/issues/60) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. 🗣 Commented on [#60](https://github.com/launchdarkly/haskell-server-sdk/issues/60#issuecomment-1688951707) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+3. 🎉 Merged PR [#61](https://github.com/launchdarkly/haskell-server-sdk/pull/61) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+4. ❌ Closed PR [#59](https://github.com/launchdarkly/haskell-server-sdk/pull/59) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+5. 🗣 Commented on [#59](https://github.com/launchdarkly/haskell-server-sdk/pull/59#issuecomment-1688304399) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
