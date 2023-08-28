@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#153](https://github.com/launchdarkly/sdk-test-harness/pull/153) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-2. 💪 Opened PR [#151](https://github.com/launchdarkly/sdk-test-harness/pull/151) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 🔒 Closed issue [#60](https://github.com/launchdarkly/haskell-server-sdk/issues/60) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-4. 🗣 Commented on [#60](https://github.com/launchdarkly/haskell-server-sdk/issues/60#issuecomment-1688951707) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-5. 🎉 Merged PR [#61](https://github.com/launchdarkly/haskell-server-sdk/pull/61) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+1. 🗣 Commented on [#224](https://github.com/launchdarkly/ruby-server-sdk/issues/224#issuecomment-1695961230) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+2. 💪 Opened PR [#153](https://github.com/launchdarkly/sdk-test-harness/pull/153) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+3. 💪 Opened PR [#151](https://github.com/launchdarkly/sdk-test-harness/pull/151) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+4. 🔒 Closed issue [#60](https://github.com/launchdarkly/haskell-server-sdk/issues/60) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+5. 🗣 Commented on [#60](https://github.com/launchdarkly/haskell-server-sdk/issues/60#issuecomment-1688951707) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
