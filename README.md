@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#158](https://github.com/launchdarkly/sdk-test-harness/pull/158) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-2. 🗣 Commented on [#219](https://github.com/launchdarkly/python-server-sdk/pull/219#issuecomment-1701551540) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 🎉 Merged PR [#157](https://github.com/launchdarkly/sdk-test-harness/pull/157) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 🎉 Merged PR [#156](https://github.com/launchdarkly/sdk-test-harness/pull/156) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-5. 🎉 Merged PR [#153](https://github.com/launchdarkly/sdk-test-harness/pull/153) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 💪 Opened PR [#16](https://github.com/launchdarkly/go-server-sdk-redis-go-redis/pull/16) in [launchdarkly/go-server-sdk-redis-go-redis](https://github.com/launchdarkly/go-server-sdk-redis-go-redis)
+2. 💪 Opened PR [#24](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/24) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+3. 💪 Opened PR [#19](https://github.com/launchdarkly/go-server-sdk-consul/pull/19) in [launchdarkly/go-server-sdk-consul](https://github.com/launchdarkly/go-server-sdk-consul)
+4. 💪 Opened PR [#21](https://github.com/launchdarkly/go-server-sdk-dynamodb/pull/21) in [launchdarkly/go-server-sdk-dynamodb](https://github.com/launchdarkly/go-server-sdk-dynamodb)
+5. 🎉 Merged PR [#158](https://github.com/launchdarkly/sdk-test-harness/pull/158) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
 <!--END_SECTION:activity-->
 
 ### Github Stats
