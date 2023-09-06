@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#219](https://github.com/launchdarkly/python-server-sdk/pull/219) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. 💪 Opened PR [#16](https://github.com/launchdarkly/go-server-sdk-redis-go-redis/pull/16) in [launchdarkly/go-server-sdk-redis-go-redis](https://github.com/launchdarkly/go-server-sdk-redis-go-redis)
-3. 💪 Opened PR [#24](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/24) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
-4. 💪 Opened PR [#19](https://github.com/launchdarkly/go-server-sdk-consul/pull/19) in [launchdarkly/go-server-sdk-consul](https://github.com/launchdarkly/go-server-sdk-consul)
-5. 💪 Opened PR [#21](https://github.com/launchdarkly/go-server-sdk-dynamodb/pull/21) in [launchdarkly/go-server-sdk-dynamodb](https://github.com/launchdarkly/go-server-sdk-dynamodb)
+1. 🎉 Merged PR [#19](https://github.com/launchdarkly/go-server-sdk-consul/pull/19) in [launchdarkly/go-server-sdk-consul](https://github.com/launchdarkly/go-server-sdk-consul)
+2. 🎉 Merged PR [#21](https://github.com/launchdarkly/go-server-sdk-dynamodb/pull/21) in [launchdarkly/go-server-sdk-dynamodb](https://github.com/launchdarkly/go-server-sdk-dynamodb)
+3. 🎉 Merged PR [#24](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/24) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+4. 🎉 Merged PR [#219](https://github.com/launchdarkly/python-server-sdk/pull/219) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. 💪 Opened PR [#16](https://github.com/launchdarkly/go-server-sdk-redis-go-redis/pull/16) in [launchdarkly/go-server-sdk-redis-go-redis](https://github.com/launchdarkly/go-server-sdk-redis-go-redis)
 <!--END_SECTION:activity-->
 
 ### Github Stats
