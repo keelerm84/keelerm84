@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#310](https://github.com/launchdarkly/ios-client-sdk/pull/310) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🎉 Merged PR [#50](https://github.com/launchdarkly/rust-server-sdk/pull/50) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-3. 🎉 Merged PR [#181](https://github.com/launchdarkly/php-server-sdk/pull/181) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-4. 🎉 Merged PR [#5](https://github.com/launchdarkly/hello-openfeature-php-server/pull/5) in [launchdarkly/hello-openfeature-php-server](https://github.com/launchdarkly/hello-openfeature-php-server)
-5. 🎉 Merged PR [#15](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/15) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
+1. 🎉 Merged PR [#9](https://github.com/launchdarkly/openfeature-php-server/pull/9) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
+2. 🎉 Merged PR [#310](https://github.com/launchdarkly/ios-client-sdk/pull/310) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+3. 🎉 Merged PR [#50](https://github.com/launchdarkly/rust-server-sdk/pull/50) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+4. 🎉 Merged PR [#181](https://github.com/launchdarkly/php-server-sdk/pull/181) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+5. 🎉 Merged PR [#5](https://github.com/launchdarkly/hello-openfeature-php-server/pull/5) in [launchdarkly/hello-openfeature-php-server](https://github.com/launchdarkly/hello-openfeature-php-server)
 <!--END_SECTION:activity-->
 
 ### Github Stats
