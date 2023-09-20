@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#181](https://github.com/launchdarkly/php-server-sdk/pull/181) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-2. 💪 Opened PR [#9](https://github.com/launchdarkly/openfeature-php-server/pull/9) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
-3. 💪 Opened PR [#5](https://github.com/launchdarkly/hello-openfeature-php-server/pull/5) in [launchdarkly/hello-openfeature-php-server](https://github.com/launchdarkly/hello-openfeature-php-server)
-4. 💪 Opened PR [#15](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/15) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
-5. 💪 Opened PR [#19](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/19) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+1. 🎉 Merged PR [#18](https://github.com/launchdarkly/php-server-sdk-consul/pull/18) in [launchdarkly/php-server-sdk-consul](https://github.com/launchdarkly/php-server-sdk-consul)
+2. 🎉 Merged PR [#15](https://github.com/launchdarkly/php-server-sdk-dynamodb/pull/15) in [launchdarkly/php-server-sdk-dynamodb](https://github.com/launchdarkly/php-server-sdk-dynamodb)
+3. 🎉 Merged PR [#8](https://github.com/launchdarkly/php-server-sdk-shared-tests/pull/8) in [launchdarkly/php-server-sdk-shared-tests](https://github.com/launchdarkly/php-server-sdk-shared-tests)
+4. 💪 Opened PR [#310](https://github.com/launchdarkly/ios-client-sdk/pull/310) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 💪 Opened PR [#67](https://github.com/launchdarkly/swift-eventsource/pull/67) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
