@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/launchdarkly/rust-eventsource-client/pull/57) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-2. 🎉 Merged PR [#12](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/12) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
-3. 🎉 Merged PR [#9](https://github.com/launchdarkly/openfeature-php-server/pull/9) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
-4. 🎉 Merged PR [#310](https://github.com/launchdarkly/ios-client-sdk/pull/310) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 🎉 Merged PR [#50](https://github.com/launchdarkly/rust-server-sdk/pull/50) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+1. 🎉 Merged PR [#57](https://github.com/launchdarkly/rust-eventsource-client/pull/57) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 💪 Opened PR [#57](https://github.com/launchdarkly/rust-eventsource-client/pull/57) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. 🎉 Merged PR [#12](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/12) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
+4. 🎉 Merged PR [#9](https://github.com/launchdarkly/openfeature-php-server/pull/9) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
+5. 🎉 Merged PR [#310](https://github.com/launchdarkly/ios-client-sdk/pull/310) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
