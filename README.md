@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/launchdarkly/rust-eventsource-client/pull/56) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-2. 🎉 Merged PR [#57](https://github.com/launchdarkly/rust-eventsource-client/pull/57) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-3. 💪 Opened PR [#57](https://github.com/launchdarkly/rust-eventsource-client/pull/57) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-4. 🎉 Merged PR [#12](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/12) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
-5. 🎉 Merged PR [#9](https://github.com/launchdarkly/openfeature-php-server/pull/9) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
+1. 🗣 Commented on [#68](https://github.com/launchdarkly/swift-eventsource/pull/68#issuecomment-1735533868) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+2. 🎉 Merged PR [#56](https://github.com/launchdarkly/rust-eventsource-client/pull/56) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. 🎉 Merged PR [#57](https://github.com/launchdarkly/rust-eventsource-client/pull/57) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+4. 💪 Opened PR [#57](https://github.com/launchdarkly/rust-eventsource-client/pull/57) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+5. 🎉 Merged PR [#12](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/12) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
 <!--END_SECTION:activity-->
 
 ### Github Stats
