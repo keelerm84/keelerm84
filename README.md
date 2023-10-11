@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/launchdarkly/go-server-sdk-evaluation/pull/31) in [launchdarkly/go-server-sdk-evaluation](https://github.com/launchdarkly/go-server-sdk-evaluation)
-2. 💪 Opened PR [#17](https://github.com/launchdarkly/go-sdk-events/pull/17) in [launchdarkly/go-sdk-events](https://github.com/launchdarkly/go-sdk-events)
-3. 🗣 Commented on [#223](https://github.com/launchdarkly/python-server-sdk/issues/223#issuecomment-1755712817) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. 🎉 Merged PR [#67](https://github.com/launchdarkly/swift-eventsource/pull/67) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-5. 🎉 Merged PR [#70](https://github.com/launchdarkly/swift-eventsource/pull/70) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+1. 💪 Opened PR [#99](https://github.com/launchdarkly/go-server-sdk/pull/99) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+2. 🎉 Merged PR [#31](https://github.com/launchdarkly/go-server-sdk-evaluation/pull/31) in [launchdarkly/go-server-sdk-evaluation](https://github.com/launchdarkly/go-server-sdk-evaluation)
+3. 🎉 Merged PR [#17](https://github.com/launchdarkly/go-sdk-events/pull/17) in [launchdarkly/go-sdk-events](https://github.com/launchdarkly/go-sdk-events)
+4. 💪 Opened PR [#31](https://github.com/launchdarkly/go-server-sdk-evaluation/pull/31) in [launchdarkly/go-server-sdk-evaluation](https://github.com/launchdarkly/go-server-sdk-evaluation)
+5. 💪 Opened PR [#17](https://github.com/launchdarkly/go-sdk-events/pull/17) in [launchdarkly/go-sdk-events](https://github.com/launchdarkly/go-sdk-events)
 <!--END_SECTION:activity-->
 
 ### Github Stats
