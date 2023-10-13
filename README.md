@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/launchdarkly/hello-go/pull/10) in [launchdarkly/hello-go](https://github.com/launchdarkly/hello-go)
-2. 💪 Opened PR [#166](https://github.com/launchdarkly/sdk-test-harness/pull/166) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 💪 Opened PR [#165](https://github.com/launchdarkly/sdk-test-harness/pull/165) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 🎉 Merged PR [#27](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/27) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
-5. 💪 Opened PR [#27](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/27) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+1. 🎉 Merged PR [#167](https://github.com/launchdarkly/sdk-test-harness/pull/167) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+2. 💪 Opened PR [#167](https://github.com/launchdarkly/sdk-test-harness/pull/167) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+3. 🎉 Merged PR [#166](https://github.com/launchdarkly/sdk-test-harness/pull/166) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+4. 🎉 Merged PR [#165](https://github.com/launchdarkly/sdk-test-harness/pull/165) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. 🎉 Merged PR [#10](https://github.com/launchdarkly/hello-go/pull/10) in [launchdarkly/hello-go](https://github.com/launchdarkly/hello-go)
 <!--END_SECTION:activity-->
 
 ### Github Stats
