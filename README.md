@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/launchdarkly/hello-python/pull/15) in [launchdarkly/hello-python](https://github.com/launchdarkly/hello-python)
-2. 💪 Opened PR [#11](https://github.com/launchdarkly/hello-bootstrap-rails/pull/11) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-3. 💪 Opened PR [#15](https://github.com/launchdarkly/hello-python/pull/15) in [launchdarkly/hello-python](https://github.com/launchdarkly/hello-python)
-4. 💪 Opened PR [#10](https://github.com/launchdarkly/hello-ruby/pull/10) in [launchdarkly/hello-ruby](https://github.com/launchdarkly/hello-ruby)
-5. 🎉 Merged PR [#226](https://github.com/launchdarkly/python-server-sdk/pull/226) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🎉 Merged PR [#10](https://github.com/launchdarkly/hello-ruby/pull/10) in [launchdarkly/hello-ruby](https://github.com/launchdarkly/hello-ruby)
+2. 🎉 Merged PR [#11](https://github.com/launchdarkly/hello-bootstrap-rails/pull/11) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+3. 🎉 Merged PR [#15](https://github.com/launchdarkly/hello-python/pull/15) in [launchdarkly/hello-python](https://github.com/launchdarkly/hello-python)
+4. 💪 Opened PR [#11](https://github.com/launchdarkly/hello-bootstrap-rails/pull/11) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+5. 💪 Opened PR [#15](https://github.com/launchdarkly/hello-python/pull/15) in [launchdarkly/hello-python](https://github.com/launchdarkly/hello-python)
 <!--END_SECTION:activity-->
 
 ### Github Stats
