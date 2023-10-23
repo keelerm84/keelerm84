@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/launchdarkly/swift-eventsource/pull/68) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-2. 🗣 Commented on [#68](https://github.com/launchdarkly/swift-eventsource/pull/68#issuecomment-1775412191) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-3. 🗣 Commented on [#22](https://github.com/compnerd/gha-setup-swift/pull/22#issuecomment-1775383650) in [compnerd/gha-setup-swift](https://github.com/compnerd/gha-setup-swift)
-4. 🔒 Closed issue [#224](https://github.com/launchdarkly/python-server-sdk/issues/224) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🗣 Commented on [#224](https://github.com/launchdarkly/python-server-sdk/issues/224#issuecomment-1775371415) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🎉 Merged PR [#170](https://github.com/launchdarkly/sdk-test-harness/pull/170) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+2. 💪 Opened PR [#170](https://github.com/launchdarkly/sdk-test-harness/pull/170) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+3. 🎉 Merged PR [#68](https://github.com/launchdarkly/swift-eventsource/pull/68) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+4. 🗣 Commented on [#68](https://github.com/launchdarkly/swift-eventsource/pull/68#issuecomment-1775412191) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+5. 🗣 Commented on [#22](https://github.com/compnerd/gha-setup-swift/pull/22#issuecomment-1775383650) in [compnerd/gha-setup-swift](https://github.com/compnerd/gha-setup-swift)
 <!--END_SECTION:activity-->
 
 ### Github Stats
