@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/launchdarkly/gha-flags/pull/47) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
-2. 🎉 Merged PR [#52](https://github.com/launchdarkly/ld-relay-helm/pull/52) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-3. 🎉 Merged PR [#51](https://github.com/launchdarkly/ld-relay-helm/pull/51) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-4. 🗣 Commented on [#51](https://github.com/launchdarkly/ld-relay-helm/pull/51#issuecomment-1779754649) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-5. 🎉 Merged PR [#20](https://github.com/launchdarkly/php-server-sdk-consul/pull/20) in [launchdarkly/php-server-sdk-consul](https://github.com/launchdarkly/php-server-sdk-consul)
+1. 🔒 Closed issue [#50](https://github.com/launchdarkly/ld-relay-helm/issues/50) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+2. 🗣 Commented on [#50](https://github.com/launchdarkly/ld-relay-helm/issues/50#issuecomment-1779825207) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+3. 💪 Opened PR [#48](https://github.com/launchdarkly/gha-flags/pull/48) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+4. 💪 Opened PR [#47](https://github.com/launchdarkly/gha-flags/pull/47) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+5. 🎉 Merged PR [#52](https://github.com/launchdarkly/ld-relay-helm/pull/52) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
 <!--END_SECTION:activity-->
 
 ### Github Stats
