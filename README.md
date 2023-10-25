@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/20) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
-2. 🗣 Commented on [#50](https://github.com/launchdarkly/ld-relay-helm/issues/50#issuecomment-1778031031) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-3. 🎉 Merged PR [#16](https://github.com/launchdarkly/php-server-sdk-dynamodb/pull/16) in [launchdarkly/php-server-sdk-dynamodb](https://github.com/launchdarkly/php-server-sdk-dynamodb)
-4. 🎉 Merged PR [#19](https://github.com/launchdarkly/php-server-sdk-consul/pull/19) in [launchdarkly/php-server-sdk-consul](https://github.com/launchdarkly/php-server-sdk-consul)
-5. 🎉 Merged PR [#184](https://github.com/launchdarkly/php-server-sdk/pull/184) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+1. 💪 Opened PR [#51](https://github.com/launchdarkly/ld-relay-helm/pull/51) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+2. 💪 Opened PR [#20](https://github.com/launchdarkly/php-server-sdk-consul/pull/20) in [launchdarkly/php-server-sdk-consul](https://github.com/launchdarkly/php-server-sdk-consul)
+3. 🎉 Merged PR [#20](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/20) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+4. 🗣 Commented on [#50](https://github.com/launchdarkly/ld-relay-helm/issues/50#issuecomment-1778031031) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+5. 🎉 Merged PR [#16](https://github.com/launchdarkly/php-server-sdk-dynamodb/pull/16) in [launchdarkly/php-server-sdk-dynamodb](https://github.com/launchdarkly/php-server-sdk-dynamodb)
 <!--END_SECTION:activity-->
 
 ### Github Stats
