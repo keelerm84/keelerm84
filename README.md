@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/launchdarkly/gha-flags/pull/50#issuecomment-1781742025) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
-2. 💪 Opened PR [#50](https://github.com/launchdarkly/gha-flags/pull/50) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
-3. 🎉 Merged PR [#47](https://github.com/launchdarkly/gha-flags/pull/47) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
-4. 🔒 Closed issue [#62](https://github.com/launchdarkly/haskell-server-sdk/issues/62) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-5. 🗣 Commented on [#62](https://github.com/launchdarkly/haskell-server-sdk/issues/62#issuecomment-1781509778) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+1. 🎉 Merged PR [#50](https://github.com/launchdarkly/gha-flags/pull/50) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+2. 🎉 Merged PR [#49](https://github.com/launchdarkly/gha-flags/pull/49) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+3. 🎉 Merged PR [#48](https://github.com/launchdarkly/gha-flags/pull/48) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+4. 🗣 Commented on [#50](https://github.com/launchdarkly/gha-flags/pull/50#issuecomment-1781742025) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+5. 💪 Opened PR [#50](https://github.com/launchdarkly/gha-flags/pull/50) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
 <!--END_SECTION:activity-->
 
 ### Github Stats
