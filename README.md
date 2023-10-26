@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/launchdarkly/ld-relay-helm/issues/50#issuecomment-1781267222) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-2. 💪 Opened PR [#49](https://github.com/launchdarkly/gha-flags/pull/49) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
-3. 🔒 Closed issue [#50](https://github.com/launchdarkly/ld-relay-helm/issues/50) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-4. 🗣 Commented on [#50](https://github.com/launchdarkly/ld-relay-helm/issues/50#issuecomment-1779825207) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-5. 💪 Opened PR [#48](https://github.com/launchdarkly/gha-flags/pull/48) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+1. 🔒 Closed issue [#62](https://github.com/launchdarkly/haskell-server-sdk/issues/62) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. 🗣 Commented on [#62](https://github.com/launchdarkly/haskell-server-sdk/issues/62#issuecomment-1781509778) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+3. 🗣 Commented on [#50](https://github.com/launchdarkly/ld-relay-helm/issues/50#issuecomment-1781267222) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+4. 💪 Opened PR [#49](https://github.com/launchdarkly/gha-flags/pull/49) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+5. 🔒 Closed issue [#50](https://github.com/launchdarkly/ld-relay-helm/issues/50) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
 <!--END_SECTION:activity-->
 
 ### Github Stats
