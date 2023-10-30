@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](https://github.com/launchdarkly/rust-eventsource-client/pull/58) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-2. 🎉 Merged PR [#50](https://github.com/launchdarkly/gha-flags/pull/50) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
-3. 🎉 Merged PR [#49](https://github.com/launchdarkly/gha-flags/pull/49) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
-4. 🎉 Merged PR [#48](https://github.com/launchdarkly/gha-flags/pull/48) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
-5. 🗣 Commented on [#50](https://github.com/launchdarkly/gha-flags/pull/50#issuecomment-1781742025) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+1. 🎉 Merged PR [#58](https://github.com/launchdarkly/rust-eventsource-client/pull/58) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 💪 Opened PR [#58](https://github.com/launchdarkly/rust-eventsource-client/pull/58) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. 🎉 Merged PR [#50](https://github.com/launchdarkly/gha-flags/pull/50) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+4. 🎉 Merged PR [#49](https://github.com/launchdarkly/gha-flags/pull/49) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+5. 🎉 Merged PR [#48](https://github.com/launchdarkly/gha-flags/pull/48) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
 <!--END_SECTION:activity-->
 
 ### Github Stats
