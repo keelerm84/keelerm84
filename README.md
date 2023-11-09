@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#172](https://github.com/launchdarkly/sdk-test-harness/pull/172) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-2. 💪 Opened PR [#171](https://github.com/launchdarkly/sdk-test-harness/pull/171) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 🎉 Merged PR [#61](https://github.com/launchdarkly/gha-flags/pull/61) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
-4. 🎉 Merged PR [#60](https://github.com/launchdarkly/gha-flags/pull/60) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
-5. 💪 Opened PR [#60](https://github.com/launchdarkly/gha-flags/pull/60) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+1. 💪 Opened PR [#16](https://github.com/launchdarkly/python-eventsource/pull/16) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+2. 💪 Opened PR [#15](https://github.com/launchdarkly/python-eventsource/pull/15) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+3. 💪 Opened PR [#14](https://github.com/launchdarkly/python-eventsource/pull/14) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+4. 💪 Opened PR [#172](https://github.com/launchdarkly/sdk-test-harness/pull/172) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. 💪 Opened PR [#171](https://github.com/launchdarkly/sdk-test-harness/pull/171) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
 <!--END_SECTION:activity-->
 
 ### Github Stats
