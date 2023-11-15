@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/launchdarkly/rust-eventsource-client/issues/55#issuecomment-1813110916) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-2. 🔒 Closed issue [#55](https://github.com/launchdarkly/rust-eventsource-client/issues/55) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-3. 🎉 Merged PR [#65](https://github.com/launchdarkly/rust-eventsource-client/pull/65) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-4. 🎉 Merged PR [#67](https://github.com/launchdarkly/rust-eventsource-client/pull/67) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-5. 💪 Opened PR [#67](https://github.com/launchdarkly/rust-eventsource-client/pull/67) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+1. 🗣 Commented on [#43](https://github.com/launchdarkly/rust-eventsource-client/pull/43#issuecomment-1813118789) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. ❌ Closed PR [#43](https://github.com/launchdarkly/rust-eventsource-client/pull/43) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. 🗣 Commented on [#49](https://github.com/launchdarkly/rust-eventsource-client/pull/49#issuecomment-1813112988) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+4. ❌ Closed PR [#49](https://github.com/launchdarkly/rust-eventsource-client/pull/49) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+5. 🗣 Commented on [#55](https://github.com/launchdarkly/rust-eventsource-client/issues/55#issuecomment-1813110916) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
 <!--END_SECTION:activity-->
 
 ### Github Stats
