@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#63](https://github.com/launchdarkly/rust-eventsource-client/pull/63) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-2. 🎉 Merged PR [#64](https://github.com/launchdarkly/rust-eventsource-client/pull/64) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-3. 💪 Opened PR [#64](https://github.com/launchdarkly/rust-eventsource-client/pull/64) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-4. 🎉 Merged PR [#62](https://github.com/launchdarkly/rust-eventsource-client/pull/62) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-5. 🗣 Commented on [#185](https://github.com/launchdarkly/php-server-sdk/issues/185#issuecomment-1812629546) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+1. 🗣 Commented on [#55](https://github.com/launchdarkly/rust-eventsource-client/issues/55#issuecomment-1813110916) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 🔒 Closed issue [#55](https://github.com/launchdarkly/rust-eventsource-client/issues/55) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. 🎉 Merged PR [#65](https://github.com/launchdarkly/rust-eventsource-client/pull/65) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+4. 🎉 Merged PR [#67](https://github.com/launchdarkly/rust-eventsource-client/pull/67) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+5. 💪 Opened PR [#67](https://github.com/launchdarkly/rust-eventsource-client/pull/67) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
 <!--END_SECTION:activity-->
 
 ### Github Stats
