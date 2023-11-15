@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62](https://github.com/launchdarkly/rust-eventsource-client/pull/62) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-2. 🎉 Merged PR [#61](https://github.com/launchdarkly/rust-eventsource-client/pull/61) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-3. 💪 Opened PR [#61](https://github.com/launchdarkly/rust-eventsource-client/pull/61) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-4. 🎉 Merged PR [#172](https://github.com/launchdarkly/sdk-test-harness/pull/172) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-5. 🎉 Merged PR [#171](https://github.com/launchdarkly/sdk-test-harness/pull/171) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 🎉 Merged PR [#62](https://github.com/launchdarkly/rust-eventsource-client/pull/62) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 🗣 Commented on [#185](https://github.com/launchdarkly/php-server-sdk/issues/185#issuecomment-1812629546) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+3. 💪 Opened PR [#62](https://github.com/launchdarkly/rust-eventsource-client/pull/62) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+4. 🎉 Merged PR [#61](https://github.com/launchdarkly/rust-eventsource-client/pull/61) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+5. 💪 Opened PR [#61](https://github.com/launchdarkly/rust-eventsource-client/pull/61) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
 <!--END_SECTION:activity-->
 
 ### Github Stats
