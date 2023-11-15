@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com/launchdarkly/rust-eventsource-client/pull/64) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-2. 🎉 Merged PR [#62](https://github.com/launchdarkly/rust-eventsource-client/pull/62) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-3. 🗣 Commented on [#185](https://github.com/launchdarkly/php-server-sdk/issues/185#issuecomment-1812629546) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-4. 💪 Opened PR [#62](https://github.com/launchdarkly/rust-eventsource-client/pull/62) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-5. 🎉 Merged PR [#61](https://github.com/launchdarkly/rust-eventsource-client/pull/61) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+1. ❌ Closed PR [#63](https://github.com/launchdarkly/rust-eventsource-client/pull/63) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 🎉 Merged PR [#64](https://github.com/launchdarkly/rust-eventsource-client/pull/64) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. 💪 Opened PR [#64](https://github.com/launchdarkly/rust-eventsource-client/pull/64) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+4. 🎉 Merged PR [#62](https://github.com/launchdarkly/rust-eventsource-client/pull/62) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+5. 🗣 Commented on [#185](https://github.com/launchdarkly/php-server-sdk/issues/185#issuecomment-1812629546) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
