@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/9) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-2. 🎉 Merged PR [#7](https://github.com/launchdarkly/hello-rust/pull/7) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
-3. 💪 Opened PR [#7](https://github.com/launchdarkly/hello-rust/pull/7) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
-4. 🗣 Commented on [#42](https://github.com/launchdarkly/rust-server-sdk/issues/42#issuecomment-1817182022) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-5. 🔒 Closed issue [#42](https://github.com/launchdarkly/rust-server-sdk/issues/42) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+1. 🎉 Merged PR [#9](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/9) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+2. 🎉 Merged PR [#21](https://github.com/launchdarkly/python-eventsource/pull/21) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+3. 🎉 Merged PR [#20](https://github.com/launchdarkly/python-eventsource/pull/20) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+4. 🎉 Merged PR [#19](https://github.com/launchdarkly/python-eventsource/pull/19) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+5. 🎉 Merged PR [#8](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/8) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
 <!--END_SECTION:activity-->
 
 ### Github Stats
