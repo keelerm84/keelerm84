@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/launchdarkly/php-server-sdk-consul/pull/21) in [launchdarkly/php-server-sdk-consul](https://github.com/launchdarkly/php-server-sdk-consul)
-2. 💪 Opened PR [#17](https://github.com/launchdarkly/php-server-sdk-dynamodb/pull/17) in [launchdarkly/php-server-sdk-dynamodb](https://github.com/launchdarkly/php-server-sdk-dynamodb)
-3. 💪 Opened PR [#17](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/17) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
-4. 💪 Opened PR [#21](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/21) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
-5. 💪 Opened PR [#228](https://github.com/launchdarkly/ruby-server-sdk/pull/228) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+1. 🗣 Commented on [#21](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/21#issuecomment-1834153474) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+2. 💪 Opened PR [#187](https://github.com/launchdarkly/php-server-sdk/pull/187) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+3. 💪 Opened PR [#21](https://github.com/launchdarkly/php-server-sdk-consul/pull/21) in [launchdarkly/php-server-sdk-consul](https://github.com/launchdarkly/php-server-sdk-consul)
+4. 💪 Opened PR [#17](https://github.com/launchdarkly/php-server-sdk-dynamodb/pull/17) in [launchdarkly/php-server-sdk-dynamodb](https://github.com/launchdarkly/php-server-sdk-dynamodb)
+5. 💪 Opened PR [#17](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/17) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
 <!--END_SECTION:activity-->
 
 ### Github Stats
