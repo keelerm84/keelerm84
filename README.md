@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/18) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
-2. 💪 Opened PR [#22](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/22) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
-3. 💪 Opened PR [#18](https://github.com/launchdarkly/php-server-sdk-dynamodb/pull/18) in [launchdarkly/php-server-sdk-dynamodb](https://github.com/launchdarkly/php-server-sdk-dynamodb)
-4. 💪 Opened PR [#22](https://github.com/launchdarkly/php-server-sdk-consul/pull/22) in [launchdarkly/php-server-sdk-consul](https://github.com/launchdarkly/php-server-sdk-consul)
-5. 💪 Opened PR [#191](https://github.com/launchdarkly/php-server-sdk/pull/191) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+1. 🎉 Merged PR [#18](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/18) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
+2. 🎉 Merged PR [#191](https://github.com/launchdarkly/php-server-sdk/pull/191) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+3. 🎉 Merged PR [#22](https://github.com/launchdarkly/php-server-sdk-consul/pull/22) in [launchdarkly/php-server-sdk-consul](https://github.com/launchdarkly/php-server-sdk-consul)
+4. 🎉 Merged PR [#18](https://github.com/launchdarkly/php-server-sdk-dynamodb/pull/18) in [launchdarkly/php-server-sdk-dynamodb](https://github.com/launchdarkly/php-server-sdk-dynamodb)
+5. 💪 Opened PR [#18](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/18) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
 <!--END_SECTION:activity-->
 
 ### Github Stats
