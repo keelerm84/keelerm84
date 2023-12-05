@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/22) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
-2. 🎉 Merged PR [#18](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/18) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
-3. 🎉 Merged PR [#191](https://github.com/launchdarkly/php-server-sdk/pull/191) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-4. 🎉 Merged PR [#22](https://github.com/launchdarkly/php-server-sdk-consul/pull/22) in [launchdarkly/php-server-sdk-consul](https://github.com/launchdarkly/php-server-sdk-consul)
-5. 🎉 Merged PR [#18](https://github.com/launchdarkly/php-server-sdk-dynamodb/pull/18) in [launchdarkly/php-server-sdk-dynamodb](https://github.com/launchdarkly/php-server-sdk-dynamodb)
+1. 🗣 Commented on [#68](https://github.com/launchdarkly/rust-eventsource-client/issues/68#issuecomment-1841092124) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 🎉 Merged PR [#10](https://github.com/launchdarkly/openfeature-php-server/pull/10) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
+3. 🎉 Merged PR [#22](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/22) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+4. 🎉 Merged PR [#18](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/18) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
+5. 🎉 Merged PR [#191](https://github.com/launchdarkly/php-server-sdk/pull/191) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
