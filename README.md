@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/launchdarkly/roku-client-sdk/pull/22) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
-2. 🗣 Commented on [#231](https://github.com/launchdarkly/ruby-server-sdk/pull/231#issuecomment-1850261038) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-3. ❌ Closed PR [#231](https://github.com/launchdarkly/ruby-server-sdk/pull/231) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-4. 🎉 Merged PR [#20](https://github.com/launchdarkly/roku-client-sdk/pull/20) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
-5. 💪 Opened PR [#20](https://github.com/launchdarkly/roku-client-sdk/pull/20) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
+1. 🎉 Merged PR [#71](https://github.com/launchdarkly/rust-eventsource-client/pull/71) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 🎉 Merged PR [#70](https://github.com/launchdarkly/rust-eventsource-client/pull/70) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. 💪 Opened PR [#22](https://github.com/launchdarkly/roku-client-sdk/pull/22) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
+4. 🗣 Commented on [#231](https://github.com/launchdarkly/ruby-server-sdk/pull/231#issuecomment-1850261038) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+5. ❌ Closed PR [#231](https://github.com/launchdarkly/ruby-server-sdk/pull/231) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
