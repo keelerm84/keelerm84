@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#71](https://github.com/launchdarkly/swift-eventsource/pull/71) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-2. 💪 Opened PR [#65](https://github.com/launchdarkly/haskell-server-sdk/pull/65) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-3. 🎉 Merged PR [#13](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/13) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
-4. 💪 Opened PR [#64](https://github.com/launchdarkly/haskell-server-sdk/pull/64) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-5. 🗣 Commented on [#69](https://github.com/launchdarkly/rust-eventsource-client/issues/69#issuecomment-1852127656) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+1. 💪 Opened PR [#60](https://github.com/launchdarkly/rust-server-sdk/pull/60) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+2. 💪 Opened PR [#59](https://github.com/launchdarkly/rust-server-sdk/pull/59) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+3. 💪 Opened PR [#72](https://github.com/launchdarkly/rust-eventsource-client/pull/72) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+4. 💪 Opened PR [#71](https://github.com/launchdarkly/swift-eventsource/pull/71) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+5. 💪 Opened PR [#65](https://github.com/launchdarkly/haskell-server-sdk/pull/65) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
