@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/launchdarkly/swift-eventsource/pull/72) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-2. 💪 Opened PR [#173](https://github.com/launchdarkly/sdk-test-harness/pull/173) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 🎉 Merged PR [#22](https://github.com/launchdarkly/roku-client-sdk/pull/22) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
-4. 🗣 Commented on [#25](https://github.com/launchdarkly/ruby-eventsource/pull/25#issuecomment-1856155101) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-5. 🗣 Commented on [#64](https://github.com/launchdarkly/haskell-server-sdk/pull/64#issuecomment-1855918993) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+1. 💪 Opened PR [#232](https://github.com/launchdarkly/ruby-server-sdk/pull/232) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+2. 🎉 Merged PR [#55](https://github.com/launchdarkly/ld-relay-helm/pull/55) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+3. 🎉 Merged PR [#173](https://github.com/launchdarkly/sdk-test-harness/pull/173) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+4. 💪 Opened PR [#72](https://github.com/launchdarkly/swift-eventsource/pull/72) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+5. 💪 Opened PR [#173](https://github.com/launchdarkly/sdk-test-harness/pull/173) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
 <!--END_SECTION:activity-->
 
 ### Github Stats
