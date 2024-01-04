@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#330](https://github.com/launchdarkly/ios-client-sdk/pull/330) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🗣 Commented on [#2868](https://github.com/urllib3/urllib3/issues/2868#issuecomment-1875809129) in [urllib3/urllib3](https://github.com/urllib3/urllib3)
-3. 🎉 Merged PR [#327](https://github.com/launchdarkly/ios-client-sdk/pull/327) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 🗣 Commented on [#224](https://github.com/launchdarkly/ruby-server-sdk/issues/224#issuecomment-1875678666) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-5. 🔒 Closed issue [#224](https://github.com/launchdarkly/ruby-server-sdk/issues/224) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+1. 💪 Opened PR [#42](https://github.com/launchdarkly/hello-tvos/pull/42) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
+2. 💪 Opened PR [#41](https://github.com/launchdarkly/hello-macos/pull/41) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
+3. 💪 Opened PR [#51](https://github.com/launchdarkly/hello-ios/pull/51) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
+4. 💪 Opened PR [#46](https://github.com/launchdarkly/hello-ios-swift/pull/46) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
+5. 🎉 Merged PR [#330](https://github.com/launchdarkly/ios-client-sdk/pull/330) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
