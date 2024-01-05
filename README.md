@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/launchdarkly/hello-tvos/pull/42) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
-2. 💪 Opened PR [#41](https://github.com/launchdarkly/hello-macos/pull/41) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
-3. 💪 Opened PR [#51](https://github.com/launchdarkly/hello-ios/pull/51) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
-4. 💪 Opened PR [#46](https://github.com/launchdarkly/hello-ios-swift/pull/46) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
-5. 🎉 Merged PR [#330](https://github.com/launchdarkly/ios-client-sdk/pull/330) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+1. 🎉 Merged PR [#41](https://github.com/launchdarkly/hello-macos/pull/41) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
+2. 🎉 Merged PR [#42](https://github.com/launchdarkly/hello-tvos/pull/42) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
+3. 🎉 Merged PR [#46](https://github.com/launchdarkly/hello-ios-swift/pull/46) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
+4. 🎉 Merged PR [#51](https://github.com/launchdarkly/hello-ios/pull/51) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
+5. 🎉 Merged PR [#242](https://github.com/launchdarkly/python-server-sdk/pull/242) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
