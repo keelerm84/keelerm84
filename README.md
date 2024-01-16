@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/launchdarkly/roku-client-sdk/pull/23) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
-2. 🗣 Commented on [#13](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/13#issuecomment-1887462600) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-3. 🗣 Commented on [#64](https://github.com/launchdarkly/rust-server-sdk/pull/64#issuecomment-1887461846) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-4. 💪 Opened PR [#64](https://github.com/launchdarkly/rust-server-sdk/pull/64) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-5. 💪 Opened PR [#13](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/13) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+1. 🎉 Merged PR [#64](https://github.com/launchdarkly/rust-server-sdk/pull/64) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+2. 🎉 Merged PR [#245](https://github.com/launchdarkly/ruby-server-sdk/pull/245) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+3. 🎉 Merged PR [#13](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/13) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+4. 🎉 Merged PR [#63](https://github.com/launchdarkly/rust-server-sdk/pull/63) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+5. 🎉 Merged PR [#120](https://github.com/launchdarkly/erlang-server-sdk/pull/120) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
