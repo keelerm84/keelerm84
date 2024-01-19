@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#193](https://github.com/launchdarkly/php-server-sdk/pull/193) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-2. 💪 Opened PR [#182](https://github.com/launchdarkly/sdk-test-harness/pull/182) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 💪 Opened PR [#192](https://github.com/launchdarkly/php-server-sdk/pull/192) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-4. 💪 Opened PR [#181](https://github.com/launchdarkly/sdk-test-harness/pull/181) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-5. 🎉 Merged PR [#178](https://github.com/launchdarkly/sdk-test-harness/pull/178) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 🗣 Commented on [#351](https://github.com/launchdarkly/js-core/pull/351#issuecomment-1900779745) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+2. 💪 Opened PR [#351](https://github.com/launchdarkly/js-core/pull/351) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+3. 💪 Opened PR [#193](https://github.com/launchdarkly/php-server-sdk/pull/193) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+4. 💪 Opened PR [#182](https://github.com/launchdarkly/sdk-test-harness/pull/182) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. 💪 Opened PR [#192](https://github.com/launchdarkly/php-server-sdk/pull/192) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
