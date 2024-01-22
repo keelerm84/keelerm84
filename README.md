@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#362](https://github.com/launchdarkly/cpp-sdks/pull/362) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
-2. 💪 Opened PR [#360](https://github.com/launchdarkly/cpp-sdks/pull/360) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
-3. 💪 Opened PR [#352](https://github.com/launchdarkly/js-core/pull/352) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-4. 🗣 Commented on [#351](https://github.com/launchdarkly/js-core/pull/351#issuecomment-1900779745) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-5. 💪 Opened PR [#351](https://github.com/launchdarkly/js-core/pull/351) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+1. 🎉 Merged PR [#333](https://github.com/launchdarkly/ios-client-sdk/pull/333) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+2. 🎉 Merged PR [#332](https://github.com/launchdarkly/ios-client-sdk/pull/332) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+3. 🎉 Merged PR [#193](https://github.com/launchdarkly/php-server-sdk/pull/193) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+4. 🎉 Merged PR [#192](https://github.com/launchdarkly/php-server-sdk/pull/192) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+5. 💪 Opened PR [#362](https://github.com/launchdarkly/cpp-sdks/pull/362) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
 <!--END_SECTION:activity-->
 
 ### Github Stats
