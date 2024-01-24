@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#364](https://github.com/launchdarkly/cpp-sdks/pull/364#issuecomment-1908271339) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
-2. 💪 Opened PR [#364](https://github.com/launchdarkly/cpp-sdks/pull/364) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
-3. 🎉 Merged PR [#77](https://github.com/launchdarkly/flutter-client-sdk/pull/77) in [launchdarkly/flutter-client-sdk](https://github.com/launchdarkly/flutter-client-sdk)
-4. 🎉 Merged PR [#76](https://github.com/launchdarkly/flutter-client-sdk/pull/76) in [launchdarkly/flutter-client-sdk](https://github.com/launchdarkly/flutter-client-sdk)
-5. 🎉 Merged PR [#1](https://github.com/keelerm84/cupfullofcode.com/pull/1) in [keelerm84/cupfullofcode.com](https://github.com/keelerm84/cupfullofcode.com)
+1. 🎉 Merged PR [#68](https://github.com/launchdarkly/haskell-server-sdk/pull/68) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. 🎉 Merged PR [#67](https://github.com/launchdarkly/haskell-server-sdk/pull/67) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+3. 🗣 Commented on [#364](https://github.com/launchdarkly/cpp-sdks/pull/364#issuecomment-1908271339) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+4. 💪 Opened PR [#364](https://github.com/launchdarkly/cpp-sdks/pull/364) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+5. 🎉 Merged PR [#77](https://github.com/launchdarkly/flutter-client-sdk/pull/77) in [launchdarkly/flutter-client-sdk](https://github.com/launchdarkly/flutter-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
