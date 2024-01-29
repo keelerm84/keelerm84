@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#264](https://github.com/open-feature/python-sdk/pull/264#issuecomment-1914900356) in [open-feature/python-sdk](https://github.com/open-feature/python-sdk)
-2. 🎉 Merged PR [#259](https://github.com/launchdarkly/python-server-sdk/pull/259) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 💪 Opened PR [#264](https://github.com/open-feature/python-sdk/pull/264) in [open-feature/python-sdk](https://github.com/open-feature/python-sdk)
-4. 💪 Opened PR [#12](https://github.com/launchdarkly/openfeature-php-server/pull/12) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
-5. ❗ Opened issue [#262](https://github.com/open-feature/python-sdk/issues/262) in [open-feature/python-sdk](https://github.com/open-feature/python-sdk)
+1. 🎉 Merged PR [#12](https://github.com/launchdarkly/openfeature-php-server/pull/12) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
+2. 🗣 Commented on [#264](https://github.com/open-feature/python-sdk/pull/264#issuecomment-1914900356) in [open-feature/python-sdk](https://github.com/open-feature/python-sdk)
+3. 🎉 Merged PR [#259](https://github.com/launchdarkly/python-server-sdk/pull/259) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 💪 Opened PR [#264](https://github.com/open-feature/python-sdk/pull/264) in [open-feature/python-sdk](https://github.com/open-feature/python-sdk)
+5. 💪 Opened PR [#12](https://github.com/launchdarkly/openfeature-php-server/pull/12) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
 <!--END_SECTION:activity-->
 
 ### Github Stats
