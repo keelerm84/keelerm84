@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/launchdarkly/haskell-server-sdk/pull/73) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-2. 💪 Opened PR [#73](https://github.com/launchdarkly/haskell-server-sdk/pull/73) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-3. 🗣 Commented on [#69](https://github.com/launchdarkly/haskell-server-sdk/pull/69#issuecomment-1922325461) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-4. 🎉 Merged PR [#72](https://github.com/launchdarkly/haskell-server-sdk/pull/72) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-5. ❌ Closed PR [#70](https://github.com/launchdarkly/haskell-server-sdk/pull/70) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+1. 💪 Opened PR [#14](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/14) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
+2. 🗣 Commented on [#69](https://github.com/launchdarkly/haskell-server-sdk/pull/69#issuecomment-1924539422) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+3. 🎉 Merged PR [#73](https://github.com/launchdarkly/haskell-server-sdk/pull/73) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+4. 💪 Opened PR [#73](https://github.com/launchdarkly/haskell-server-sdk/pull/73) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+5. 🗣 Commented on [#69](https://github.com/launchdarkly/haskell-server-sdk/pull/69#issuecomment-1922325461) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
