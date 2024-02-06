@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/14) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
-2. 🎉 Merged PR [#10](https://github.com/launchdarkly/hello-php/pull/10) in [launchdarkly/hello-php](https://github.com/launchdarkly/hello-php)
-3. 💪 Opened PR [#14](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/14) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
-4. 🗣 Commented on [#69](https://github.com/launchdarkly/haskell-server-sdk/pull/69#issuecomment-1924539422) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-5. 🎉 Merged PR [#73](https://github.com/launchdarkly/haskell-server-sdk/pull/73) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+1. 🎉 Merged PR [#352](https://github.com/launchdarkly/js-core/pull/352) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+2. 🗣 Commented on [#238](https://github.com/open-feature/python-sdk/pull/238#issuecomment-1930106086) in [open-feature/python-sdk](https://github.com/open-feature/python-sdk)
+3. 🗣 Commented on [#321](https://github.com/launchdarkly/ios-client-sdk/issues/321#issuecomment-1930103925) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+4. 🎉 Merged PR [#351](https://github.com/launchdarkly/js-core/pull/351) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+5. 🗣 Commented on [#238](https://github.com/open-feature/python-sdk/pull/238#issuecomment-1930021658) in [open-feature/python-sdk](https://github.com/open-feature/python-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
