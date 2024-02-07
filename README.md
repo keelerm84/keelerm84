@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2868](https://github.com/urllib3/urllib3/issues/2868#issuecomment-1932799716) in [urllib3/urllib3](https://github.com/urllib3/urllib3)
-2. 🗣 Commented on [#266](https://github.com/launchdarkly/python-server-sdk/issues/266#issuecomment-1932672142) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 🗣 Commented on [#74](https://github.com/launchdarkly/haskell-server-sdk/pull/74#issuecomment-1932316214) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-4. 🎉 Merged PR [#74](https://github.com/launchdarkly/haskell-server-sdk/pull/74) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-5. 🎉 Merged PR [#352](https://github.com/launchdarkly/js-core/pull/352) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+1. 🎉 Merged PR [#75](https://github.com/launchdarkly/haskell-server-sdk/pull/75) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. 🗣 Commented on [#2868](https://github.com/urllib3/urllib3/issues/2868#issuecomment-1932799716) in [urllib3/urllib3](https://github.com/urllib3/urllib3)
+3. 🗣 Commented on [#266](https://github.com/launchdarkly/python-server-sdk/issues/266#issuecomment-1932672142) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 🗣 Commented on [#74](https://github.com/launchdarkly/haskell-server-sdk/pull/74#issuecomment-1932316214) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+5. 🎉 Merged PR [#74](https://github.com/launchdarkly/haskell-server-sdk/pull/74) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
