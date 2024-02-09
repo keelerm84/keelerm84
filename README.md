@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#338](https://github.com/launchdarkly/ios-client-sdk/pull/338) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🎉 Merged PR [#336](https://github.com/launchdarkly/ios-client-sdk/pull/336) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 💪 Opened PR [#336](https://github.com/launchdarkly/ios-client-sdk/pull/336) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 💪 Opened PR [#6](https://github.com/launchdarkly/openfeature-python-server/pull/6) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
-5. 🗣 Commented on [#335](https://github.com/launchdarkly/ios-client-sdk/pull/335#issuecomment-1934795737) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+1. 🎉 Merged PR [#338](https://github.com/launchdarkly/ios-client-sdk/pull/338) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+2. 💪 Opened PR [#338](https://github.com/launchdarkly/ios-client-sdk/pull/338) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+3. 🎉 Merged PR [#336](https://github.com/launchdarkly/ios-client-sdk/pull/336) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+4. 💪 Opened PR [#336](https://github.com/launchdarkly/ios-client-sdk/pull/336) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 💪 Opened PR [#6](https://github.com/launchdarkly/openfeature-python-server/pull/6) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
 <!--END_SECTION:activity-->
 
 ### Github Stats
