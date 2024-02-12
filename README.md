@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#341](https://github.com/launchdarkly/ios-client-sdk/pull/341) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🎉 Merged PR [#334](https://github.com/launchdarkly/ios-client-sdk/pull/334) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 🎉 Merged PR [#335](https://github.com/launchdarkly/ios-client-sdk/pull/335) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 💪 Opened PR [#340](https://github.com/launchdarkly/ios-client-sdk/pull/340) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 🎉 Merged PR [#338](https://github.com/launchdarkly/ios-client-sdk/pull/338) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+1. 💪 Opened PR [#417](https://github.com/open-feature/openfeature.dev/pull/417) in [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev)
+2. 🎉 Merged PR [#7](https://github.com/launchdarkly/openfeature-python-server/pull/7) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
+3. 🎉 Merged PR [#6](https://github.com/launchdarkly/openfeature-python-server/pull/6) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
+4. 💪 Opened PR [#341](https://github.com/launchdarkly/ios-client-sdk/pull/341) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 🎉 Merged PR [#334](https://github.com/launchdarkly/ios-client-sdk/pull/334) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
