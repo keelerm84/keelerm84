@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/launchdarkly/ld-relay-helm/pull/58) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-2. 🎉 Merged PR [#339](https://github.com/launchdarkly/ios-client-sdk/pull/339) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. ❌ Closed PR [#256](https://github.com/launchdarkly/ios-client-sdk/pull/256) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 🗣 Commented on [#256](https://github.com/launchdarkly/ios-client-sdk/pull/256#issuecomment-1958033128) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 🎉 Merged PR [#344](https://github.com/launchdarkly/ios-client-sdk/pull/344) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+1. 🗣 Commented on [#264](https://github.com/launchdarkly/ios-client-sdk/issues/264#issuecomment-1959732754) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+2. 🔒 Closed issue [#264](https://github.com/launchdarkly/ios-client-sdk/issues/264) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+3. 🗣 Commented on [#274](https://github.com/launchdarkly/ios-client-sdk/issues/274#issuecomment-1959732507) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+4. 🔒 Closed issue [#274](https://github.com/launchdarkly/ios-client-sdk/issues/274) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 🗣 Commented on [#275](https://github.com/launchdarkly/ios-client-sdk/issues/275#issuecomment-1959732271) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
