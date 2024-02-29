@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/launchdarkly/hello-bootstrap-rails/pull/13) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-2. 🎉 Merged PR [#12](https://github.com/launchdarkly/hello-bootstrap-rails/pull/12) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-3. 🎉 Merged PR [#251](https://github.com/launchdarkly/ruby-server-sdk/pull/251) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-4. 💪 Opened PR [#251](https://github.com/launchdarkly/ruby-server-sdk/pull/251) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-5. 🗣 Commented on [#17](https://github.com/launchdarkly/gh-actions/pull/17#issuecomment-1967408644) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+1. 🗣 Commented on [#270](https://github.com/launchdarkly/python-server-sdk/issues/270#issuecomment-1971942706) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+2. 🗣 Commented on [#25](https://github.com/launchdarkly/python-eventsource/issues/25#issuecomment-1971941500) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+3. 💪 Opened PR [#26](https://github.com/launchdarkly/python-eventsource/pull/26) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+4. 🎉 Merged PR [#13](https://github.com/launchdarkly/hello-bootstrap-rails/pull/13) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+5. 🎉 Merged PR [#12](https://github.com/launchdarkly/hello-bootstrap-rails/pull/12) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
 <!--END_SECTION:activity-->
 
 ### Github Stats
