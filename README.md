@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#346](https://github.com/launchdarkly/ios-client-sdk/issues/346#issuecomment-1973682955) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🔒 Closed issue [#346](https://github.com/launchdarkly/ios-client-sdk/issues/346) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 🎉 Merged PR [#348](https://github.com/launchdarkly/ios-client-sdk/pull/348) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 🎉 Merged PR [#347](https://github.com/launchdarkly/ios-client-sdk/pull/347) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 💪 Opened PR [#347](https://github.com/launchdarkly/ios-client-sdk/pull/347) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+1. 💪 Opened PR [#271](https://github.com/launchdarkly/python-server-sdk/pull/271) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+2. 💪 Opened PR [#27](https://github.com/launchdarkly/python-eventsource/pull/27) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+3. 🎉 Merged PR [#22](https://github.com/launchdarkly/python-eventsource/pull/22) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+4. 🔒 Closed issue [#25](https://github.com/launchdarkly/python-eventsource/issues/25) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+5. 🎉 Merged PR [#26](https://github.com/launchdarkly/python-eventsource/pull/26) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
