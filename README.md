@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [publish-pages-v1.0.2](https://github.com/launchdarkly/gh-actions/releases/tag/publish-pages-v1.0.2) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-2. 🎉 Merged PR [#19](https://github.com/launchdarkly/gh-actions/pull/19) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-3. 💪 Opened PR [#19](https://github.com/launchdarkly/gh-actions/pull/19) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-4. 🎉 Merged PR [#18](https://github.com/launchdarkly/gh-actions/pull/18) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-5. 💪 Opened PR [#78](https://github.com/launchdarkly/haskell-server-sdk/pull/78) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+1. 🎉 Merged PR [#27](https://github.com/launchdarkly/python-eventsource/pull/27) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+2. 🚀 Published release [publish-pages-v1.0.2](https://github.com/launchdarkly/gh-actions/releases/tag/publish-pages-v1.0.2) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+3. 🎉 Merged PR [#19](https://github.com/launchdarkly/gh-actions/pull/19) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+4. 💪 Opened PR [#19](https://github.com/launchdarkly/gh-actions/pull/19) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+5. 🎉 Merged PR [#18](https://github.com/launchdarkly/gh-actions/pull/18) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
 <!--END_SECTION:activity-->
 
 ### Github Stats
