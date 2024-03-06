@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#274](https://github.com/launchdarkly/python-server-sdk/pull/274) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. 🗣 Commented on [#273](https://github.com/launchdarkly/python-server-sdk/issues/273#issuecomment-1981454218) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 🎉 Merged PR [#6](https://github.com/launchdarkly/hello-openfeature-php-server/pull/6) in [launchdarkly/hello-openfeature-php-server](https://github.com/launchdarkly/hello-openfeature-php-server)
-4. 🎉 Merged PR [#52](https://github.com/launchdarkly/hello-ios/pull/52) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
-5. 🎉 Merged PR [#47](https://github.com/launchdarkly/hello-ios-swift/pull/47) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
+1. ❌ Closed PR [#7](https://github.com/launchdarkly/hello-openfeature-php-server/pull/7) in [launchdarkly/hello-openfeature-php-server](https://github.com/launchdarkly/hello-openfeature-php-server)
+2. 💪 Opened PR [#7](https://github.com/launchdarkly/hello-openfeature-php-server/pull/7) in [launchdarkly/hello-openfeature-php-server](https://github.com/launchdarkly/hello-openfeature-php-server)
+3. 🎉 Merged PR [#3](https://github.com/launchdarkly/hello-openfeature-python-server/pull/3) in [launchdarkly/hello-openfeature-python-server](https://github.com/launchdarkly/hello-openfeature-python-server)
+4. 💪 Opened PR [#274](https://github.com/launchdarkly/python-server-sdk/pull/274) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. 🗣 Commented on [#273](https://github.com/launchdarkly/python-server-sdk/issues/273#issuecomment-1981454218) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
