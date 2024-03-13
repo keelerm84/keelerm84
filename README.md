@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/launchdarkly/haskell-server-sdk/pull/77) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-2. 🗣 Commented on [#273](https://github.com/launchdarkly/python-server-sdk/issues/273#issuecomment-1984089790) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 🎉 Merged PR [#275](https://github.com/launchdarkly/python-server-sdk/pull/275) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. 🔒 Closed issue [#273](https://github.com/launchdarkly/python-server-sdk/issues/273) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🎉 Merged PR [#274](https://github.com/launchdarkly/python-server-sdk/pull/274) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🗣 Commented on [#375](https://github.com/launchdarkly/cpp-sdks/pull/375#issuecomment-1994482835) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+2. 💪 Opened PR [#375](https://github.com/launchdarkly/cpp-sdks/pull/375) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+3. 🗣 Commented on [#66](https://github.com/launchdarkly/rust-server-sdk/pull/66#issuecomment-1994475589) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+4. 💪 Opened PR [#66](https://github.com/launchdarkly/rust-server-sdk/pull/66) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+5. 🗣 Commented on [#252](https://github.com/launchdarkly/ruby-server-sdk/pull/252#issuecomment-1994462614) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
