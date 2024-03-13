@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#201](https://github.com/launchdarkly/php-server-sdk/pull/201) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-2. 🗣 Commented on [#142](https://github.com/launchdarkly/flutter-client-sdk/pull/142#issuecomment-1994529582) in [launchdarkly/flutter-client-sdk](https://github.com/launchdarkly/flutter-client-sdk)
-3. 💪 Opened PR [#142](https://github.com/launchdarkly/flutter-client-sdk/pull/142) in [launchdarkly/flutter-client-sdk](https://github.com/launchdarkly/flutter-client-sdk)
-4. 🗣 Commented on [#375](https://github.com/launchdarkly/cpp-sdks/pull/375#issuecomment-1994482835) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
-5. 💪 Opened PR [#375](https://github.com/launchdarkly/cpp-sdks/pull/375) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+1. 🗣 Commented on [#350](https://github.com/launchdarkly/ios-client-sdk/issues/350#issuecomment-1995420263) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+2. 💪 Opened PR [#14](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/14) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+3. 💪 Opened PR [#201](https://github.com/launchdarkly/php-server-sdk/pull/201) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+4. 🗣 Commented on [#142](https://github.com/launchdarkly/flutter-client-sdk/pull/142#issuecomment-1994529582) in [launchdarkly/flutter-client-sdk](https://github.com/launchdarkly/flutter-client-sdk)
+5. 💪 Opened PR [#142](https://github.com/launchdarkly/flutter-client-sdk/pull/142) in [launchdarkly/flutter-client-sdk](https://github.com/launchdarkly/flutter-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
