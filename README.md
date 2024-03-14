@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#341](https://github.com/launchdarkly/ld-relay/pull/341) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 🎉 Merged PR [#112](https://github.com/launchdarkly/go-server-sdk/pull/112) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-3. 🎉 Merged PR [#111](https://github.com/launchdarkly/go-server-sdk/pull/111) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-4. 💪 Opened PR [#111](https://github.com/launchdarkly/go-server-sdk/pull/111) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-5. 🗣 Commented on [#350](https://github.com/launchdarkly/ios-client-sdk/issues/350#issuecomment-1995420263) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+1. 🎉 Merged PR [#122](https://github.com/launchdarkly/erlang-server-sdk/pull/122) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
+2. ❌ Closed PR [#187](https://github.com/launchdarkly/dotnet-server-sdk/pull/187) in [launchdarkly/dotnet-server-sdk](https://github.com/launchdarkly/dotnet-server-sdk)
+3. 🎉 Merged PR [#142](https://github.com/launchdarkly/flutter-client-sdk/pull/142) in [launchdarkly/flutter-client-sdk](https://github.com/launchdarkly/flutter-client-sdk)
+4. 🎉 Merged PR [#121](https://github.com/launchdarkly/erlang-server-sdk/pull/121) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
+5. 💪 Opened PR [#341](https://github.com/launchdarkly/ld-relay/pull/341) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
