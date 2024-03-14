@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#257](https://github.com/launchdarkly/android-client-sdk/pull/257) in [launchdarkly/android-client-sdk](https://github.com/launchdarkly/android-client-sdk)
-2. 🎉 Merged PR [#253](https://github.com/launchdarkly/ruby-server-sdk/pull/253) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-3. 🎉 Merged PR [#277](https://github.com/launchdarkly/python-server-sdk/pull/277) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. 🎉 Merged PR [#15](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/15) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-5. 🎉 Merged PR [#14](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/14) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+1. 🎉 Merged PR [#92](https://github.com/launchdarkly/dotnet-client-sdk/pull/92) in [launchdarkly/dotnet-client-sdk](https://github.com/launchdarkly/dotnet-client-sdk)
+2. 🎉 Merged PR [#91](https://github.com/launchdarkly/dotnet-client-sdk/pull/91) in [launchdarkly/dotnet-client-sdk](https://github.com/launchdarkly/dotnet-client-sdk)
+3. 🎉 Merged PR [#351](https://github.com/launchdarkly/ios-client-sdk/pull/351) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+4. 🎉 Merged PR [#349](https://github.com/launchdarkly/ios-client-sdk/pull/349) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 💪 Opened PR [#257](https://github.com/launchdarkly/android-client-sdk/pull/257) in [launchdarkly/android-client-sdk](https://github.com/launchdarkly/android-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
