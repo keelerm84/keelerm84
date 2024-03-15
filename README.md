@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#399](https://github.com/launchdarkly/js-core/pull/399) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-2. 🎉 Merged PR [#394](https://github.com/launchdarkly/js-core/pull/394) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-3. 💪 Opened PR [#352](https://github.com/launchdarkly/ios-client-sdk/pull/352) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 🎉 Merged PR [#258](https://github.com/launchdarkly/android-client-sdk/pull/258) in [launchdarkly/android-client-sdk](https://github.com/launchdarkly/android-client-sdk)
-5. 🎉 Merged PR [#345](https://github.com/launchdarkly/ld-relay/pull/345) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 💪 Opened PR [#355](https://github.com/launchdarkly/ios-client-sdk/pull/355) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+2. 🎉 Merged PR [#79](https://github.com/launchdarkly/haskell-server-sdk/pull/79) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+3. 💪 Opened PR [#354](https://github.com/launchdarkly/ios-client-sdk/pull/354) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+4. 🎉 Merged PR [#352](https://github.com/launchdarkly/ios-client-sdk/pull/352) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 🎉 Merged PR [#200](https://github.com/launchdarkly/php-server-sdk/pull/200) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
