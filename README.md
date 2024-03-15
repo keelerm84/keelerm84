@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#355](https://github.com/launchdarkly/ios-client-sdk/pull/355) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🎉 Merged PR [#79](https://github.com/launchdarkly/haskell-server-sdk/pull/79) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-3. 💪 Opened PR [#354](https://github.com/launchdarkly/ios-client-sdk/pull/354) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 🎉 Merged PR [#352](https://github.com/launchdarkly/ios-client-sdk/pull/352) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 🎉 Merged PR [#200](https://github.com/launchdarkly/php-server-sdk/pull/200) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+1. 🎉 Merged PR [#202](https://github.com/launchdarkly/php-server-sdk/pull/202) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+2. 💪 Opened PR [#68](https://github.com/launchdarkly/rust-server-sdk/pull/68) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+3. 🎉 Merged PR [#354](https://github.com/launchdarkly/ios-client-sdk/pull/354) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+4. 💪 Opened PR [#355](https://github.com/launchdarkly/ios-client-sdk/pull/355) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 🎉 Merged PR [#79](https://github.com/launchdarkly/haskell-server-sdk/pull/79) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
