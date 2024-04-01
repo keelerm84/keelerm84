@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/3) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
-2. 💪 Opened PR [#2](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/2) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
-3. 💪 Opened PR [#1](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/1) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
-4. 💪 Opened PR [#264](https://github.com/launchdarkly/ruby-server-sdk/pull/264) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-5. 🗣 Commented on [#279](https://github.com/launchdarkly/python-server-sdk/issues/279#issuecomment-2025949980) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 💪 Opened PR [#361](https://github.com/launchdarkly/ios-client-sdk/pull/361) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+2. 💪 Opened PR [#360](https://github.com/launchdarkly/ios-client-sdk/pull/360) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+3. 💪 Opened PR [#3](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/3) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+4. 💪 Opened PR [#2](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/2) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+5. 💪 Opened PR [#1](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/1) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
 <!--END_SECTION:activity-->
 
 ### Github Stats
