@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#334](https://github.com/launchdarkly/ios-client-sdk/pull/334#issuecomment-2032297240) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 💪 Opened PR [#365](https://github.com/launchdarkly/ios-client-sdk/pull/365) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 💪 Opened PR [#364](https://github.com/launchdarkly/ios-client-sdk/pull/364) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 🎉 Merged PR [#361](https://github.com/launchdarkly/ios-client-sdk/pull/361) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 🎉 Merged PR [#360](https://github.com/launchdarkly/ios-client-sdk/pull/360) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+1. 🎉 Merged PR [#364](https://github.com/launchdarkly/ios-client-sdk/pull/364) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+2. 🗣 Commented on [#2868](https://github.com/urllib3/urllib3/issues/2868#issuecomment-2032366574) in [urllib3/urllib3](https://github.com/urllib3/urllib3)
+3. 🎉 Merged PR [#365](https://github.com/launchdarkly/ios-client-sdk/pull/365) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+4. 🗣 Commented on [#334](https://github.com/launchdarkly/ios-client-sdk/pull/334#issuecomment-2032297240) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 💪 Opened PR [#365](https://github.com/launchdarkly/ios-client-sdk/pull/365) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
