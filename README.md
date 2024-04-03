@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/launchdarkly/roku-client-sdk/pull/27) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
-2. 🎉 Merged PR [#363](https://github.com/launchdarkly/ios-client-sdk/pull/363) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 🎉 Merged PR [#362](https://github.com/launchdarkly/ios-client-sdk/pull/362) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 🎉 Merged PR [#264](https://github.com/launchdarkly/ruby-server-sdk/pull/264) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-5. 🗣 Commented on [#75](https://github.com/launchdarkly/swift-eventsource/issues/75#issuecomment-2032533650) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+1. 🎉 Merged PR [#2](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/2) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+2. 🎉 Merged PR [#1](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/1) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+3. 💪 Opened PR [#27](https://github.com/launchdarkly/roku-client-sdk/pull/27) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
+4. 🎉 Merged PR [#363](https://github.com/launchdarkly/ios-client-sdk/pull/363) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 🎉 Merged PR [#362](https://github.com/launchdarkly/ios-client-sdk/pull/362) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
