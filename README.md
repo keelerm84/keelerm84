@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/launchdarkly/python-eventsource/pull/30) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
-2. 💪 Opened PR [#29](https://github.com/launchdarkly/python-eventsource/pull/29) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
-3. 🗣 Commented on [#281](https://github.com/launchdarkly/python-server-sdk/issues/281#issuecomment-2037332534) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. 🎉 Merged PR [#367](https://github.com/launchdarkly/ios-client-sdk/pull/367) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 💪 Opened PR [#5](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/5) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+1. 🎉 Merged PR [#29](https://github.com/launchdarkly/python-eventsource/pull/29) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+2. 🔒 Closed issue [#62](https://github.com/launchdarkly/ld-relay-helm/issues/62) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+3. 🎉 Merged PR [#63](https://github.com/launchdarkly/ld-relay-helm/pull/63) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+4. 🎉 Merged PR [#5](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/5) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+5. 🎉 Merged PR [#30](https://github.com/launchdarkly/python-eventsource/pull/30) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
