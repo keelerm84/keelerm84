@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#281](https://github.com/launchdarkly/python-server-sdk/issues/281#issuecomment-2037332534) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. 🎉 Merged PR [#367](https://github.com/launchdarkly/ios-client-sdk/pull/367) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 💪 Opened PR [#5](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/5) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
-4. 🎉 Merged PR [#366](https://github.com/launchdarkly/ios-client-sdk/pull/366) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 🗣 Commented on [#334](https://github.com/launchdarkly/ios-client-sdk/pull/334#issuecomment-2035180492) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+1. 💪 Opened PR [#30](https://github.com/launchdarkly/python-eventsource/pull/30) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+2. 💪 Opened PR [#29](https://github.com/launchdarkly/python-eventsource/pull/29) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+3. 🗣 Commented on [#281](https://github.com/launchdarkly/python-server-sdk/issues/281#issuecomment-2037332534) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 🎉 Merged PR [#367](https://github.com/launchdarkly/ios-client-sdk/pull/367) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 💪 Opened PR [#5](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/5) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
 <!--END_SECTION:activity-->
 
 ### Github Stats
