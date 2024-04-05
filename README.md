@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#283](https://github.com/launchdarkly/python-server-sdk/pull/283) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. 🎉 Merged PR [#282](https://github.com/launchdarkly/python-server-sdk/pull/282) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 💪 Opened PR [#267](https://github.com/launchdarkly/ruby-server-sdk/pull/267) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-4. 💪 Opened PR [#283](https://github.com/launchdarkly/python-server-sdk/pull/283) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🎉 Merged PR [#31](https://github.com/launchdarkly/python-eventsource/pull/31) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+1. 🎉 Merged PR [#7](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/7) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+2. 💪 Opened PR [#7](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/7) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+3. 🎉 Merged PR [#268](https://github.com/launchdarkly/ruby-server-sdk/pull/268) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+4. 💪 Opened PR [#6](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/6) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+5. 🗣 Commented on [#281](https://github.com/launchdarkly/python-server-sdk/issues/281#issuecomment-2039945535) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
