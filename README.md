@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/9) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
-2. 🎉 Merged PR [#11](https://github.com/launchdarkly/hello-rust/pull/11) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
-3. 💪 Opened PR [#9](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/9) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
-4. 🎉 Merged PR [#4](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/4) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
-5. 🎉 Merged PR [#8](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/8) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+1. 🗣 Commented on [#65](https://github.com/launchdarkly/rust-server-sdk/pull/65#issuecomment-2043090219) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+2. 🎉 Merged PR [#9](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/9) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+3. 🎉 Merged PR [#11](https://github.com/launchdarkly/hello-rust/pull/11) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
+4. 💪 Opened PR [#9](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/9) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+5. 🎉 Merged PR [#4](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/4) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
 <!--END_SECTION:activity-->
 
 ### Github Stats
