@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/launchdarkly/swift-eventsource/pull/76#issuecomment-2059213678) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-2. 💪 Opened PR [#12](https://github.com/launchdarkly/hello-roku/pull/12) in [launchdarkly/hello-roku](https://github.com/launchdarkly/hello-roku)
-3. 💪 Opened PR [#12](https://github.com/launchdarkly/hello-rust/pull/12) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
-4. 🎉 Merged PR [#20](https://github.com/launchdarkly/gh-actions/pull/20) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-5. 🗣 Commented on [#12](https://github.com/launchdarkly/hello-php/pull/12#issuecomment-2059045687) in [launchdarkly/hello-php](https://github.com/launchdarkly/hello-php)
+1. 💪 Opened PR [#43](https://github.com/launchdarkly/hello-macos/pull/43) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
+2. 💪 Opened PR [#48](https://github.com/launchdarkly/hello-ios-swift/pull/48) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
+3. 🗣 Commented on [#76](https://github.com/launchdarkly/swift-eventsource/pull/76#issuecomment-2059213678) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+4. 💪 Opened PR [#12](https://github.com/launchdarkly/hello-roku/pull/12) in [launchdarkly/hello-roku](https://github.com/launchdarkly/hello-roku)
+5. 💪 Opened PR [#12](https://github.com/launchdarkly/hello-rust/pull/12) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
 <!--END_SECTION:activity-->
 
 ### Github Stats
