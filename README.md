@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/launchdarkly/hello-roku/pull/12) in [launchdarkly/hello-roku](https://github.com/launchdarkly/hello-roku)
-2. 💪 Opened PR [#12](https://github.com/launchdarkly/hello-rust/pull/12) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
-3. 🎉 Merged PR [#20](https://github.com/launchdarkly/gh-actions/pull/20) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-4. 🗣 Commented on [#12](https://github.com/launchdarkly/hello-php/pull/12#issuecomment-2059045687) in [launchdarkly/hello-php](https://github.com/launchdarkly/hello-php)
-5. 💪 Opened PR [#12](https://github.com/launchdarkly/hello-haskell-server/pull/12) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
+1. 🗣 Commented on [#76](https://github.com/launchdarkly/swift-eventsource/pull/76#issuecomment-2059213678) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+2. 💪 Opened PR [#12](https://github.com/launchdarkly/hello-roku/pull/12) in [launchdarkly/hello-roku](https://github.com/launchdarkly/hello-roku)
+3. 💪 Opened PR [#12](https://github.com/launchdarkly/hello-rust/pull/12) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
+4. 🎉 Merged PR [#20](https://github.com/launchdarkly/gh-actions/pull/20) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+5. 🗣 Commented on [#12](https://github.com/launchdarkly/hello-php/pull/12#issuecomment-2059045687) in [launchdarkly/hello-php](https://github.com/launchdarkly/hello-php)
 <!--END_SECTION:activity-->
 
 ### Github Stats
