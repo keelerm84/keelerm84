@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/launchdarkly/hello-tvos/pull/44) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
-2. 🎉 Merged PR [#43](https://github.com/launchdarkly/hello-macos/pull/43) in [launchdarkly/hello-macos](https://github.com/launchdarkly/hello-macos)
-3. 🎉 Merged PR [#204](https://github.com/launchdarkly/sdk-test-harness/pull/204) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 🎉 Merged PR [#48](https://github.com/launchdarkly/hello-ios-swift/pull/48) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
-5. 🎉 Merged PR [#12](https://github.com/launchdarkly/hello-roku/pull/12) in [launchdarkly/hello-roku](https://github.com/launchdarkly/hello-roku)
+1. 🎉 Merged PR [#53](https://github.com/launchdarkly/hello-ios/pull/53) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
+2. 🎉 Merged PR [#12](https://github.com/launchdarkly/hello-php/pull/12) in [launchdarkly/hello-php](https://github.com/launchdarkly/hello-php)
+3. 🎉 Merged PR [#12](https://github.com/launchdarkly/hello-haskell-server/pull/12) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
+4. 🎉 Merged PR [#18](https://github.com/launchdarkly/hello-python/pull/18) in [launchdarkly/hello-python](https://github.com/launchdarkly/hello-python)
+5. 🎉 Merged PR [#12](https://github.com/launchdarkly/hello-rust/pull/12) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
 <!--END_SECTION:activity-->
 
 ### Github Stats
