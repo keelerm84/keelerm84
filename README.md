@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#291](https://github.com/launchdarkly/python-server-sdk/pull/291) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. 🗣 Commented on [#271](https://github.com/launchdarkly/ruby-server-sdk/issues/271#issuecomment-2083272363) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-3. 🎉 Merged PR [#273](https://github.com/launchdarkly/ruby-server-sdk/pull/273) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-4. 🎉 Merged PR [#290](https://github.com/launchdarkly/python-server-sdk/pull/290) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🎉 Merged PR [#30](https://github.com/launchdarkly/gh-actions/pull/30) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+1. 💪 Opened PR [#14](https://github.com/launchdarkly/hello-rust/pull/14) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
+2. 💪 Opened PR [#21](https://github.com/launchdarkly/hello-python/pull/21) in [launchdarkly/hello-python](https://github.com/launchdarkly/hello-python)
+3. 💪 Opened PR [#14](https://github.com/launchdarkly/hello-php/pull/14) in [launchdarkly/hello-php](https://github.com/launchdarkly/hello-php)
+4. 💪 Opened PR [#14](https://github.com/launchdarkly/hello-haskell-server/pull/14) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
+5. 💪 Opened PR [#6](https://github.com/launchdarkly/python-server-sdk-otel/pull/6) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
 <!--END_SECTION:activity-->
 
 ### Github Stats
