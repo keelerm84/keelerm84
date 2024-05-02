@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/launchdarkly/python-server-sdk-otel/pull/10) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
-2. 💪 Opened PR [#9](https://github.com/launchdarkly/python-server-sdk-otel/pull/9) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
-3. 🎉 Merged PR [#5](https://github.com/launchdarkly/python-server-sdk-otel/pull/5) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
-4. 🎉 Merged PR [#8](https://github.com/launchdarkly/python-server-sdk-otel/pull/8) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
-5. 💪 Opened PR [#10](https://github.com/launchdarkly/openfeature-python-server/pull/10) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
+1. 💪 Opened PR [#293](https://github.com/launchdarkly/python-server-sdk/pull/293) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+2. 🗣 Commented on [#375](https://github.com/launchdarkly/ios-client-sdk/pull/375#issuecomment-2090800419) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+3. 💪 Opened PR [#375](https://github.com/launchdarkly/ios-client-sdk/pull/375) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+4. 🎉 Merged PR [#371](https://github.com/launchdarkly/ios-client-sdk/pull/371) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 💪 Opened PR [#10](https://github.com/launchdarkly/python-server-sdk-otel/pull/10) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
 <!--END_SECTION:activity-->
 
 ### Github Stats
