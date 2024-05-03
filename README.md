@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/launchdarkly/openfeature-python-server/pull/11) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
-2. 🗣 Commented on [#368](https://github.com/launchdarkly/ios-client-sdk/issues/368#issuecomment-2093265713) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 🔒 Closed issue [#368](https://github.com/launchdarkly/ios-client-sdk/issues/368) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 🎉 Merged PR [#71](https://github.com/launchdarkly/rust-server-sdk/pull/71) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-5. 🎉 Merged PR [#274](https://github.com/launchdarkly/ruby-server-sdk/pull/274) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+1. 💪 Opened PR [#378](https://github.com/launchdarkly/ios-client-sdk/pull/378) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+2. 💪 Opened PR [#72](https://github.com/launchdarkly/rust-server-sdk/pull/72) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+3. 💪 Opened PR [#277](https://github.com/launchdarkly/ruby-server-sdk/pull/277) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+4. 🎉 Merged PR [#9](https://github.com/launchdarkly/python-server-sdk-otel/pull/9) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+5. 🎉 Merged PR [#276](https://github.com/launchdarkly/ruby-server-sdk/pull/276) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
