@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#379](https://github.com/launchdarkly/ios-client-sdk/pull/379) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🎉 Merged PR [#270](https://github.com/launchdarkly/ruby-server-sdk/pull/270) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-3. 🎉 Merged PR [#214](https://github.com/launchdarkly/sdk-test-harness/pull/214) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 🎉 Merged PR [#213](https://github.com/launchdarkly/sdk-test-harness/pull/213) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-5. 💪 Opened PR [#213](https://github.com/launchdarkly/sdk-test-harness/pull/213) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 🎉 Merged PR [#14](https://github.com/launchdarkly/hello-bootstrap-rails/pull/14) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+2. 🎉 Merged PR [#379](https://github.com/launchdarkly/ios-client-sdk/pull/379) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+3. 🎉 Merged PR [#270](https://github.com/launchdarkly/ruby-server-sdk/pull/270) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+4. 🎉 Merged PR [#214](https://github.com/launchdarkly/sdk-test-harness/pull/214) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. 🎉 Merged PR [#213](https://github.com/launchdarkly/sdk-test-harness/pull/213) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
 <!--END_SECTION:activity-->
 
 ### Github Stats
