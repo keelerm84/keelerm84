@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#384](https://github.com/launchdarkly/ios-client-sdk/pull/384) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🗣 Commented on [#2868](https://github.com/urllib3/urllib3/issues/2868#issuecomment-2115663240) in [urllib3/urllib3](https://github.com/urllib3/urllib3)
-3. 🎉 Merged PR [#14](https://github.com/launchdarkly/hello-bootstrap-rails/pull/14) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-4. 🎉 Merged PR [#379](https://github.com/launchdarkly/ios-client-sdk/pull/379) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 🎉 Merged PR [#270](https://github.com/launchdarkly/ruby-server-sdk/pull/270) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+1. 💪 Opened PR [#280](https://github.com/launchdarkly/ruby-server-sdk/pull/280) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+2. 💪 Opened PR [#296](https://github.com/launchdarkly/python-server-sdk/pull/296) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+3. 🎉 Merged PR [#15](https://github.com/launchdarkly/hello-bootstrap-rails/pull/15) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+4. 💪 Opened PR [#384](https://github.com/launchdarkly/ios-client-sdk/pull/384) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 🗣 Commented on [#2868](https://github.com/urllib3/urllib3/issues/2868#issuecomment-2115663240) in [urllib3/urllib3](https://github.com/urllib3/urllib3)
 <!--END_SECTION:activity-->
 
 ### Github Stats
