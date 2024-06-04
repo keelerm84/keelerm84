@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/launchdarkly/hello-r/pull/4) in [launchdarkly/hello-r](https://github.com/launchdarkly/hello-r)
-2. 🎉 Merged PR [#284](https://github.com/launchdarkly/ruby-server-sdk/pull/284) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-3. 🎉 Merged PR [#283](https://github.com/launchdarkly/ruby-server-sdk/pull/283) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-4. 🎉 Merged PR [#84](https://github.com/launchdarkly/rust-server-sdk/pull/84) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-5. 💪 Opened PR [#284](https://github.com/launchdarkly/ruby-server-sdk/pull/284) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+1. 🎉 Merged PR [#4](https://github.com/launchdarkly/hello-r/pull/4) in [launchdarkly/hello-r](https://github.com/launchdarkly/hello-r)
+2. 💪 Opened PR [#4](https://github.com/launchdarkly/hello-r/pull/4) in [launchdarkly/hello-r](https://github.com/launchdarkly/hello-r)
+3. 🎉 Merged PR [#284](https://github.com/launchdarkly/ruby-server-sdk/pull/284) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+4. 🎉 Merged PR [#283](https://github.com/launchdarkly/ruby-server-sdk/pull/283) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+5. 🎉 Merged PR [#84](https://github.com/launchdarkly/rust-server-sdk/pull/84) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
