@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/launchdarkly/openfeature-php-server/pull/14) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
-2. 🗣 Commented on [#75](https://github.com/launchdarkly/rust-eventsource-client/issues/75#issuecomment-2158294694) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-3. 🗣 Commented on [#76](https://github.com/launchdarkly/rust-eventsource-client/pull/76#issuecomment-2158292967) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-4. 💪 Opened PR [#10](https://github.com/launchdarkly/go-configtypes/pull/10) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
-5. 💪 Opened PR [#9](https://github.com/launchdarkly/go-configtypes/pull/9) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
+1. 🎉 Merged PR [#14](https://github.com/launchdarkly/openfeature-php-server/pull/14) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
+2. 🗣 Commented on [#281](https://github.com/launchdarkly/ruby-server-sdk/issues/281#issuecomment-2158905014) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+3. 🔒 Closed issue [#281](https://github.com/launchdarkly/ruby-server-sdk/issues/281) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+4. 🎉 Merged PR [#279](https://github.com/launchdarkly/ruby-server-sdk/pull/279) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+5. 🎉 Merged PR [#285](https://github.com/launchdarkly/ruby-server-sdk/pull/285) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
