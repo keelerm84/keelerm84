@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/launchdarkly/go-configtypes/pull/10) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
-2. 💪 Opened PR [#9](https://github.com/launchdarkly/go-configtypes/pull/9) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
-3. 💪 Opened PR [#8](https://github.com/launchdarkly/go-configtypes/pull/8) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
-4. 🎉 Merged PR [#7](https://github.com/launchdarkly/go-configtypes/pull/7) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
-5. 💪 Opened PR [#7](https://github.com/launchdarkly/go-configtypes/pull/7) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
+1. 🗣 Commented on [#75](https://github.com/launchdarkly/rust-eventsource-client/issues/75#issuecomment-2158294694) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 🗣 Commented on [#76](https://github.com/launchdarkly/rust-eventsource-client/pull/76#issuecomment-2158292967) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. 💪 Opened PR [#10](https://github.com/launchdarkly/go-configtypes/pull/10) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
+4. 💪 Opened PR [#9](https://github.com/launchdarkly/go-configtypes/pull/9) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
+5. 💪 Opened PR [#8](https://github.com/launchdarkly/go-configtypes/pull/8) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
 <!--END_SECTION:activity-->
 
 ### Github Stats
