@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/launchdarkly/go-configtypes/pull/10) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
-2. 🎉 Merged PR [#8](https://github.com/launchdarkly/go-configtypes/pull/8) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
-3. 🎉 Merged PR [#9](https://github.com/launchdarkly/go-configtypes/pull/9) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
-4. 🎉 Merged PR [#16](https://github.com/launchdarkly/openfeature-php-server/pull/16) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
-5. 🎉 Merged PR [#15](https://github.com/launchdarkly/openfeature-php-server/pull/15) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
+1. 💪 Opened PR [#17](https://github.com/launchdarkly/openfeature-php-server/pull/17) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
+2. 🎉 Merged PR [#10](https://github.com/launchdarkly/go-configtypes/pull/10) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
+3. 🎉 Merged PR [#8](https://github.com/launchdarkly/go-configtypes/pull/8) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
+4. 🎉 Merged PR [#9](https://github.com/launchdarkly/go-configtypes/pull/9) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
+5. 🎉 Merged PR [#16](https://github.com/launchdarkly/openfeature-php-server/pull/16) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
 <!--END_SECTION:activity-->
 
 ### Github Stats
