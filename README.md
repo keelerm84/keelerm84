@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#395](https://github.com/launchdarkly/ios-client-sdk/issues/395#issuecomment-2165930732) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🎉 Merged PR [#17](https://github.com/launchdarkly/openfeature-php-server/pull/17) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
-3. 💪 Opened PR [#11](https://github.com/launchdarkly/go-configtypes/pull/11) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
-4. 💪 Opened PR [#17](https://github.com/launchdarkly/openfeature-php-server/pull/17) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
-5. 🎉 Merged PR [#10](https://github.com/launchdarkly/go-configtypes/pull/10) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
+1. ❌ Closed PR [#85](https://github.com/launchdarkly/rust-server-sdk/pull/85) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+2. 💪 Opened PR [#85](https://github.com/launchdarkly/rust-server-sdk/pull/85) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+3. 🗣 Commented on [#395](https://github.com/launchdarkly/ios-client-sdk/issues/395#issuecomment-2165930732) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+4. 🎉 Merged PR [#17](https://github.com/launchdarkly/openfeature-php-server/pull/17) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
+5. 💪 Opened PR [#11](https://github.com/launchdarkly/go-configtypes/pull/11) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
 <!--END_SECTION:activity-->
 
 ### Github Stats
