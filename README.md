@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/launchdarkly/openfeature-php-server/pull/18) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
-2. 💪 Opened PR [#8](https://github.com/launchdarkly/hello-openfeature-php-server/pull/8) in [launchdarkly/hello-openfeature-php-server](https://github.com/launchdarkly/hello-openfeature-php-server)
-3. 💪 Opened PR [#18](https://github.com/launchdarkly/openfeature-php-server/pull/18) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
-4. 🎉 Merged PR [#11](https://github.com/launchdarkly/openfeature-php-server/pull/11) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
-5. ❌ Closed PR [#85](https://github.com/launchdarkly/rust-server-sdk/pull/85) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+1. 💪 Opened PR [#87](https://github.com/launchdarkly/rust-server-sdk/pull/87) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+2. 💪 Opened PR [#86](https://github.com/launchdarkly/rust-server-sdk/pull/86) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+3. 🎉 Merged PR [#18](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/18) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+4. 🎉 Merged PR [#18](https://github.com/launchdarkly/openfeature-php-server/pull/18) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
+5. 💪 Opened PR [#8](https://github.com/launchdarkly/hello-openfeature-php-server/pull/8) in [launchdarkly/hello-openfeature-php-server](https://github.com/launchdarkly/hello-openfeature-php-server)
 <!--END_SECTION:activity-->
 
 ### Github Stats
