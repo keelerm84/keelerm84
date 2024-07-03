@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/19) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-2. 🎉 Merged PR [#87](https://github.com/launchdarkly/rust-server-sdk/pull/87) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-3. 🎉 Merged PR [#86](https://github.com/launchdarkly/rust-server-sdk/pull/86) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-4. 💪 Opened PR [#87](https://github.com/launchdarkly/rust-server-sdk/pull/87) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-5. 💪 Opened PR [#86](https://github.com/launchdarkly/rust-server-sdk/pull/86) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+1. 🎉 Merged PR [#11](https://github.com/launchdarkly/go-configtypes/pull/11) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
+2. 💪 Opened PR [#19](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/19) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+3. 🎉 Merged PR [#87](https://github.com/launchdarkly/rust-server-sdk/pull/87) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+4. 🎉 Merged PR [#86](https://github.com/launchdarkly/rust-server-sdk/pull/86) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+5. 💪 Opened PR [#87](https://github.com/launchdarkly/rust-server-sdk/pull/87) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
