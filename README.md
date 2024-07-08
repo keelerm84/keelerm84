@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/21#issuecomment-2214522096) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-2. 💪 Opened PR [#21](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/21) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-3. 🎉 Merged PR [#19](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/19) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-4. 🎉 Merged PR [#8](https://github.com/launchdarkly/hello-openfeature-php-server/pull/8) in [launchdarkly/hello-openfeature-php-server](https://github.com/launchdarkly/hello-openfeature-php-server)
-5. 🎉 Merged PR [#12](https://github.com/launchdarkly/python-server-sdk-otel/pull/12) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+1. 💪 Opened PR [#89](https://github.com/launchdarkly/rust-server-sdk/pull/89) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+2. 🗣 Commented on [#21](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/21#issuecomment-2214522096) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+3. 💪 Opened PR [#21](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/21) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+4. 🎉 Merged PR [#19](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/19) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+5. 🎉 Merged PR [#8](https://github.com/launchdarkly/hello-openfeature-php-server/pull/8) in [launchdarkly/hello-openfeature-php-server](https://github.com/launchdarkly/hello-openfeature-php-server)
 <!--END_SECTION:activity-->
 
 ### Github Stats
