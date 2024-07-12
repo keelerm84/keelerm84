@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#111](https://github.com/launchdarkly/sdk-meta/pull/111) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-2. 💪 Opened PR [#90](https://github.com/launchdarkly/rust-server-sdk/pull/90) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-3. 🎉 Merged PR [#89](https://github.com/launchdarkly/rust-server-sdk/pull/89) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-4. 🎉 Merged PR [#20](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/20) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-5. 🎉 Merged PR [#22](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/22) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+1. 💪 Opened PR [#15](https://github.com/launchdarkly/openfeature-python-server/pull/15) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
+2. 💪 Opened PR [#14](https://github.com/launchdarkly/openfeature-python-server/pull/14) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
+3. 🎉 Merged PR [#111](https://github.com/launchdarkly/sdk-meta/pull/111) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+4. 💪 Opened PR [#90](https://github.com/launchdarkly/rust-server-sdk/pull/90) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+5. 🎉 Merged PR [#89](https://github.com/launchdarkly/rust-server-sdk/pull/89) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
