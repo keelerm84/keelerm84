@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#125](https://github.com/launchdarkly/sdk-meta/pull/125) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-2. 🗣 Commented on [#395](https://github.com/launchdarkly/ios-client-sdk/issues/395#issuecomment-2251277429) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 🗣 Commented on [#297](https://github.com/launchdarkly/python-server-sdk/issues/297#issuecomment-2251268744) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. 🗣 Commented on [#395](https://github.com/launchdarkly/ios-client-sdk/issues/395#issuecomment-2251261005) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 🗣 Commented on [#298](https://github.com/launchdarkly/python-server-sdk/issues/298#issuecomment-2251219665) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🗣 Commented on [#42](https://github.com/launchdarkly/rust-eventsource-client/pull/42#issuecomment-2253515862) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. ❌ Closed PR [#42](https://github.com/launchdarkly/rust-eventsource-client/pull/42) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. ❌ Closed PR [#76](https://github.com/launchdarkly/rust-eventsource-client/pull/76) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+4. 🗣 Commented on [#76](https://github.com/launchdarkly/rust-eventsource-client/pull/76#issuecomment-2253514669) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+5. 🎉 Merged PR [#80](https://github.com/launchdarkly/rust-eventsource-client/pull/80) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
 <!--END_SECTION:activity-->
 
 ### Github Stats
