@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#93](https://github.com/launchdarkly/rust-server-sdk/pull/93) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-2. 🗣 Commented on [#73](https://github.com/launchdarkly/rust-server-sdk/issues/73#issuecomment-2258678908) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-3. 🗣 Commented on [#92](https://github.com/launchdarkly/rust-server-sdk/issues/92#issuecomment-2256252549) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-4. 🔒 Closed issue [#297](https://github.com/launchdarkly/python-server-sdk/issues/297) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🗣 Commented on [#42](https://github.com/launchdarkly/rust-eventsource-client/pull/42#issuecomment-2253515862) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+1. 🗣 Commented on [#82](https://github.com/launchdarkly/swift-eventsource/issues/82#issuecomment-2258779207) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+2. 🗣 Commented on [#395](https://github.com/launchdarkly/ios-client-sdk/issues/395#issuecomment-2258737784) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+3. 💪 Opened PR [#93](https://github.com/launchdarkly/rust-server-sdk/pull/93) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+4. 🗣 Commented on [#73](https://github.com/launchdarkly/rust-server-sdk/issues/73#issuecomment-2258678908) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+5. 🗣 Commented on [#92](https://github.com/launchdarkly/rust-server-sdk/issues/92#issuecomment-2256252549) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
