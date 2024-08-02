@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/launchdarkly/hello-bootstrap-rails/pull/17) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-2. 💪 Opened PR [#399](https://github.com/launchdarkly/ios-client-sdk/pull/399) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 💪 Opened PR [#225](https://github.com/launchdarkly/sdk-test-harness/pull/225) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 🎉 Merged PR [#126](https://github.com/launchdarkly/sdk-meta/pull/126) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-5. 🎉 Merged PR [#14](https://github.com/launchdarkly/python-server-sdk-otel/pull/14) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+1. 🎉 Merged PR [#226](https://github.com/launchdarkly/sdk-test-harness/pull/226) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+2. 🎉 Merged PR [#225](https://github.com/launchdarkly/sdk-test-harness/pull/225) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+3. 🎉 Merged PR [#17](https://github.com/launchdarkly/hello-bootstrap-rails/pull/17) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+4. 💪 Opened PR [#399](https://github.com/launchdarkly/ios-client-sdk/pull/399) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 💪 Opened PR [#225](https://github.com/launchdarkly/sdk-test-harness/pull/225) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
 <!--END_SECTION:activity-->
 
 ### Github Stats
