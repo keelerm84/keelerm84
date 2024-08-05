@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/launchdarkly/openfeature-ruby-server/pull/4) in [launchdarkly/openfeature-ruby-server](https://github.com/launchdarkly/openfeature-ruby-server)
-2. 🎉 Merged PR [#401](https://github.com/launchdarkly/ios-client-sdk/pull/401) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 💪 Opened PR [#401](https://github.com/launchdarkly/ios-client-sdk/pull/401) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 🎉 Merged PR [#128](https://github.com/launchdarkly/sdk-meta/pull/128) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-5. 🎉 Merged PR [#400](https://github.com/launchdarkly/ios-client-sdk/pull/400) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+1. ❗ Opened issue [#622](https://github.com/open-feature/openfeature.dev/issues/622) in [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev)
+2. 🎉 Merged PR [#1](https://github.com/launchdarkly/hello-openfeature-ruby-server/pull/1) in [launchdarkly/hello-openfeature-ruby-server](https://github.com/launchdarkly/hello-openfeature-ruby-server)
+3. 🎉 Merged PR [#4](https://github.com/launchdarkly/openfeature-ruby-server/pull/4) in [launchdarkly/openfeature-ruby-server](https://github.com/launchdarkly/openfeature-ruby-server)
+4. 🎉 Merged PR [#401](https://github.com/launchdarkly/ios-client-sdk/pull/401) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 💪 Opened PR [#401](https://github.com/launchdarkly/ios-client-sdk/pull/401) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
