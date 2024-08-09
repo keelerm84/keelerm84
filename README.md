@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/launchdarkly/rust-server-sdk/issues/73#issuecomment-2276580136) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-2. 🎉 Merged PR [#94](https://github.com/launchdarkly/rust-server-sdk/pull/94) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-3. 🎉 Merged PR [#96](https://github.com/launchdarkly/rust-server-sdk/pull/96) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-4. 🗣 Commented on [#73](https://github.com/launchdarkly/rust-server-sdk/issues/73#issuecomment-2276551251) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-5. 💪 Opened PR [#96](https://github.com/launchdarkly/rust-server-sdk/pull/96) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+1. 🎉 Merged PR [#131](https://github.com/launchdarkly/sdk-meta/pull/131) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+2. 🗣 Commented on [#73](https://github.com/launchdarkly/rust-server-sdk/issues/73#issuecomment-2276580136) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+3. 🎉 Merged PR [#94](https://github.com/launchdarkly/rust-server-sdk/pull/94) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+4. 🎉 Merged PR [#96](https://github.com/launchdarkly/rust-server-sdk/pull/96) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+5. 🗣 Commented on [#73](https://github.com/launchdarkly/rust-server-sdk/issues/73#issuecomment-2276551251) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
