@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#398](https://github.com/launchdarkly/ios-client-sdk/issues/398#issuecomment-2278058668) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🎉 Merged PR [#131](https://github.com/launchdarkly/sdk-meta/pull/131) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-3. 🗣 Commented on [#73](https://github.com/launchdarkly/rust-server-sdk/issues/73#issuecomment-2276580136) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-4. 🎉 Merged PR [#94](https://github.com/launchdarkly/rust-server-sdk/pull/94) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-5. 🎉 Merged PR [#96](https://github.com/launchdarkly/rust-server-sdk/pull/96) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+1. 🗣 Commented on [#276](https://github.com/launchdarkly/ios-client-sdk/issues/276#issuecomment-2278309271) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+2. 🔒 Closed issue [#276](https://github.com/launchdarkly/ios-client-sdk/issues/276) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+3. 🗣 Commented on [#265](https://github.com/launchdarkly/ios-client-sdk/issues/265#issuecomment-2278304458) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+4. 🔒 Closed issue [#265](https://github.com/launchdarkly/ios-client-sdk/issues/265) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 🗣 Commented on [#388](https://github.com/launchdarkly/ios-client-sdk/issues/388#issuecomment-2278263551) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
