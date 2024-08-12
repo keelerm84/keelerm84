@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/launchdarkly/python-eventsource/pull/32) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
-2. 💪 Opened PR [#23](https://github.com/launchdarkly/hello-python/pull/23) in [launchdarkly/hello-python](https://github.com/launchdarkly/hello-python)
-3. 💪 Opened PR [#6](https://github.com/launchdarkly/hello-openfeature-python-server/pull/6) in [launchdarkly/hello-openfeature-python-server](https://github.com/launchdarkly/hello-openfeature-python-server)
-4. 💪 Opened PR [#18](https://github.com/launchdarkly/openfeature-python-server/pull/18) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
-5. 💪 Opened PR [#15](https://github.com/launchdarkly/python-server-sdk-otel/pull/15) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+1. 💪 Opened PR [#84](https://github.com/launchdarkly/swift-eventsource/pull/84) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+2. 💪 Opened PR [#407](https://github.com/launchdarkly/ios-client-sdk/pull/407) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+3. 💪 Opened PR [#15](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/15) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
+4. 💪 Opened PR [#86](https://github.com/launchdarkly/haskell-server-sdk/pull/86) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+5. 💪 Opened PR [#16](https://github.com/launchdarkly/hello-haskell-server/pull/16) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
 <!--END_SECTION:activity-->
 
 ### Github Stats
