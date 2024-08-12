@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#282](https://github.com/launchdarkly/ios-client-sdk/issues/282#issuecomment-2278313246) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🔒 Closed issue [#282](https://github.com/launchdarkly/ios-client-sdk/issues/282) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 🗣 Commented on [#276](https://github.com/launchdarkly/ios-client-sdk/issues/276#issuecomment-2278309271) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 🔒 Closed issue [#276](https://github.com/launchdarkly/ios-client-sdk/issues/276) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 🗣 Commented on [#265](https://github.com/launchdarkly/ios-client-sdk/issues/265#issuecomment-2278304458) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+1. 🎉 Merged PR [#39](https://github.com/launchdarkly/gh-actions/pull/39) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+2. 🎉 Merged PR [#37](https://github.com/launchdarkly/gh-actions/pull/37) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+3. 💪 Opened PR [#38](https://github.com/launchdarkly/gh-actions/pull/38) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+4. 💪 Opened PR [#37](https://github.com/launchdarkly/gh-actions/pull/37) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+5. 💪 Opened PR [#10](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/10) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
 <!--END_SECTION:activity-->
 
 ### Github Stats
