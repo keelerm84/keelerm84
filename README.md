@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/launchdarkly/swift-eventsource/pull/84) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-2. 💪 Opened PR [#407](https://github.com/launchdarkly/ios-client-sdk/pull/407) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 💪 Opened PR [#15](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/15) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
-4. 💪 Opened PR [#86](https://github.com/launchdarkly/haskell-server-sdk/pull/86) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-5. 💪 Opened PR [#16](https://github.com/launchdarkly/hello-haskell-server/pull/16) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
+1. 🎉 Merged PR [#16](https://github.com/launchdarkly/hello-ruby/pull/16) in [launchdarkly/hello-ruby](https://github.com/launchdarkly/hello-ruby)
+2. 🎉 Merged PR [#82](https://github.com/launchdarkly/rust-eventsource-client/pull/82) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. 🎉 Merged PR [#23](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/23) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+4. 🎉 Merged PR [#17](https://github.com/launchdarkly/hello-rust/pull/17) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
+5. 🎉 Merged PR [#16](https://github.com/launchdarkly/hello-haskell-server/pull/16) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
 <!--END_SECTION:activity-->
 
 ### Github Stats
