@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/launchdarkly/gh-actions/pull/39) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-2. 🎉 Merged PR [#37](https://github.com/launchdarkly/gh-actions/pull/37) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-3. 💪 Opened PR [#38](https://github.com/launchdarkly/gh-actions/pull/38) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-4. 💪 Opened PR [#37](https://github.com/launchdarkly/gh-actions/pull/37) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-5. 💪 Opened PR [#10](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/10) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+1. 💪 Opened PR [#32](https://github.com/launchdarkly/python-eventsource/pull/32) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+2. 💪 Opened PR [#23](https://github.com/launchdarkly/hello-python/pull/23) in [launchdarkly/hello-python](https://github.com/launchdarkly/hello-python)
+3. 💪 Opened PR [#6](https://github.com/launchdarkly/hello-openfeature-python-server/pull/6) in [launchdarkly/hello-openfeature-python-server](https://github.com/launchdarkly/hello-openfeature-python-server)
+4. 💪 Opened PR [#18](https://github.com/launchdarkly/openfeature-python-server/pull/18) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
+5. 💪 Opened PR [#15](https://github.com/launchdarkly/python-server-sdk-otel/pull/15) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
 <!--END_SECTION:activity-->
 
 ### Github Stats
