@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/launchdarkly/openfeature-ruby-server/pull/12) in [launchdarkly/openfeature-ruby-server](https://github.com/launchdarkly/openfeature-ruby-server)
-2. 🎉 Merged PR [#36](https://github.com/launchdarkly/roku-client-sdk/pull/36) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
-3. 🎉 Merged PR [#24](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/24) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-4. 💪 Opened PR [#24](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/24) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-5. 💪 Opened PR [#36](https://github.com/launchdarkly/roku-client-sdk/pull/36) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
+1. 🎉 Merged PR [#23](https://github.com/launchdarkly/hello-python/pull/23) in [launchdarkly/hello-python](https://github.com/launchdarkly/hello-python)
+2. 🎉 Merged PR [#6](https://github.com/launchdarkly/hello-openfeature-python-server/pull/6) in [launchdarkly/hello-openfeature-python-server](https://github.com/launchdarkly/hello-openfeature-python-server)
+3. 🎉 Merged PR [#16](https://github.com/launchdarkly/hello-php/pull/16) in [launchdarkly/hello-php](https://github.com/launchdarkly/hello-php)
+4. 🎉 Merged PR [#9](https://github.com/launchdarkly/hello-openfeature-php-server/pull/9) in [launchdarkly/hello-openfeature-php-server](https://github.com/launchdarkly/hello-openfeature-php-server)
+5. 🎉 Merged PR [#84](https://github.com/launchdarkly/swift-eventsource/pull/84) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
