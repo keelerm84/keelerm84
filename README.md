@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/10) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
-2. 🗣 Commented on [#430](https://github.com/launchdarkly/ld-relay/pull/430#issuecomment-2287118174) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 🎉 Merged PR [#430](https://github.com/launchdarkly/ld-relay/pull/430) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 🎉 Merged PR [#15](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/15) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
-5. 🎉 Merged PR [#19](https://github.com/launchdarkly/openfeature-php-server/pull/19) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
+1. 🎉 Merged PR [#44](https://github.com/launchdarkly/ruby-eventsource/pull/44) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+2. 🎉 Merged PR [#45](https://github.com/launchdarkly/ruby-eventsource/pull/45) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+3. 🎉 Merged PR [#86](https://github.com/launchdarkly/haskell-server-sdk/pull/86) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+4. 🎉 Merged PR [#10](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/10) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+5. 🗣 Commented on [#430](https://github.com/launchdarkly/ld-relay/pull/430#issuecomment-2287118174) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
