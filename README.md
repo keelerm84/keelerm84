@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/launchdarkly/ruby-eventsource/pull/44) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-2. 🎉 Merged PR [#45](https://github.com/launchdarkly/ruby-eventsource/pull/45) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-3. 🎉 Merged PR [#86](https://github.com/launchdarkly/haskell-server-sdk/pull/86) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-4. 🎉 Merged PR [#10](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/10) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
-5. 🗣 Commented on [#430](https://github.com/launchdarkly/ld-relay/pull/430#issuecomment-2287118174) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🎉 Merged PR [#3](https://github.com/keelerm84/cupfullofcode.com/pull/3) in [keelerm84/cupfullofcode.com](https://github.com/keelerm84/cupfullofcode.com)
+2. 🎉 Merged PR [#2](https://github.com/keelerm84/cupfullofcode.com/pull/2) in [keelerm84/cupfullofcode.com](https://github.com/keelerm84/cupfullofcode.com)
+3. 🎉 Merged PR [#44](https://github.com/launchdarkly/ruby-eventsource/pull/44) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+4. 🎉 Merged PR [#45](https://github.com/launchdarkly/ruby-eventsource/pull/45) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+5. 🎉 Merged PR [#86](https://github.com/launchdarkly/haskell-server-sdk/pull/86) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
