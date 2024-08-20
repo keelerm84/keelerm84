@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#305](https://github.com/launchdarkly/python-server-sdk/pull/305) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. 🎉 Merged PR [#301](https://github.com/launchdarkly/python-server-sdk/pull/301) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 🎉 Merged PR [#65](https://github.com/launchdarkly/ld-relay-helm/pull/65) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-4. 🎉 Merged PR [#136](https://github.com/launchdarkly/sdk-meta/pull/136) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-5. 🎉 Merged PR [#137](https://github.com/launchdarkly/sdk-meta/pull/137) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+1. 💪 Opened PR [#12](https://github.com/launchdarkly/hello-go/pull/12) in [launchdarkly/hello-go](https://github.com/launchdarkly/hello-go)
+2. 🎉 Merged PR [#139](https://github.com/launchdarkly/sdk-meta/pull/139) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+3. 🎉 Merged PR [#305](https://github.com/launchdarkly/python-server-sdk/pull/305) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 🎉 Merged PR [#301](https://github.com/launchdarkly/python-server-sdk/pull/301) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. 🎉 Merged PR [#65](https://github.com/launchdarkly/ld-relay-helm/pull/65) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
 <!--END_SECTION:activity-->
 
 ### Github Stats
