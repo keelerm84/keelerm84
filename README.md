@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#551](https://github.com/launchdarkly/js-core/pull/551) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-2. 🎉 Merged PR [#87](https://github.com/launchdarkly/haskell-server-sdk/pull/87) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-3. 💪 Opened PR [#87](https://github.com/launchdarkly/haskell-server-sdk/pull/87) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-4. 🎉 Merged PR [#18](https://github.com/launchdarkly/hello-bootstrap-rails/pull/18) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-5. 🎉 Merged PR [#142](https://github.com/launchdarkly/sdk-meta/pull/142) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+1. 🗣 Commented on [#83](https://github.com/launchdarkly/rust-eventsource-client/issues/83#issuecomment-2310652980) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 💪 Opened PR [#551](https://github.com/launchdarkly/js-core/pull/551) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+3. 🎉 Merged PR [#87](https://github.com/launchdarkly/haskell-server-sdk/pull/87) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+4. 💪 Opened PR [#87](https://github.com/launchdarkly/haskell-server-sdk/pull/87) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+5. 🎉 Merged PR [#18](https://github.com/launchdarkly/hello-bootstrap-rails/pull/18) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
 <!--END_SECTION:activity-->
 
 ### Github Stats
