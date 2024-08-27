@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/launchdarkly/python-server-sdk-otel/pull/16) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
-2. 🗣 Commented on [#308](https://github.com/launchdarkly/python-server-sdk/issues/308#issuecomment-2310849076) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 🔒 Closed issue [#308](https://github.com/launchdarkly/python-server-sdk/issues/308) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. 🎉 Merged PR [#310](https://github.com/launchdarkly/python-server-sdk/pull/310) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🎉 Merged PR [#309](https://github.com/launchdarkly/python-server-sdk/pull/309) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🎉 Merged PR [#143](https://github.com/launchdarkly/sdk-meta/pull/143) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+2. 🎉 Merged PR [#16](https://github.com/launchdarkly/python-server-sdk-otel/pull/16) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+3. 🗣 Commented on [#308](https://github.com/launchdarkly/python-server-sdk/issues/308#issuecomment-2310849076) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 🔒 Closed issue [#308](https://github.com/launchdarkly/python-server-sdk/issues/308) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. 🎉 Merged PR [#310](https://github.com/launchdarkly/python-server-sdk/pull/310) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
