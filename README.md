@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#229](https://github.com/launchdarkly/sdk-test-harness/pull/229) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-2. 🎉 Merged PR [#551](https://github.com/launchdarkly/js-core/pull/551) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-3. 🎉 Merged PR [#228](https://github.com/launchdarkly/sdk-test-harness/pull/228) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 🎉 Merged PR [#227](https://github.com/launchdarkly/sdk-test-harness/pull/227) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-5. 🗣 Commented on [#266](https://github.com/launchdarkly/python-server-sdk/issues/266#issuecomment-2321599083) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🎉 Merged PR [#88](https://github.com/launchdarkly/haskell-server-sdk/pull/88) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. 💪 Opened PR [#229](https://github.com/launchdarkly/sdk-test-harness/pull/229) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+3. 🎉 Merged PR [#551](https://github.com/launchdarkly/js-core/pull/551) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+4. 🎉 Merged PR [#228](https://github.com/launchdarkly/sdk-test-harness/pull/228) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. 🎉 Merged PR [#227](https://github.com/launchdarkly/sdk-test-harness/pull/227) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
 <!--END_SECTION:activity-->
 
 ### Github Stats
