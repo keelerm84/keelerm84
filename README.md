@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#238](https://github.com/launchdarkly/sdk-test-harness/pull/238) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-2. 🎉 Merged PR [#19](https://github.com/launchdarkly/hello-bootstrap-rails/pull/19) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-3. 🎉 Merged PR [#20](https://github.com/launchdarkly/openfeature-python-server/pull/20) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
-4. 🎉 Merged PR [#19](https://github.com/launchdarkly/openfeature-python-server/pull/19) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
-5. 💪 Opened PR [#19](https://github.com/launchdarkly/openfeature-python-server/pull/19) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
+1. 🎉 Merged PR [#153](https://github.com/launchdarkly/sdk-meta/pull/153) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+2. 🎉 Merged PR [#152](https://github.com/launchdarkly/sdk-meta/pull/152) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+3. 💪 Opened PR [#238](https://github.com/launchdarkly/sdk-test-harness/pull/238) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+4. 🎉 Merged PR [#19](https://github.com/launchdarkly/hello-bootstrap-rails/pull/19) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+5. 🎉 Merged PR [#20](https://github.com/launchdarkly/openfeature-python-server/pull/20) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
 <!--END_SECTION:activity-->
 
 ### Github Stats
