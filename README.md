@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#408](https://github.com/launchdarkly/ios-client-sdk/pull/408) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🎉 Merged PR [#243](https://github.com/launchdarkly/sdk-test-harness/pull/243) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 🎉 Merged PR [#247](https://github.com/launchdarkly/sdk-test-harness/pull/247) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 🎉 Merged PR [#315](https://github.com/launchdarkly/python-server-sdk/pull/315) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🎉 Merged PR [#314](https://github.com/launchdarkly/python-server-sdk/pull/314) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🎉 Merged PR [#18](https://github.com/launchdarkly/python-server-sdk-otel/pull/18) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+2. 🎉 Merged PR [#156](https://github.com/launchdarkly/sdk-meta/pull/156) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+3. 💪 Opened PR [#408](https://github.com/launchdarkly/ios-client-sdk/pull/408) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+4. 🎉 Merged PR [#243](https://github.com/launchdarkly/sdk-test-harness/pull/243) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. 🎉 Merged PR [#247](https://github.com/launchdarkly/sdk-test-harness/pull/247) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
 <!--END_SECTION:activity-->
 
 ### Github Stats
