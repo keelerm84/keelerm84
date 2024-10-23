@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#211](https://github.com/launchdarkly/php-server-sdk/pull/211) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-2. 🎉 Merged PR [#210](https://github.com/launchdarkly/php-server-sdk/pull/210) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-3. 💪 Opened PR [#248](https://github.com/launchdarkly/sdk-test-harness/pull/248) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 💪 Opened PR [#210](https://github.com/launchdarkly/php-server-sdk/pull/210) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-5. 🎉 Merged PR [#161](https://github.com/launchdarkly/sdk-meta/pull/161) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+1. 💪 Opened PR [#89](https://github.com/launchdarkly/haskell-server-sdk/pull/89) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. 🎉 Merged PR [#211](https://github.com/launchdarkly/php-server-sdk/pull/211) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+3. 🎉 Merged PR [#210](https://github.com/launchdarkly/php-server-sdk/pull/210) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+4. 💪 Opened PR [#248](https://github.com/launchdarkly/sdk-test-harness/pull/248) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. 💪 Opened PR [#210](https://github.com/launchdarkly/php-server-sdk/pull/210) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
