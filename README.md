@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#297](https://github.com/launchdarkly/ruby-server-sdk/issues/297#issuecomment-2445231210) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-2. 🗣 Commented on [#317](https://github.com/launchdarkly/python-server-sdk/issues/317#issuecomment-2444772977) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 💪 Opened PR [#37](https://github.com/launchdarkly/roku-client-sdk/pull/37) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
-4. 💪 Opened PR [#44](https://github.com/launchdarkly/gh-actions/pull/44) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-5. 🎉 Merged PR [#250](https://github.com/launchdarkly/sdk-test-harness/pull/250) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 💪 Opened PR [#301](https://github.com/launchdarkly/ruby-server-sdk/pull/301) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+2. 🗣 Commented on [#297](https://github.com/launchdarkly/ruby-server-sdk/issues/297#issuecomment-2445231210) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+3. 🗣 Commented on [#317](https://github.com/launchdarkly/python-server-sdk/issues/317#issuecomment-2444772977) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 💪 Opened PR [#37](https://github.com/launchdarkly/roku-client-sdk/pull/37) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
+5. 💪 Opened PR [#44](https://github.com/launchdarkly/gh-actions/pull/44) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
 <!--END_SECTION:activity-->
 
 ### Github Stats
