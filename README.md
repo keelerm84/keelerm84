@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#46](https://github.com/launchdarkly/gh-actions/pull/46) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-2. 🗣 Commented on [#254](https://github.com/launchdarkly/sdk-test-harness/pull/254#issuecomment-2450141620) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 💪 Opened PR [#254](https://github.com/launchdarkly/sdk-test-harness/pull/254) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 💪 Opened PR [#47](https://github.com/launchdarkly/gh-actions/pull/47) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-5. 🎉 Merged PR [#44](https://github.com/launchdarkly/gh-actions/pull/44) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+1. 🗣 Commented on [#297](https://github.com/launchdarkly/ruby-server-sdk/issues/297#issuecomment-2450283558) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+2. ❌ Closed PR [#48](https://github.com/launchdarkly/gh-actions/pull/48) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+3. ❌ Closed PR [#46](https://github.com/launchdarkly/gh-actions/pull/46) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+4. 🗣 Commented on [#254](https://github.com/launchdarkly/sdk-test-harness/pull/254#issuecomment-2450141620) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. 💪 Opened PR [#254](https://github.com/launchdarkly/sdk-test-harness/pull/254) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
 <!--END_SECTION:activity-->
 
 ### Github Stats
