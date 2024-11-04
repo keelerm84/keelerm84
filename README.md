@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#172](https://github.com/launchdarkly/sdk-meta/pull/172) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-2. 🎉 Merged PR [#177](https://github.com/launchdarkly/sdk-meta/pull/177) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-3. 🎉 Merged PR [#53](https://github.com/launchdarkly/gh-actions/pull/53) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-4. 🎉 Merged PR [#47](https://github.com/launchdarkly/gh-actions/pull/47) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-5. 🎉 Merged PR [#255](https://github.com/launchdarkly/sdk-test-harness/pull/255) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 🎉 Merged PR [#179](https://github.com/launchdarkly/sdk-meta/pull/179) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+2. 🎉 Merged PR [#172](https://github.com/launchdarkly/sdk-meta/pull/172) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+3. 🎉 Merged PR [#177](https://github.com/launchdarkly/sdk-meta/pull/177) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+4. 🎉 Merged PR [#53](https://github.com/launchdarkly/gh-actions/pull/53) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+5. 🎉 Merged PR [#47](https://github.com/launchdarkly/gh-actions/pull/47) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
 <!--END_SECTION:activity-->
 
 ### Github Stats
