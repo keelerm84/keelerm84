@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#303](https://github.com/launchdarkly/ruby-server-sdk/issues/303#issuecomment-2460463393) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-2. 🔒 Closed issue [#303](https://github.com/launchdarkly/ruby-server-sdk/issues/303) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-3. 🎉 Merged PR [#306](https://github.com/launchdarkly/ruby-server-sdk/pull/306) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-4. 🎉 Merged PR [#304](https://github.com/launchdarkly/ruby-server-sdk/pull/304) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-5. 🗣 Commented on [#305](https://github.com/launchdarkly/ruby-server-sdk/pull/305#issuecomment-2460455923) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+1. 💪 Opened PR [#415](https://github.com/launchdarkly/ios-client-sdk/pull/415) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+2. 🗣 Commented on [#303](https://github.com/launchdarkly/ruby-server-sdk/issues/303#issuecomment-2460463393) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+3. 🔒 Closed issue [#303](https://github.com/launchdarkly/ruby-server-sdk/issues/303) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+4. 🎉 Merged PR [#306](https://github.com/launchdarkly/ruby-server-sdk/pull/306) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+5. 🎉 Merged PR [#304](https://github.com/launchdarkly/ruby-server-sdk/pull/304) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
