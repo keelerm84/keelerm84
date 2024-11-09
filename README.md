@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/launchdarkly/openfeature-ruby-server/issues/13#issuecomment-2462970941) in [launchdarkly/openfeature-ruby-server](https://github.com/launchdarkly/openfeature-ruby-server)
-2. 🎉 Merged PR [#307](https://github.com/launchdarkly/ruby-server-sdk/pull/307) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-3. 🎉 Merged PR [#182](https://github.com/launchdarkly/sdk-meta/pull/182) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-4. 💪 Opened PR [#307](https://github.com/launchdarkly/ruby-server-sdk/pull/307) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-5. 🎉 Merged PR [#257](https://github.com/launchdarkly/sdk-test-harness/pull/257) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 🎉 Merged PR [#13](https://github.com/launchdarkly/python-server-sdk-ai/pull/13) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+2. 🎉 Merged PR [#14](https://github.com/launchdarkly/python-server-sdk-ai/pull/14) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+3. 💪 Opened PR [#14](https://github.com/launchdarkly/python-server-sdk-ai/pull/14) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+4. 🗣 Commented on [#13](https://github.com/launchdarkly/openfeature-ruby-server/issues/13#issuecomment-2462970941) in [launchdarkly/openfeature-ruby-server](https://github.com/launchdarkly/openfeature-ruby-server)
+5. 🎉 Merged PR [#307](https://github.com/launchdarkly/ruby-server-sdk/pull/307) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
