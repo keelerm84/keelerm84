@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/launchdarkly/python-server-sdk-ai/pull/15) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
-2. 💪 Opened PR [#21](https://github.com/launchdarkly/python-server-sdk-otel/pull/21) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
-3. 💪 Opened PR [#33](https://github.com/launchdarkly/python-eventsource/pull/33) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
-4. 💪 Opened PR [#259](https://github.com/launchdarkly/sdk-test-harness/pull/259) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-5. 🗣 Commented on [#318](https://github.com/launchdarkly/python-server-sdk/issues/318#issuecomment-2471669145) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 💪 Opened PR [#260](https://github.com/launchdarkly/sdk-test-harness/pull/260) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+2. 💪 Opened PR [#15](https://github.com/launchdarkly/python-server-sdk-ai/pull/15) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+3. 💪 Opened PR [#21](https://github.com/launchdarkly/python-server-sdk-otel/pull/21) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+4. 💪 Opened PR [#33](https://github.com/launchdarkly/python-eventsource/pull/33) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+5. 💪 Opened PR [#259](https://github.com/launchdarkly/sdk-test-harness/pull/259) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
 <!--END_SECTION:activity-->
 
 ### Github Stats
