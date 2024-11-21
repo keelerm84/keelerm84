@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#267](https://github.com/launchdarkly/sdk-test-harness/pull/267) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-2. 🎉 Merged PR [#18](https://github.com/launchdarkly/python-server-sdk-ai/pull/18) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
-3. 💪 Opened PR [#18](https://github.com/launchdarkly/python-server-sdk-ai/pull/18) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
-4. 🗣 Commented on [#267](https://github.com/launchdarkly/sdk-test-harness/pull/267#issuecomment-2486123853) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-5. 💪 Opened PR [#267](https://github.com/launchdarkly/sdk-test-harness/pull/267) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 🗣 Commented on [#85](https://github.com/launchdarkly/rust-eventsource-client/issues/85#issuecomment-2488776418) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 🎉 Merged PR [#267](https://github.com/launchdarkly/sdk-test-harness/pull/267) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+3. 🎉 Merged PR [#18](https://github.com/launchdarkly/python-server-sdk-ai/pull/18) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+4. 💪 Opened PR [#18](https://github.com/launchdarkly/python-server-sdk-ai/pull/18) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+5. 🗣 Commented on [#267](https://github.com/launchdarkly/sdk-test-harness/pull/267#issuecomment-2486123853) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
 <!--END_SECTION:activity-->
 
 ### Github Stats
