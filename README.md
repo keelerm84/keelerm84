@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#204](https://github.com/launchdarkly/go-server-sdk/pull/204) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-2. 💪 Opened PR [#19](https://github.com/launchdarkly/python-server-sdk-ai/pull/19) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
-3. 🗣 Commented on [#85](https://github.com/launchdarkly/rust-eventsource-client/issues/85#issuecomment-2488776418) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-4. 🎉 Merged PR [#267](https://github.com/launchdarkly/sdk-test-harness/pull/267) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-5. 🎉 Merged PR [#18](https://github.com/launchdarkly/python-server-sdk-ai/pull/18) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+1. 💪 Opened PR [#22](https://github.com/launchdarkly/python-server-sdk-otel/pull/22) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+2. 💪 Opened PR [#319](https://github.com/launchdarkly/python-server-sdk/pull/319) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+3. 💪 Opened PR [#34](https://github.com/launchdarkly/python-eventsource/pull/34) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+4. 🎉 Merged PR [#17](https://github.com/launchdarkly/python-server-sdk-ai/pull/17) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+5. 🎉 Merged PR [#19](https://github.com/launchdarkly/python-server-sdk-ai/pull/19) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
 <!--END_SECTION:activity-->
 
 ### Github Stats
