@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#268](https://github.com/launchdarkly/sdk-test-harness/pull/268#issuecomment-2494006206) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-2. 💪 Opened PR [#205](https://github.com/launchdarkly/go-server-sdk/pull/205) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-3. 💪 Opened PR [#268](https://github.com/launchdarkly/sdk-test-harness/pull/268) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 🗣 Commented on [#2868](https://github.com/urllib3/urllib3/issues/2868#issuecomment-2492400270) in [urllib3/urllib3](https://github.com/urllib3/urllib3)
-5. 🎉 Merged PR [#204](https://github.com/launchdarkly/go-server-sdk/pull/204) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+1. ❌ Closed PR [#205](https://github.com/launchdarkly/go-server-sdk/pull/205) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+2. 🗣 Commented on [#268](https://github.com/launchdarkly/sdk-test-harness/pull/268#issuecomment-2494006206) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+3. 💪 Opened PR [#205](https://github.com/launchdarkly/go-server-sdk/pull/205) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+4. 💪 Opened PR [#268](https://github.com/launchdarkly/sdk-test-harness/pull/268) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. 🗣 Commented on [#2868](https://github.com/urllib3/urllib3/issues/2868#issuecomment-2492400270) in [urllib3/urllib3](https://github.com/urllib3/urllib3)
 <!--END_SECTION:activity-->
 
 ### Github Stats
