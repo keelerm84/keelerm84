@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/launchdarkly/python-eventsource/pull/36) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
-2. 🎉 Merged PR [#35](https://github.com/launchdarkly/python-eventsource/pull/35) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
-3. 💪 Opened PR [#35](https://github.com/launchdarkly/python-eventsource/pull/35) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
-4. 💪 Opened PR [#25](https://github.com/launchdarkly/python-server-sdk-ai/pull/25) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
-5. 💪 Opened PR [#24](https://github.com/launchdarkly/python-server-sdk-ai/pull/24) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+1. 🎉 Merged PR [#36](https://github.com/launchdarkly/python-eventsource/pull/36) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+2. 💪 Opened PR [#36](https://github.com/launchdarkly/python-eventsource/pull/36) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+3. 🎉 Merged PR [#35](https://github.com/launchdarkly/python-eventsource/pull/35) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+4. 💪 Opened PR [#35](https://github.com/launchdarkly/python-eventsource/pull/35) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+5. 💪 Opened PR [#25](https://github.com/launchdarkly/python-server-sdk-ai/pull/25) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
 <!--END_SECTION:activity-->
 
 ### Github Stats
