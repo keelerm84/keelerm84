@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/launchdarkly/haskell-server-sdk/pull/91) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-2. 💪 Opened PR [#102](https://github.com/launchdarkly/rust-server-sdk/pull/102) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-3. 💪 Opened PR [#91](https://github.com/launchdarkly/haskell-server-sdk/pull/91) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-4. 🎉 Merged PR [#26](https://github.com/launchdarkly/python-server-sdk-ai/pull/26) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
-5. 🎉 Merged PR [#24](https://github.com/launchdarkly/hello-bootstrap-rails/pull/24) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+1. 💪 Opened PR [#93](https://github.com/launchdarkly/haskell-server-sdk/pull/93) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. 💪 Opened PR [#39](https://github.com/launchdarkly/roku-client-sdk/pull/39) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
+3. 🎉 Merged PR [#91](https://github.com/launchdarkly/haskell-server-sdk/pull/91) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+4. 💪 Opened PR [#102](https://github.com/launchdarkly/rust-server-sdk/pull/102) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+5. 💪 Opened PR [#91](https://github.com/launchdarkly/haskell-server-sdk/pull/91) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
