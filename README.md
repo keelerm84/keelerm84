@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#417](https://github.com/launchdarkly/ios-client-sdk/pull/417#issuecomment-2521293529) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 💪 Opened PR [#86](https://github.com/launchdarkly/swift-eventsource/pull/86) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-3. 💪 Opened PR [#418](https://github.com/launchdarkly/ios-client-sdk/pull/418) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 💪 Opened PR [#417](https://github.com/launchdarkly/ios-client-sdk/pull/417) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 🎉 Merged PR [#102](https://github.com/launchdarkly/rust-server-sdk/pull/102) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+1. 🎉 Merged PR [#93](https://github.com/launchdarkly/haskell-server-sdk/pull/93) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. 🎉 Merged PR [#86](https://github.com/launchdarkly/swift-eventsource/pull/86) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+3. 🎉 Merged PR [#418](https://github.com/launchdarkly/ios-client-sdk/pull/418) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+4. 🗣 Commented on [#417](https://github.com/launchdarkly/ios-client-sdk/pull/417#issuecomment-2521293529) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 💪 Opened PR [#86](https://github.com/launchdarkly/swift-eventsource/pull/86) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
