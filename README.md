@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/launchdarkly/electron-client-sdk/pull/46) in [launchdarkly/electron-client-sdk](https://github.com/launchdarkly/electron-client-sdk)
-2. 💪 Opened PR [#93](https://github.com/launchdarkly/okhttp-eventsource/pull/93) in [launchdarkly/okhttp-eventsource](https://github.com/launchdarkly/okhttp-eventsource)
-3. 💪 Opened PR [#32](https://github.com/launchdarkly/dotnet-sdk-internal/pull/32) in [launchdarkly/dotnet-sdk-internal](https://github.com/launchdarkly/dotnet-sdk-internal)
-4. 💪 Opened PR [#87](https://github.com/launchdarkly/c-server-sdk/pull/87) in [launchdarkly/c-server-sdk](https://github.com/launchdarkly/c-server-sdk)
-5. 💪 Opened PR [#76](https://github.com/launchdarkly/dotnet-sdk-common/pull/76) in [launchdarkly/dotnet-sdk-common](https://github.com/launchdarkly/dotnet-sdk-common)
+1. 🎉 Merged PR [#417](https://github.com/launchdarkly/ios-client-sdk/pull/417) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+2. 🎉 Merged PR [#23](https://github.com/launchdarkly/go-sdk-events/pull/23) in [launchdarkly/go-sdk-events](https://github.com/launchdarkly/go-sdk-events)
+3. 🎉 Merged PR [#35](https://github.com/launchdarkly/go-server-sdk-evaluation/pull/35) in [launchdarkly/go-server-sdk-evaluation](https://github.com/launchdarkly/go-server-sdk-evaluation)
+4. 🎉 Merged PR [#22](https://github.com/launchdarkly/apex-server-sdk/pull/22) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+5. 🎉 Merged PR [#87](https://github.com/launchdarkly/c-server-sdk/pull/87) in [launchdarkly/c-server-sdk](https://github.com/launchdarkly/c-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
