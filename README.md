@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#417](https://github.com/launchdarkly/ios-client-sdk/pull/417) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🎉 Merged PR [#23](https://github.com/launchdarkly/go-sdk-events/pull/23) in [launchdarkly/go-sdk-events](https://github.com/launchdarkly/go-sdk-events)
-3. 🎉 Merged PR [#35](https://github.com/launchdarkly/go-server-sdk-evaluation/pull/35) in [launchdarkly/go-server-sdk-evaluation](https://github.com/launchdarkly/go-server-sdk-evaluation)
-4. 🎉 Merged PR [#22](https://github.com/launchdarkly/apex-server-sdk/pull/22) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-5. 🎉 Merged PR [#87](https://github.com/launchdarkly/c-server-sdk/pull/87) in [launchdarkly/c-server-sdk](https://github.com/launchdarkly/c-server-sdk)
+1. 💪 Opened PR [#23](https://github.com/launchdarkly/go-server-sdk-consul/pull/23) in [launchdarkly/go-server-sdk-consul](https://github.com/launchdarkly/go-server-sdk-consul)
+2. 💪 Opened PR [#26](https://github.com/launchdarkly/go-jsonstream/pull/26) in [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream)
+3. 💪 Opened PR [#24](https://github.com/launchdarkly/go-sdk-events/pull/24) in [launchdarkly/go-sdk-events](https://github.com/launchdarkly/go-sdk-events)
+4. 🎉 Merged PR [#417](https://github.com/launchdarkly/ios-client-sdk/pull/417) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 🎉 Merged PR [#23](https://github.com/launchdarkly/go-sdk-events/pull/23) in [launchdarkly/go-sdk-events](https://github.com/launchdarkly/go-sdk-events)
 <!--END_SECTION:activity-->
 
 ### Github Stats
