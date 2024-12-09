@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/launchdarkly/go-server-sdk-dynamodb/pull/25) in [launchdarkly/go-server-sdk-dynamodb](https://github.com/launchdarkly/go-server-sdk-dynamodb)
-2. 💪 Opened PR [#28](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/28) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
-3. 💪 Opened PR [#36](https://github.com/launchdarkly/go-server-sdk-evaluation/pull/36) in [launchdarkly/go-server-sdk-evaluation](https://github.com/launchdarkly/go-server-sdk-evaluation)
-4. 💪 Opened PR [#23](https://github.com/launchdarkly/go-server-sdk-consul/pull/23) in [launchdarkly/go-server-sdk-consul](https://github.com/launchdarkly/go-server-sdk-consul)
-5. 💪 Opened PR [#26](https://github.com/launchdarkly/go-jsonstream/pull/26) in [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream)
+1. 🎉 Merged PR [#205](https://github.com/launchdarkly/sdk-meta/pull/205) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+2. 💪 Opened PR [#25](https://github.com/launchdarkly/go-server-sdk-dynamodb/pull/25) in [launchdarkly/go-server-sdk-dynamodb](https://github.com/launchdarkly/go-server-sdk-dynamodb)
+3. 💪 Opened PR [#28](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/28) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+4. 💪 Opened PR [#36](https://github.com/launchdarkly/go-server-sdk-evaluation/pull/36) in [launchdarkly/go-server-sdk-evaluation](https://github.com/launchdarkly/go-server-sdk-evaluation)
+5. 💪 Opened PR [#23](https://github.com/launchdarkly/go-server-sdk-consul/pull/23) in [launchdarkly/go-server-sdk-consul](https://github.com/launchdarkly/go-server-sdk-consul)
 <!--END_SECTION:activity-->
 
 ### Github Stats
