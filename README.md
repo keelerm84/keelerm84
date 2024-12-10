@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#465](https://github.com/launchdarkly/ld-relay/pull/465) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 🎉 Merged PR [#36](https://github.com/launchdarkly/go-server-sdk-evaluation/pull/36) in [launchdarkly/go-server-sdk-evaluation](https://github.com/launchdarkly/go-server-sdk-evaluation)
-3. 🎉 Merged PR [#25](https://github.com/launchdarkly/go-server-sdk-dynamodb/pull/25) in [launchdarkly/go-server-sdk-dynamodb](https://github.com/launchdarkly/go-server-sdk-dynamodb)
-4. 🎉 Merged PR [#28](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/28) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
-5. 🎉 Merged PR [#23](https://github.com/launchdarkly/go-server-sdk-consul/pull/23) in [launchdarkly/go-server-sdk-consul](https://github.com/launchdarkly/go-server-sdk-consul)
+1. 🎉 Merged PR [#103](https://github.com/launchdarkly/rust-server-sdk/pull/103) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+2. 🎉 Merged PR [#2](https://github.com/launchdarkly/hello-python-ai/pull/2) in [launchdarkly/hello-python-ai](https://github.com/launchdarkly/hello-python-ai)
+3. ❌ Closed PR [#1](https://github.com/launchdarkly/hello-python-ai/pull/1) in [launchdarkly/hello-python-ai](https://github.com/launchdarkly/hello-python-ai)
+4. 🎉 Merged PR [#207](https://github.com/launchdarkly/sdk-meta/pull/207) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+5. 🎉 Merged PR [#465](https://github.com/launchdarkly/ld-relay/pull/465) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
