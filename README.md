@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](https://github.com/launchdarkly/dotnet-core/pull/66) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
-2. 🎉 Merged PR [#224](https://github.com/launchdarkly/go-server-sdk/pull/224) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-3. 🎉 Merged PR [#225](https://github.com/launchdarkly/go-server-sdk/pull/225) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-4. 🎉 Merged PR [#64](https://github.com/launchdarkly/dotnet-core/pull/64) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
-5. 💪 Opened PR [#225](https://github.com/launchdarkly/go-server-sdk/pull/225) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+1. 🎉 Merged PR [#226](https://github.com/launchdarkly/go-server-sdk/pull/226) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+2. 🎉 Merged PR [#65](https://github.com/launchdarkly/dotnet-core/pull/65) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+3. 🎉 Merged PR [#30](https://github.com/launchdarkly/python-server-sdk-ai/pull/30) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+4. 🎉 Merged PR [#33](https://github.com/launchdarkly/python-server-sdk-ai/pull/33) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+5. 🎉 Merged PR [#66](https://github.com/launchdarkly/dotnet-core/pull/66) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
 <!--END_SECTION:activity-->
 
 ### Github Stats
