@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/launchdarkly/hello-go/pull/18) in [launchdarkly/hello-go](https://github.com/launchdarkly/hello-go)
-2. 💪 Opened PR [#271](https://github.com/launchdarkly/sdk-test-harness/pull/271) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 🗣 Commented on [#227](https://github.com/launchdarkly/go-server-sdk/pull/227#issuecomment-2551662635) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-4. 💪 Opened PR [#227](https://github.com/launchdarkly/go-server-sdk/pull/227) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-5. 💪 Opened PR [#270](https://github.com/launchdarkly/sdk-test-harness/pull/270) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 🎉 Merged PR [#45](https://github.com/launchdarkly/eventsource/pull/45) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
+2. 🎉 Merged PR [#44](https://github.com/launchdarkly/eventsource/pull/44) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
+3. 🎉 Merged PR [#18](https://github.com/launchdarkly/hello-go/pull/18) in [launchdarkly/hello-go](https://github.com/launchdarkly/hello-go)
+4. 💪 Opened PR [#271](https://github.com/launchdarkly/sdk-test-harness/pull/271) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. 🗣 Commented on [#227](https://github.com/launchdarkly/go-server-sdk/pull/227#issuecomment-2551662635) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
