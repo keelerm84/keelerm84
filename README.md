@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#231](https://github.com/launchdarkly/go-server-sdk/pull/231) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-2. 💪 Opened PR [#230](https://github.com/launchdarkly/go-server-sdk/pull/230) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-3. ❌ Closed PR [#229](https://github.com/launchdarkly/go-server-sdk/pull/229) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-4. 🎉 Merged PR [#228](https://github.com/launchdarkly/go-server-sdk/pull/228) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-5. 🎉 Merged PR [#227](https://github.com/launchdarkly/go-server-sdk/pull/227) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+1. 🎉 Merged PR [#272](https://github.com/launchdarkly/sdk-test-harness/pull/272) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+2. 🎉 Merged PR [#231](https://github.com/launchdarkly/go-server-sdk/pull/231) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+3. 🎉 Merged PR [#230](https://github.com/launchdarkly/go-server-sdk/pull/230) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+4. 🎉 Merged PR [#23](https://github.com/launchdarkly/python-server-sdk-otel/pull/23) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+5. 💪 Opened PR [#231](https://github.com/launchdarkly/go-server-sdk/pull/231) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
