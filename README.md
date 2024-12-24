@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#232](https://github.com/launchdarkly/go-server-sdk/pull/232) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-2. 🎉 Merged PR [#24](https://github.com/launchdarkly/python-server-sdk-otel/pull/24) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
-3. 💪 Opened PR [#273](https://github.com/launchdarkly/sdk-test-harness/pull/273) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 🎉 Merged PR [#34](https://github.com/launchdarkly/python-server-sdk-ai/pull/34) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
-5. 🎉 Merged PR [#321](https://github.com/launchdarkly/python-server-sdk/pull/321) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🎉 Merged PR [#95](https://github.com/launchdarkly/haskell-server-sdk/pull/95) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. 🎉 Merged PR [#94](https://github.com/launchdarkly/haskell-server-sdk/pull/94) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+3. 🎉 Merged PR [#214](https://github.com/launchdarkly/sdk-meta/pull/214) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+4. 💪 Opened PR [#232](https://github.com/launchdarkly/go-server-sdk/pull/232) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+5. 🎉 Merged PR [#24](https://github.com/launchdarkly/python-server-sdk-otel/pull/24) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
 <!--END_SECTION:activity-->
 
 ### Github Stats
