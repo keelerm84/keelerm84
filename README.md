@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/5#issuecomment-2568024203) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
-2. 💪 Opened PR [#5](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/5) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
-3. 🗣 Commented on [#322](https://github.com/launchdarkly/python-server-sdk/issues/322#issuecomment-2567922991) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. 💪 Opened PR [#323](https://github.com/launchdarkly/python-server-sdk/pull/323) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🎉 Merged PR [#25](https://github.com/launchdarkly/python-server-sdk-otel/pull/25) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+1. 🎉 Merged PR [#467](https://github.com/launchdarkly/ld-relay/pull/467) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 💪 Opened PR [#468](https://github.com/launchdarkly/ld-relay/pull/468) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 🎉 Merged PR [#6](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/6) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
+4. 💪 Opened PR [#6](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/6) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
+5. 🎉 Merged PR [#5](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/5) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
 <!--END_SECTION:activity-->
 
 ### Github Stats
