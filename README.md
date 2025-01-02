@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#322](https://github.com/launchdarkly/python-server-sdk/issues/322#issuecomment-2567922991) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. 💪 Opened PR [#323](https://github.com/launchdarkly/python-server-sdk/pull/323) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 🎉 Merged PR [#25](https://github.com/launchdarkly/python-server-sdk-otel/pull/25) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
-4. 🎉 Merged PR [#36](https://github.com/launchdarkly/python-server-sdk-ai/pull/36) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
-5. 🎉 Merged PR [#215](https://github.com/launchdarkly/sdk-meta/pull/215) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+1. 🗣 Commented on [#5](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/5#issuecomment-2568024203) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
+2. 💪 Opened PR [#5](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/5) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
+3. 🗣 Commented on [#322](https://github.com/launchdarkly/python-server-sdk/issues/322#issuecomment-2567922991) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 💪 Opened PR [#323](https://github.com/launchdarkly/python-server-sdk/pull/323) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. 🎉 Merged PR [#25](https://github.com/launchdarkly/python-server-sdk-otel/pull/25) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
 <!--END_SECTION:activity-->
 
 ### Github Stats
