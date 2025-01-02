@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/launchdarkly/okhttp-eventsource/pull/94) in [launchdarkly/okhttp-eventsource](https://github.com/launchdarkly/okhttp-eventsource)
-2. 💪 Opened PR [#94](https://github.com/launchdarkly/okhttp-eventsource/pull/94) in [launchdarkly/okhttp-eventsource](https://github.com/launchdarkly/okhttp-eventsource)
-3. 🎉 Merged PR [#27](https://github.com/launchdarkly/sse-contract-tests/pull/27) in [launchdarkly/sse-contract-tests](https://github.com/launchdarkly/sse-contract-tests)
-4. ❌ Closed PR [#26](https://github.com/launchdarkly/sse-contract-tests/pull/26) in [launchdarkly/sse-contract-tests](https://github.com/launchdarkly/sse-contract-tests)
-5. 💪 Opened PR [#27](https://github.com/launchdarkly/sse-contract-tests/pull/27) in [launchdarkly/sse-contract-tests](https://github.com/launchdarkly/sse-contract-tests)
+1. 🎉 Merged PR [#25](https://github.com/launchdarkly/python-server-sdk-otel/pull/25) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+2. 🎉 Merged PR [#36](https://github.com/launchdarkly/python-server-sdk-ai/pull/36) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+3. 🎉 Merged PR [#215](https://github.com/launchdarkly/sdk-meta/pull/215) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+4. 🎉 Merged PR [#94](https://github.com/launchdarkly/okhttp-eventsource/pull/94) in [launchdarkly/okhttp-eventsource](https://github.com/launchdarkly/okhttp-eventsource)
+5. 💪 Opened PR [#94](https://github.com/launchdarkly/okhttp-eventsource/pull/94) in [launchdarkly/okhttp-eventsource](https://github.com/launchdarkly/okhttp-eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
