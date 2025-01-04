@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#274](https://github.com/launchdarkly/sdk-test-harness/pull/274) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-2. 🗣 Commented on [#322](https://github.com/launchdarkly/python-server-sdk/issues/322#issuecomment-2569384428) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 🔒 Closed issue [#322](https://github.com/launchdarkly/python-server-sdk/issues/322) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. 🎉 Merged PR [#326](https://github.com/launchdarkly/python-server-sdk/pull/326) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🎉 Merged PR [#325](https://github.com/launchdarkly/python-server-sdk/pull/325) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🎉 Merged PR [#232](https://github.com/launchdarkly/go-server-sdk/pull/232) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+2. 💪 Opened PR [#274](https://github.com/launchdarkly/sdk-test-harness/pull/274) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+3. 🗣 Commented on [#322](https://github.com/launchdarkly/python-server-sdk/issues/322#issuecomment-2569384428) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 🔒 Closed issue [#322](https://github.com/launchdarkly/python-server-sdk/issues/322) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. 🎉 Merged PR [#326](https://github.com/launchdarkly/python-server-sdk/pull/326) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
