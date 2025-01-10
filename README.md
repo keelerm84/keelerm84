@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#472](https://github.com/launchdarkly/ld-relay/pull/472) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. ❌ Closed PR [#472](https://github.com/launchdarkly/ld-relay/pull/472) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 🎉 Merged PR [#219](https://github.com/launchdarkly/sdk-meta/pull/219) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-4. 🗣 Commented on [#212](https://github.com/launchdarkly/php-server-sdk/issues/212#issuecomment-2578726449) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-5. 🎉 Merged PR [#470](https://github.com/launchdarkly/ld-relay/pull/470) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 💪 Opened PR [#235](https://github.com/launchdarkly/go-server-sdk/pull/235) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+2. 🎉 Merged PR [#472](https://github.com/launchdarkly/ld-relay/pull/472) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. ❌ Reopened PR [#472](https://github.com/launchdarkly/ld-relay/pull/472) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. ❌ Closed PR [#472](https://github.com/launchdarkly/ld-relay/pull/472) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 🎉 Merged PR [#219](https://github.com/launchdarkly/sdk-meta/pull/219) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
 <!--END_SECTION:activity-->
 
 ### Github Stats
