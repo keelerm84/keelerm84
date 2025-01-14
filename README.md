@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/25#issuecomment-2588210946) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
-2. 💪 Opened PR [#25](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/25) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
-3. 💪 Opened PR [#24](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/24) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
-4. 💪 Opened PR [#213](https://github.com/launchdarkly/php-server-sdk/pull/213) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-5. 💪 Opened PR [#276](https://github.com/launchdarkly/sdk-test-harness/pull/276) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 💪 Opened PR [#24](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/24) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
+2. 🗣 Commented on [#25](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/25#issuecomment-2588210946) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+3. 💪 Opened PR [#25](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/25) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+4. 💪 Opened PR [#24](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/24) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+5. 💪 Opened PR [#213](https://github.com/launchdarkly/php-server-sdk/pull/213) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
