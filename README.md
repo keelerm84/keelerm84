@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/24) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
-2. ❌ Closed PR [#28](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/28) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
-3. ❌ Closed PR [#27](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/27) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
-4. 🎉 Merged PR [#26](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/26) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
-5. 🎉 Merged PR [#24](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/24) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+1. 🎉 Merged PR [#26](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/26) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
+2. 🎉 Merged PR [#25](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/25) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
+3. 🎉 Merged PR [#24](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/24) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
+4. ❌ Closed PR [#28](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/28) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+5. ❌ Closed PR [#27](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/27) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
 <!--END_SECTION:activity-->
 
 ### Github Stats
