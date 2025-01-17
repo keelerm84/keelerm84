@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#277](https://github.com/launchdarkly/sdk-test-harness/pull/277) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-2. 🎉 Merged PR [#276](https://github.com/launchdarkly/sdk-test-harness/pull/276) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 🗣 Commented on [#221](https://github.com/launchdarkly/sdk-meta/pull/221#issuecomment-2593556850) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-4. 🎉 Merged PR [#222](https://github.com/launchdarkly/sdk-meta/pull/222) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-5. 💪 Opened PR [#222](https://github.com/launchdarkly/sdk-meta/pull/222) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+1. 🎉 Merged PR [#71](https://github.com/launchdarkly/ld-relay-helm/pull/71) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+2. 🎉 Merged PR [#277](https://github.com/launchdarkly/sdk-test-harness/pull/277) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+3. 🎉 Merged PR [#276](https://github.com/launchdarkly/sdk-test-harness/pull/276) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+4. 🗣 Commented on [#221](https://github.com/launchdarkly/sdk-meta/pull/221#issuecomment-2593556850) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+5. 🎉 Merged PR [#222](https://github.com/launchdarkly/sdk-meta/pull/222) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
 <!--END_SECTION:activity-->
 
 ### Github Stats
