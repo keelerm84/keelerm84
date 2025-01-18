@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/30) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
-2. 🎉 Merged PR [#26](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/26) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
-3. 🎉 Merged PR [#25](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/25) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
-4. 🎉 Merged PR [#24](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/24) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
-5. ❌ Closed PR [#28](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/28) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+1. 🎉 Merged PR [#27](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/27) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
+2. 🎉 Merged PR [#32](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/32) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+3. ❌ Reopened PR [#473](https://github.com/launchdarkly/ld-relay/pull/473) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. ❌ Closed PR [#473](https://github.com/launchdarkly/ld-relay/pull/473) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 💪 Opened PR [#32](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/32) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
 <!--END_SECTION:activity-->
 
 ### Github Stats
