@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/27) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
-2. 🎉 Merged PR [#32](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/32) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
-3. ❌ Reopened PR [#473](https://github.com/launchdarkly/ld-relay/pull/473) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. ❌ Closed PR [#473](https://github.com/launchdarkly/ld-relay/pull/473) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 💪 Opened PR [#32](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/32) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+1. 🎉 Merged PR [#218](https://github.com/launchdarkly/sdk-meta/pull/218) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+2. 🎉 Merged PR [#224](https://github.com/launchdarkly/sdk-meta/pull/224) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+3. 🎉 Merged PR [#27](https://github.com/launchdarkly/php-server-sdk-redis-phpredis/pull/27) in [launchdarkly/php-server-sdk-redis-phpredis](https://github.com/launchdarkly/php-server-sdk-redis-phpredis)
+4. 🎉 Merged PR [#32](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/32) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+5. ❌ Reopened PR [#473](https://github.com/launchdarkly/ld-relay/pull/473) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
