@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#242](https://github.com/launchdarkly/go-server-sdk/pull/242) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-2. 🗣 Commented on [#25](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/25#issuecomment-2619290012) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-3. 🎉 Merged PR [#27](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/27) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-4. 🎉 Merged PR [#25](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/25) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-5. 🎉 Merged PR [#26](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/26) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+1. 🗣 Commented on [#223](https://github.com/launchdarkly/go-server-sdk/pull/223#issuecomment-2622134240) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+2. ❌ Closed PR [#223](https://github.com/launchdarkly/go-server-sdk/pull/223) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+3. 🎉 Merged PR [#242](https://github.com/launchdarkly/go-server-sdk/pull/242) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+4. 💪 Opened PR [#242](https://github.com/launchdarkly/go-server-sdk/pull/242) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+5. 🗣 Commented on [#25](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/25#issuecomment-2619290012) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
 <!--END_SECTION:activity-->
 
 ### Github Stats
