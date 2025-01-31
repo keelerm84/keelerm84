@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#769](https://github.com/launchdarkly/js-core/pull/769) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-2. 🎉 Merged PR [#760](https://github.com/launchdarkly/js-core/pull/760) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-3. 🗣 Commented on [#223](https://github.com/launchdarkly/go-server-sdk/pull/223#issuecomment-2622134240) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-4. ❌ Closed PR [#223](https://github.com/launchdarkly/go-server-sdk/pull/223) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-5. 🎉 Merged PR [#242](https://github.com/launchdarkly/go-server-sdk/pull/242) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+1. 🎉 Merged PR [#47](https://github.com/launchdarkly/electron-client-sdk/pull/47) in [launchdarkly/electron-client-sdk](https://github.com/launchdarkly/electron-client-sdk)
+2. 💪 Opened PR [#47](https://github.com/launchdarkly/electron-client-sdk/pull/47) in [launchdarkly/electron-client-sdk](https://github.com/launchdarkly/electron-client-sdk)
+3. 🎉 Merged PR [#769](https://github.com/launchdarkly/js-core/pull/769) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+4. 🎉 Merged PR [#760](https://github.com/launchdarkly/js-core/pull/760) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+5. 🗣 Commented on [#223](https://github.com/launchdarkly/go-server-sdk/pull/223#issuecomment-2622134240) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
