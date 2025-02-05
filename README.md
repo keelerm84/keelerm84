@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#243](https://github.com/launchdarkly/go-server-sdk/pull/243) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-2. 💪 Opened PR [#243](https://github.com/launchdarkly/go-server-sdk/pull/243) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-3. 🎉 Merged PR [#14](https://github.com/launchdarkly/java-test-helpers/pull/14) in [launchdarkly/java-test-helpers](https://github.com/launchdarkly/java-test-helpers)
-4. 💪 Opened PR [#14](https://github.com/launchdarkly/java-test-helpers/pull/14) in [launchdarkly/java-test-helpers](https://github.com/launchdarkly/java-test-helpers)
-5. 💪 Opened PR [#13](https://github.com/launchdarkly/dotnet-test-helpers/pull/13) in [launchdarkly/dotnet-test-helpers](https://github.com/launchdarkly/dotnet-test-helpers)
+1. 💪 Opened PR [#71](https://github.com/launchdarkly/dotnet-core/pull/71) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+2. 🎉 Merged PR [#243](https://github.com/launchdarkly/go-server-sdk/pull/243) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+3. 💪 Opened PR [#243](https://github.com/launchdarkly/go-server-sdk/pull/243) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+4. 🎉 Merged PR [#14](https://github.com/launchdarkly/java-test-helpers/pull/14) in [launchdarkly/java-test-helpers](https://github.com/launchdarkly/java-test-helpers)
+5. 💪 Opened PR [#14](https://github.com/launchdarkly/java-test-helpers/pull/14) in [launchdarkly/java-test-helpers](https://github.com/launchdarkly/java-test-helpers)
 <!--END_SECTION:activity-->
 
 ### Github Stats
