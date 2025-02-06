@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#73](https://github.com/launchdarkly/dotnet-core/pull/73) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
-2. ❌ Closed PR [#72](https://github.com/launchdarkly/dotnet-core/pull/72) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
-3. 💪 Opened PR [#72](https://github.com/launchdarkly/dotnet-core/pull/72) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
-4. 💪 Opened PR [#71](https://github.com/launchdarkly/dotnet-core/pull/71) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
-5. 🎉 Merged PR [#243](https://github.com/launchdarkly/go-server-sdk/pull/243) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+1. 💪 Opened PR [#475](https://github.com/launchdarkly/ld-relay/pull/475) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 💪 Opened PR [#73](https://github.com/launchdarkly/dotnet-core/pull/73) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+3. ❌ Closed PR [#72](https://github.com/launchdarkly/dotnet-core/pull/72) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+4. 💪 Opened PR [#72](https://github.com/launchdarkly/dotnet-core/pull/72) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+5. 💪 Opened PR [#71](https://github.com/launchdarkly/dotnet-core/pull/71) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
 <!--END_SECTION:activity-->
 
 ### Github Stats
