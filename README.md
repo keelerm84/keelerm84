@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#230](https://github.com/launchdarkly/sdk-meta/pull/230) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-2. 🎉 Merged PR [#231](https://github.com/launchdarkly/sdk-meta/pull/231) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-3. 🎉 Merged PR [#71](https://github.com/launchdarkly/dotnet-core/pull/71) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
-4. 🎉 Merged PR [#73](https://github.com/launchdarkly/dotnet-core/pull/73) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
-5. 🗣 Commented on [#474](https://github.com/launchdarkly/ld-relay/issues/474#issuecomment-2637883598) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🎉 Merged PR [#75](https://github.com/launchdarkly/dotnet-core/pull/75) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+2. 🎉 Merged PR [#230](https://github.com/launchdarkly/sdk-meta/pull/230) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+3. 🎉 Merged PR [#231](https://github.com/launchdarkly/sdk-meta/pull/231) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+4. 🎉 Merged PR [#71](https://github.com/launchdarkly/dotnet-core/pull/71) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+5. 🎉 Merged PR [#73](https://github.com/launchdarkly/dotnet-core/pull/73) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
 <!--END_SECTION:activity-->
 
 ### Github Stats
