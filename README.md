@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/launchdarkly/hello-bootstrap-rails/pull/26) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-2. 💪 Opened PR [#309](https://github.com/launchdarkly/ruby-server-sdk/pull/309) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-3. 🗣 Commented on [#308](https://github.com/launchdarkly/ruby-server-sdk/issues/308#issuecomment-2643387402) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-4. 🎉 Merged PR [#75](https://github.com/launchdarkly/dotnet-core/pull/75) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
-5. 🎉 Merged PR [#230](https://github.com/launchdarkly/sdk-meta/pull/230) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+1. ❌ Reopened PR [#247](https://github.com/launchdarkly/go-server-sdk/pull/247) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+2. ❌ Closed PR [#247](https://github.com/launchdarkly/go-server-sdk/pull/247) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+3. 🗣 Commented on [#246](https://github.com/launchdarkly/go-server-sdk/pull/246#issuecomment-2654377050) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+4. ❌ Closed PR [#246](https://github.com/launchdarkly/go-server-sdk/pull/246) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+5. 💪 Opened PR [#248](https://github.com/launchdarkly/go-server-sdk/pull/248) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
