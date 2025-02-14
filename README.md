@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#247](https://github.com/launchdarkly/go-server-sdk/pull/247) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-2. ❌ Closed PR [#247](https://github.com/launchdarkly/go-server-sdk/pull/247) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-3. 🗣 Commented on [#431](https://github.com/launchdarkly/ios-client-sdk/issues/431#issuecomment-2657552518) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. ❌ Reopened PR [#477](https://github.com/launchdarkly/ld-relay/pull/477) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. ❌ Closed PR [#477](https://github.com/launchdarkly/ld-relay/pull/477) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🔒 Closed issue [#82](https://github.com/launchdarkly/swift-eventsource/issues/82) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+2. ❌ Reopened PR [#247](https://github.com/launchdarkly/go-server-sdk/pull/247) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+3. ❌ Closed PR [#247](https://github.com/launchdarkly/go-server-sdk/pull/247) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+4. 🗣 Commented on [#431](https://github.com/launchdarkly/ios-client-sdk/issues/431#issuecomment-2657552518) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. ❌ Reopened PR [#477](https://github.com/launchdarkly/ld-relay/pull/477) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
