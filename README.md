@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#786](https://github.com/launchdarkly/js-core/pull/786) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-2. 🎉 Merged PR [#234](https://github.com/launchdarkly/sdk-meta/pull/234) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-3. 🎉 Merged PR [#479](https://github.com/launchdarkly/ld-relay/pull/479) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 🎉 Merged PR [#478](https://github.com/launchdarkly/ld-relay/pull/478) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 🎉 Merged PR [#477](https://github.com/launchdarkly/ld-relay/pull/477) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🎉 Merged PR [#310](https://github.com/launchdarkly/ruby-server-sdk/pull/310) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+2. 💪 Opened PR [#310](https://github.com/launchdarkly/ruby-server-sdk/pull/310) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+3. 🎉 Merged PR [#309](https://github.com/launchdarkly/ruby-server-sdk/pull/309) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+4. 💪 Opened PR [#88](https://github.com/launchdarkly/rust-eventsource-client/pull/88) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+5. 💪 Opened PR [#786](https://github.com/launchdarkly/js-core/pull/786) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
 <!--END_SECTION:activity-->
 
 ### Github Stats
