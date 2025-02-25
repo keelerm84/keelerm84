@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#313](https://github.com/launchdarkly/ruby-server-sdk/pull/313) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-2. 💪 Opened PR [#313](https://github.com/launchdarkly/ruby-server-sdk/pull/313) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-3. 🔒 Closed issue [#86](https://github.com/launchdarkly/rust-eventsource-client/issues/86) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-4. 🗣 Commented on [#86](https://github.com/launchdarkly/rust-eventsource-client/issues/86#issuecomment-2679297513) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-5. 🎉 Merged PR [#89](https://github.com/launchdarkly/rust-eventsource-client/pull/89) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+1. 🎉 Merged PR [#28](https://github.com/launchdarkly/hello-bootstrap-rails/pull/28) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+2. 🗣 Commented on [#308](https://github.com/launchdarkly/ruby-server-sdk/issues/308#issuecomment-2679560060) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+3. 🔒 Closed issue [#308](https://github.com/launchdarkly/ruby-server-sdk/issues/308) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+4. 🎉 Merged PR [#314](https://github.com/launchdarkly/ruby-server-sdk/pull/314) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+5. 💪 Opened PR [#314](https://github.com/launchdarkly/ruby-server-sdk/pull/314) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
