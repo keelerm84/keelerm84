@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#786](https://github.com/launchdarkly/js-core/pull/786) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-2. 🎉 Merged PR [#28](https://github.com/launchdarkly/hello-bootstrap-rails/pull/28) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-3. 🗣 Commented on [#308](https://github.com/launchdarkly/ruby-server-sdk/issues/308#issuecomment-2679560060) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-4. 🔒 Closed issue [#308](https://github.com/launchdarkly/ruby-server-sdk/issues/308) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-5. 🎉 Merged PR [#314](https://github.com/launchdarkly/ruby-server-sdk/pull/314) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+1. 🎉 Merged PR [#789](https://github.com/launchdarkly/js-core/pull/789) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+2. 🎉 Merged PR [#790](https://github.com/launchdarkly/js-core/pull/790) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+3. 💪 Opened PR [#790](https://github.com/launchdarkly/js-core/pull/790) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+4. 🎉 Merged PR [#786](https://github.com/launchdarkly/js-core/pull/786) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+5. 🎉 Merged PR [#28](https://github.com/launchdarkly/hello-bootstrap-rails/pull/28) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
 <!--END_SECTION:activity-->
 
 ### Github Stats
