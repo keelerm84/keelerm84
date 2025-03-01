@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#789](https://github.com/launchdarkly/js-core/pull/789) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-2. 🎉 Merged PR [#790](https://github.com/launchdarkly/js-core/pull/790) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-3. 💪 Opened PR [#790](https://github.com/launchdarkly/js-core/pull/790) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-4. 🎉 Merged PR [#786](https://github.com/launchdarkly/js-core/pull/786) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-5. 🎉 Merged PR [#28](https://github.com/launchdarkly/hello-bootstrap-rails/pull/28) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+1. 💪 Opened PR [#39](https://github.com/launchdarkly/python-eventsource/pull/39) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+2. 🎉 Merged PR [#789](https://github.com/launchdarkly/js-core/pull/789) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+3. 🎉 Merged PR [#790](https://github.com/launchdarkly/js-core/pull/790) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+4. 💪 Opened PR [#790](https://github.com/launchdarkly/js-core/pull/790) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+5. 🎉 Merged PR [#786](https://github.com/launchdarkly/js-core/pull/786) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
 <!--END_SECTION:activity-->
 
 ### Github Stats
