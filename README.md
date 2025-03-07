@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/launchdarkly/hello-bootstrap-rails/pull/29) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-2. 💪 Opened PR [#29](https://github.com/launchdarkly/go-sdk-events/pull/29) in [launchdarkly/go-sdk-events](https://github.com/launchdarkly/go-sdk-events)
-3. 🗣 Commented on [#27](https://github.com/launchdarkly/go-sdk-events/issues/27#issuecomment-2704882418) in [launchdarkly/go-sdk-events](https://github.com/launchdarkly/go-sdk-events)
-4. 🎉 Merged PR [#482](https://github.com/launchdarkly/ld-relay/pull/482) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 🎉 Merged PR [#26](https://github.com/launchdarkly/python-server-sdk-otel/pull/26) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+1. ❌ Closed PR [#47](https://github.com/launchdarkly/ruby-eventsource/pull/47) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+2. 🗣 Commented on [#316](https://github.com/launchdarkly/ruby-server-sdk/pull/316#issuecomment-2707064457) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+3. 💪 Opened PR [#47](https://github.com/launchdarkly/ruby-eventsource/pull/47) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+4. 💪 Opened PR [#29](https://github.com/launchdarkly/hello-bootstrap-rails/pull/29) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+5. 💪 Opened PR [#29](https://github.com/launchdarkly/go-sdk-events/pull/29) in [launchdarkly/go-sdk-events](https://github.com/launchdarkly/go-sdk-events)
 <!--END_SECTION:activity-->
 
 ### Github Stats
