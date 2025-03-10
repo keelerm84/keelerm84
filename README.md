@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#50](https://github.com/launchdarkly/ruby-eventsource/pull/50) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-2. 🎉 Merged PR [#49](https://github.com/launchdarkly/ruby-eventsource/pull/49) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-3. 💪 Opened PR [#49](https://github.com/launchdarkly/ruby-eventsource/pull/49) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-4. 🎉 Merged PR [#48](https://github.com/launchdarkly/ruby-eventsource/pull/48) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-5. 🎉 Merged PR [#46](https://github.com/launchdarkly/ruby-eventsource/pull/46) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+1. 🎉 Merged PR [#237](https://github.com/launchdarkly/sdk-meta/pull/237) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+2. 💪 Opened PR [#50](https://github.com/launchdarkly/ruby-eventsource/pull/50) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+3. 🎉 Merged PR [#49](https://github.com/launchdarkly/ruby-eventsource/pull/49) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+4. 💪 Opened PR [#49](https://github.com/launchdarkly/ruby-eventsource/pull/49) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+5. 🎉 Merged PR [#48](https://github.com/launchdarkly/ruby-eventsource/pull/48) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
