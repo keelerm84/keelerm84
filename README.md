@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#316](https://github.com/launchdarkly/ruby-server-sdk/pull/316#issuecomment-2710911813) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-2. 🎉 Merged PR [#317](https://github.com/launchdarkly/ruby-server-sdk/pull/317) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-3. 🗣 Commented on [#316](https://github.com/launchdarkly/ruby-server-sdk/pull/316#issuecomment-2710809171) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-4. 🎉 Merged PR [#316](https://github.com/launchdarkly/ruby-server-sdk/pull/316) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-5. 🎉 Merged PR [#237](https://github.com/launchdarkly/sdk-meta/pull/237) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+1. 🗣 Commented on [#66](https://github.com/launchdarkly/ld-relay-helm/issues/66#issuecomment-2710994009) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+2. 🔒 Closed issue [#66](https://github.com/launchdarkly/ld-relay-helm/issues/66) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+3. 💪 Opened PR [#72](https://github.com/launchdarkly/ld-relay-helm/pull/72) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+4. 🎉 Merged PR [#29](https://github.com/launchdarkly/go-sdk-events/pull/29) in [launchdarkly/go-sdk-events](https://github.com/launchdarkly/go-sdk-events)
+5. 🗣 Commented on [#316](https://github.com/launchdarkly/ruby-server-sdk/pull/316#issuecomment-2710911813) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
