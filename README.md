@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#483](https://github.com/launchdarkly/ld-relay/pull/483) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 🎉 Merged PR [#480](https://github.com/launchdarkly/ld-relay/pull/480) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 🎉 Merged PR [#239](https://github.com/launchdarkly/sdk-meta/pull/239) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-4. 🎉 Merged PR [#238](https://github.com/launchdarkly/sdk-meta/pull/238) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-5. 🗣 Commented on [#66](https://github.com/launchdarkly/ld-relay-helm/issues/66#issuecomment-2710994009) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+1. 🎉 Merged PR [#30](https://github.com/launchdarkly/go-sdk-events/pull/30) in [launchdarkly/go-sdk-events](https://github.com/launchdarkly/go-sdk-events)
+2. 🎉 Merged PR [#28](https://github.com/launchdarkly/go-sdk-events/pull/28) in [launchdarkly/go-sdk-events](https://github.com/launchdarkly/go-sdk-events)
+3. 🎉 Merged PR [#327](https://github.com/launchdarkly/python-server-sdk/pull/327) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 🎉 Merged PR [#280](https://github.com/launchdarkly/sdk-test-harness/pull/280) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. 🎉 Merged PR [#278](https://github.com/launchdarkly/sdk-test-harness/pull/278) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
 <!--END_SECTION:activity-->
 
 ### Github Stats
