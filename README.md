@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#251](https://github.com/launchdarkly/go-server-sdk/pull/251) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-2. 🎉 Merged PR [#282](https://github.com/launchdarkly/sdk-test-harness/pull/282) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 🎉 Merged PR [#281](https://github.com/launchdarkly/sdk-test-harness/pull/281) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 💪 Opened PR [#281](https://github.com/launchdarkly/sdk-test-harness/pull/281) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-5. 🎉 Merged PR [#30](https://github.com/launchdarkly/go-sdk-events/pull/30) in [launchdarkly/go-sdk-events](https://github.com/launchdarkly/go-sdk-events)
+1. 🎉 Merged PR [#217](https://github.com/launchdarkly/php-server-sdk/pull/217) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+2. 🎉 Merged PR [#215](https://github.com/launchdarkly/php-server-sdk/pull/215) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+3. 🎉 Merged PR [#251](https://github.com/launchdarkly/go-server-sdk/pull/251) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+4. 🎉 Merged PR [#315](https://github.com/launchdarkly/ruby-server-sdk/pull/315) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+5. 💪 Opened PR [#251](https://github.com/launchdarkly/go-server-sdk/pull/251) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
