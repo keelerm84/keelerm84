@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#241](https://github.com/launchdarkly/sdk-meta/pull/241) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-2. 🎉 Merged PR [#19](https://github.com/launchdarkly/hello-go/pull/19) in [launchdarkly/hello-go](https://github.com/launchdarkly/hello-go)
-3. 🎉 Merged PR [#240](https://github.com/launchdarkly/sdk-meta/pull/240) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-4. 🗣 Commented on [#801](https://github.com/launchdarkly/js-core/pull/801#issuecomment-2724897546) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-5. 💪 Opened PR [#801](https://github.com/launchdarkly/js-core/pull/801) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+1. 🎉 Merged PR [#804](https://github.com/launchdarkly/js-core/pull/804) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+2. 🗣 Commented on [#801](https://github.com/launchdarkly/js-core/pull/801#issuecomment-2725706026) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+3. 💪 Opened PR [#804](https://github.com/launchdarkly/js-core/pull/804) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+4. 🗣 Commented on [#107](https://github.com/launchdarkly/rust-server-sdk/pull/107#issuecomment-2725659668) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+5. 🗣 Commented on [#106](https://github.com/launchdarkly/rust-server-sdk/issues/106#issuecomment-2725615039) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
