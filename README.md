@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#220](https://github.com/launchdarkly/php-server-sdk/pull/220) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-2. 🗣 Commented on [#219](https://github.com/launchdarkly/php-server-sdk/pull/219#issuecomment-2730343001) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-3. 🎉 Merged PR [#219](https://github.com/launchdarkly/php-server-sdk/pull/219) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-4. 🗣 Commented on [#107](https://github.com/launchdarkly/rust-server-sdk/pull/107#issuecomment-2730250587) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-5. 💪 Opened PR [#109](https://github.com/launchdarkly/rust-server-sdk/pull/109) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+1. 💪 Opened PR [#806](https://github.com/launchdarkly/js-core/pull/806) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+2. 🗣 Commented on [#108](https://github.com/launchdarkly/rust-server-sdk/pull/108#issuecomment-2730460181) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+3. 🔒 Closed issue [#218](https://github.com/launchdarkly/php-server-sdk/issues/218) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+4. 🗣 Commented on [#218](https://github.com/launchdarkly/php-server-sdk/issues/218#issuecomment-2730348990) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+5. 🎉 Merged PR [#220](https://github.com/launchdarkly/php-server-sdk/pull/220) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
