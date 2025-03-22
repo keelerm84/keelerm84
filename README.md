@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#290](https://github.com/launchdarkly/sdk-test-harness/pull/290#issuecomment-2743696447) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-2. 💪 Opened PR [#290](https://github.com/launchdarkly/sdk-test-harness/pull/290) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 🗣 Commented on [#288](https://github.com/launchdarkly/sdk-test-harness/pull/288#issuecomment-2743533474) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 🎉 Merged PR [#289](https://github.com/launchdarkly/sdk-test-harness/pull/289) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-5. 🎉 Merged PR [#287](https://github.com/launchdarkly/sdk-test-harness/pull/287) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 🗣 Commented on [#92](https://github.com/launchdarkly/rust-server-sdk/issues/92#issuecomment-2743782359) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+2. 🔒 Closed issue [#92](https://github.com/launchdarkly/rust-server-sdk/issues/92) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+3. 🎉 Merged PR [#111](https://github.com/launchdarkly/rust-server-sdk/pull/111) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+4. 🎉 Merged PR [#110](https://github.com/launchdarkly/rust-server-sdk/pull/110) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+5. 🗣 Commented on [#290](https://github.com/launchdarkly/sdk-test-harness/pull/290#issuecomment-2743696447) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
 <!--END_SECTION:activity-->
 
 ### Github Stats
