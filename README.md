@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/launchdarkly/ruby-eventsource/pull/50) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-2. 🗣 Commented on [#92](https://github.com/launchdarkly/rust-server-sdk/issues/92#issuecomment-2743782359) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-3. 🔒 Closed issue [#92](https://github.com/launchdarkly/rust-server-sdk/issues/92) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-4. 🎉 Merged PR [#111](https://github.com/launchdarkly/rust-server-sdk/pull/111) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-5. 🎉 Merged PR [#110](https://github.com/launchdarkly/rust-server-sdk/pull/110) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+1. 🎉 Merged PR [#319](https://github.com/launchdarkly/ruby-server-sdk/pull/319) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+2. 🎉 Merged PR [#50](https://github.com/launchdarkly/ruby-eventsource/pull/50) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+3. 🗣 Commented on [#92](https://github.com/launchdarkly/rust-server-sdk/issues/92#issuecomment-2743782359) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+4. 🔒 Closed issue [#92](https://github.com/launchdarkly/rust-server-sdk/issues/92) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+5. 🎉 Merged PR [#111](https://github.com/launchdarkly/rust-server-sdk/pull/111) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
