@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/launchdarkly/go-ntlmssp/pull/5) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
-2. 🎉 Merged PR [#484](https://github.com/launchdarkly/ld-relay/pull/484) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 💪 Opened PR [#484](https://github.com/launchdarkly/ld-relay/pull/484) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 💪 Opened PR [#4](https://github.com/launchdarkly/go-ntlmssp/pull/4) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
-5. 🗣 Commented on [#46](https://github.com/Azure/go-ntlmssp/pull/46#issuecomment-2748405877) in [Azure/go-ntlmssp](https://github.com/Azure/go-ntlmssp)
+1. 💪 Opened PR [#94](https://github.com/launchdarkly/rust-eventsource-client/pull/94) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 🗣 Commented on [#93](https://github.com/launchdarkly/rust-eventsource-client/pull/93#issuecomment-2758453287) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. 🎉 Merged PR [#92](https://github.com/launchdarkly/rust-eventsource-client/pull/92) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+4. 🎉 Merged PR [#93](https://github.com/launchdarkly/rust-eventsource-client/pull/93) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+5. 💪 Opened PR [#5](https://github.com/launchdarkly/go-ntlmssp/pull/5) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
 <!--END_SECTION:activity-->
 
 ### Github Stats
