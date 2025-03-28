@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/9) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
-2. 🎉 Merged PR [#7](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/7) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
-3. 🎉 Merged PR [#6](https://github.com/launchdarkly/go-ntlm-proxy-auth/pull/6) in [launchdarkly/go-ntlm-proxy-auth](https://github.com/launchdarkly/go-ntlm-proxy-auth)
-4. 🎉 Merged PR [#5](https://github.com/launchdarkly/go-ntlm-proxy-auth/pull/5) in [launchdarkly/go-ntlm-proxy-auth](https://github.com/launchdarkly/go-ntlm-proxy-auth)
-5. 💪 Opened PR [#5](https://github.com/launchdarkly/go-ntlm-proxy-auth/pull/5) in [launchdarkly/go-ntlm-proxy-auth](https://github.com/launchdarkly/go-ntlm-proxy-auth)
+1. 💪 Opened PR [#11](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/11) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
+2. 🎉 Merged PR [#10](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/10) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
+3. 💪 Opened PR [#10](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/10) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
+4. 🎉 Merged PR [#9](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/9) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
+5. 💪 Opened PR [#9](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/9) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
 <!--END_SECTION:activity-->
 
 ### Github Stats
