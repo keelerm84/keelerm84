@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/7) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
-2. 💪 Opened PR [#4](https://github.com/launchdarkly/go-ntlm-proxy-auth/pull/4) in [launchdarkly/go-ntlm-proxy-auth](https://github.com/launchdarkly/go-ntlm-proxy-auth)
-3. 🎉 Merged PR [#94](https://github.com/launchdarkly/rust-eventsource-client/pull/94) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-4. 🎉 Merged PR [#4](https://github.com/launchdarkly/go-ntlmssp/pull/4) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
-5. 🎉 Merged PR [#5](https://github.com/launchdarkly/go-ntlmssp/pull/5) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
+1. 🎉 Merged PR [#4](https://github.com/launchdarkly/go-ntlm-proxy-auth/pull/4) in [launchdarkly/go-ntlm-proxy-auth](https://github.com/launchdarkly/go-ntlm-proxy-auth)
+2. 🎉 Merged PR [#6](https://github.com/launchdarkly/go-ntlmssp/pull/6) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
+3. 💪 Opened PR [#7](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/7) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
+4. 💪 Opened PR [#4](https://github.com/launchdarkly/go-ntlm-proxy-auth/pull/4) in [launchdarkly/go-ntlm-proxy-auth](https://github.com/launchdarkly/go-ntlm-proxy-auth)
+5. 🎉 Merged PR [#94](https://github.com/launchdarkly/rust-eventsource-client/pull/94) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
 <!--END_SECTION:activity-->
 
 ### Github Stats
