@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/launchdarkly/python-server-sdk-otel/pull/27) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
-2. 🎉 Merged PR [#487](https://github.com/launchdarkly/ld-relay/pull/487) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 🎉 Merged PR [#486](https://github.com/launchdarkly/ld-relay/pull/486) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 🎉 Merged PR [#485](https://github.com/launchdarkly/ld-relay/pull/485) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 💪 Opened PR [#486](https://github.com/launchdarkly/ld-relay/pull/486) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. ❌ Closed PR [#18](https://github.com/launchdarkly/hello-rust/pull/18) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
+2. 💪 Opened PR [#18](https://github.com/launchdarkly/hello-rust/pull/18) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
+3. 🎉 Merged PR [#27](https://github.com/launchdarkly/python-server-sdk-otel/pull/27) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+4. 🎉 Merged PR [#487](https://github.com/launchdarkly/ld-relay/pull/487) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 🎉 Merged PR [#486](https://github.com/launchdarkly/ld-relay/pull/486) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
