@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/launchdarkly/apex-server-sdk/pull/25) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-2. 💪 Opened PR [#26](https://github.com/launchdarkly/apex-server-sdk/pull/26) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-3. 🎉 Merged PR [#221](https://github.com/launchdarkly/php-server-sdk/pull/221) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-4. 🎉 Merged PR [#329](https://github.com/launchdarkly/python-server-sdk/pull/329) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🎉 Merged PR [#321](https://github.com/launchdarkly/ruby-server-sdk/pull/321) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+1. 💪 Opened PR [#27](https://github.com/launchdarkly/apex-server-sdk/pull/27) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+2. 🎉 Merged PR [#25](https://github.com/launchdarkly/apex-server-sdk/pull/25) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+3. 💪 Opened PR [#26](https://github.com/launchdarkly/apex-server-sdk/pull/26) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+4. 🎉 Merged PR [#221](https://github.com/launchdarkly/php-server-sdk/pull/221) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+5. 🎉 Merged PR [#329](https://github.com/launchdarkly/python-server-sdk/pull/329) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
