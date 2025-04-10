@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#432](https://github.com/launchdarkly/ios-client-sdk/issues/432#issuecomment-2786688834) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🗣 Commented on [#432](https://github.com/launchdarkly/ios-client-sdk/issues/432#issuecomment-2786663644) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 🗣 Commented on [#51](https://github.com/launchdarkly/ruby-eventsource/pull/51#issuecomment-2779002567) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-4. 🎉 Merged PR [#489](https://github.com/launchdarkly/ld-relay/pull/489) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 🎉 Merged PR [#488](https://github.com/launchdarkly/ld-relay/pull/488) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 💪 Opened PR [#97](https://github.com/launchdarkly/haskell-server-sdk/pull/97) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. 🗣 Commented on [#432](https://github.com/launchdarkly/ios-client-sdk/issues/432#issuecomment-2786688834) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+3. 🗣 Commented on [#432](https://github.com/launchdarkly/ios-client-sdk/issues/432#issuecomment-2786663644) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+4. 🗣 Commented on [#51](https://github.com/launchdarkly/ruby-eventsource/pull/51#issuecomment-2779002567) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+5. 🎉 Merged PR [#489](https://github.com/launchdarkly/ld-relay/pull/489) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
