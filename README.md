@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#432](https://github.com/launchdarkly/ios-client-sdk/issues/432#issuecomment-2790018174) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 💪 Opened PR [#97](https://github.com/launchdarkly/haskell-server-sdk/pull/97) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-3. 🗣 Commented on [#432](https://github.com/launchdarkly/ios-client-sdk/issues/432#issuecomment-2786688834) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 🗣 Commented on [#432](https://github.com/launchdarkly/ios-client-sdk/issues/432#issuecomment-2786663644) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 🗣 Commented on [#51](https://github.com/launchdarkly/ruby-eventsource/pull/51#issuecomment-2779002567) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+1. 🗣 Commented on [#323](https://github.com/launchdarkly/ruby-server-sdk/issues/323#issuecomment-2801915302) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+2. 🗣 Commented on [#432](https://github.com/launchdarkly/ios-client-sdk/issues/432#issuecomment-2790018174) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+3. 💪 Opened PR [#97](https://github.com/launchdarkly/haskell-server-sdk/pull/97) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+4. 🗣 Commented on [#432](https://github.com/launchdarkly/ios-client-sdk/issues/432#issuecomment-2786688834) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 🗣 Commented on [#432](https://github.com/launchdarkly/ios-client-sdk/issues/432#issuecomment-2786663644) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
