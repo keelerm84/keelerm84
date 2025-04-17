@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/launchdarkly/ld-relay-helm/pull/74) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-2. 💪 Opened PR [#46](https://github.com/launchdarkly/eventsource/pull/46) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
-3. 💪 Opened PR [#256](https://github.com/launchdarkly/go-server-sdk/pull/256) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-4. 🎉 Merged PR [#293](https://github.com/launchdarkly/sdk-test-harness/pull/293) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-5. 🎉 Merged PR [#292](https://github.com/launchdarkly/sdk-test-harness/pull/292) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 💪 Opened PR [#258](https://github.com/launchdarkly/go-server-sdk/pull/258) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+2. 🎉 Merged PR [#74](https://github.com/launchdarkly/ld-relay-helm/pull/74) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+3. 💪 Opened PR [#46](https://github.com/launchdarkly/eventsource/pull/46) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
+4. 💪 Opened PR [#256](https://github.com/launchdarkly/go-server-sdk/pull/256) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+5. 🎉 Merged PR [#293](https://github.com/launchdarkly/sdk-test-harness/pull/293) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
 <!--END_SECTION:activity-->
 
 ### Github Stats
