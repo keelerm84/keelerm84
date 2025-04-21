@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/launchdarkly/eventsource/pull/47) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
-2. 🎉 Merged PR [#46](https://github.com/launchdarkly/eventsource/pull/46) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
-3. 🎉 Merged PR [#436](https://github.com/launchdarkly/ios-client-sdk/pull/436) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 🎉 Merged PR [#434](https://github.com/launchdarkly/ios-client-sdk/pull/434) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 🎉 Merged PR [#435](https://github.com/launchdarkly/ios-client-sdk/pull/435) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+1. 🗣 Commented on [#54](https://github.com/launchdarkly/ruby-eventsource/pull/54#issuecomment-2819133806) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+2. 💪 Opened PR [#259](https://github.com/launchdarkly/go-server-sdk/pull/259) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+3. 🎉 Merged PR [#47](https://github.com/launchdarkly/eventsource/pull/47) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
+4. 🎉 Merged PR [#46](https://github.com/launchdarkly/eventsource/pull/46) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
+5. 🎉 Merged PR [#436](https://github.com/launchdarkly/ios-client-sdk/pull/436) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
