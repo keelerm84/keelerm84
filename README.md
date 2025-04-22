@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/launchdarkly/roku-client-sdk/pull/43) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
-2. 🎉 Merged PR [#44](https://github.com/launchdarkly/roku-client-sdk/pull/44) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
-3. 💪 Opened PR [#44](https://github.com/launchdarkly/roku-client-sdk/pull/44) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
-4. 🎉 Merged PR [#42](https://github.com/launchdarkly/roku-client-sdk/pull/42) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
-5. 🗣 Commented on [#54](https://github.com/launchdarkly/ruby-eventsource/pull/54#issuecomment-2819133806) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+1. 🎉 Merged PR [#34](https://github.com/launchdarkly/hello-bootstrap-rails/pull/34) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+2. 🎉 Merged PR [#43](https://github.com/launchdarkly/roku-client-sdk/pull/43) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
+3. 🎉 Merged PR [#44](https://github.com/launchdarkly/roku-client-sdk/pull/44) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
+4. 💪 Opened PR [#44](https://github.com/launchdarkly/roku-client-sdk/pull/44) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
+5. 🎉 Merged PR [#42](https://github.com/launchdarkly/roku-client-sdk/pull/42) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
