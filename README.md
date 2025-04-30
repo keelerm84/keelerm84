@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#261](https://github.com/launchdarkly/go-server-sdk/pull/261) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-2. 🎉 Merged PR [#260](https://github.com/launchdarkly/go-server-sdk/pull/260) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-3. 🎉 Merged PR [#34](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/34) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
-4. 🚀 Published release [v2.0.1](https://github.com/launchdarkly/php-server-sdk-redis-predis/releases/tag/2.0.1) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
-5. 🎉 Merged PR [#35](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/35) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+1. 🗣 Commented on [#262](https://github.com/launchdarkly/go-server-sdk/pull/262#issuecomment-2839768494) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+2. ❌ Closed PR [#262](https://github.com/launchdarkly/go-server-sdk/pull/262) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+3. 🎉 Merged PR [#261](https://github.com/launchdarkly/go-server-sdk/pull/261) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+4. 🎉 Merged PR [#260](https://github.com/launchdarkly/go-server-sdk/pull/260) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+5. 🎉 Merged PR [#34](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/34) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
 <!--END_SECTION:activity-->
 
 ### Github Stats
