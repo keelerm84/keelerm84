@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/launchdarkly/dotnet-sdk-internal/pull/38) in [launchdarkly/dotnet-sdk-internal](https://github.com/launchdarkly/dotnet-sdk-internal)
-2. 🎉 Merged PR [#476](https://github.com/launchdarkly/cpp-sdks/pull/476) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
-3. 🎉 Merged PR [#465](https://github.com/launchdarkly/cpp-sdks/pull/465) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
-4. 🎉 Merged PR [#433](https://github.com/launchdarkly/cpp-sdks/pull/433) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
-5. 🎉 Merged PR [#475](https://github.com/launchdarkly/cpp-sdks/pull/475) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+1. 🎉 Merged PR [#257](https://github.com/launchdarkly/sdk-meta/pull/257) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+2. 🎉 Merged PR [#38](https://github.com/launchdarkly/dotnet-sdk-internal/pull/38) in [launchdarkly/dotnet-sdk-internal](https://github.com/launchdarkly/dotnet-sdk-internal)
+3. 🎉 Merged PR [#476](https://github.com/launchdarkly/cpp-sdks/pull/476) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+4. 🎉 Merged PR [#465](https://github.com/launchdarkly/cpp-sdks/pull/465) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+5. 🎉 Merged PR [#433](https://github.com/launchdarkly/cpp-sdks/pull/433) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
 <!--END_SECTION:activity-->
 
 ### Github Stats
