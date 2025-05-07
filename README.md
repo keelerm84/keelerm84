@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#76](https://github.com/launchdarkly/ld-relay-helm/pull/76) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-2. 🎉 Merged PR [#75](https://github.com/launchdarkly/ld-relay-helm/pull/75) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-3. 🗣 Commented on [#75](https://github.com/launchdarkly/ld-relay-helm/pull/75#issuecomment-2851650134) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-4. 🎉 Merged PR [#257](https://github.com/launchdarkly/sdk-meta/pull/257) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-5. 🎉 Merged PR [#38](https://github.com/launchdarkly/dotnet-sdk-internal/pull/38) in [launchdarkly/dotnet-sdk-internal](https://github.com/launchdarkly/dotnet-sdk-internal)
+1. 💪 Opened PR [#264](https://github.com/launchdarkly/go-server-sdk/pull/264) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+2. 🎉 Merged PR [#76](https://github.com/launchdarkly/ld-relay-helm/pull/76) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+3. 🎉 Merged PR [#75](https://github.com/launchdarkly/ld-relay-helm/pull/75) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+4. 🗣 Commented on [#75](https://github.com/launchdarkly/ld-relay-helm/pull/75#issuecomment-2851650134) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+5. 🎉 Merged PR [#257](https://github.com/launchdarkly/sdk-meta/pull/257) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
 <!--END_SECTION:activity-->
 
 ### Github Stats
