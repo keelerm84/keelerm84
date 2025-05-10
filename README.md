@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#494](https://github.com/launchdarkly/ld-relay/pull/494) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 🎉 Merged PR [#199](https://github.com/launchdarkly/flutter-client-sdk/pull/199) in [launchdarkly/flutter-client-sdk](https://github.com/launchdarkly/flutter-client-sdk)
-3. 🎉 Merged PR [#264](https://github.com/launchdarkly/go-server-sdk/pull/264) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-4. 🎉 Merged PR [#148](https://github.com/launchdarkly/erlang-server-sdk/pull/148) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
-5. 🎉 Merged PR [#147](https://github.com/launchdarkly/erlang-server-sdk/pull/147) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
+1. ❌ Closed PR [#497](https://github.com/launchdarkly/ld-relay/pull/497) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 💪 Opened PR [#201](https://github.com/launchdarkly/flutter-client-sdk/pull/201) in [launchdarkly/flutter-client-sdk](https://github.com/launchdarkly/flutter-client-sdk)
+3. 🎉 Merged PR [#200](https://github.com/launchdarkly/flutter-client-sdk/pull/200) in [launchdarkly/flutter-client-sdk](https://github.com/launchdarkly/flutter-client-sdk)
+4. 🎉 Merged PR [#495](https://github.com/launchdarkly/ld-relay/pull/495) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 🎉 Merged PR [#494](https://github.com/launchdarkly/ld-relay/pull/494) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
