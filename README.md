@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/launchdarkly/go-sdk-common/pull/34) in [launchdarkly/go-sdk-common](https://github.com/launchdarkly/go-sdk-common)
-2. 🎉 Merged PR [#496](https://github.com/launchdarkly/ld-relay/pull/496) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 🎉 Merged PR [#295](https://github.com/launchdarkly/sdk-test-harness/pull/295) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 🎉 Merged PR [#288](https://github.com/launchdarkly/sdk-test-harness/pull/288) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-5. ❌ Reopened PR [#496](https://github.com/launchdarkly/ld-relay/pull/496) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🎉 Merged PR [#298](https://github.com/launchdarkly/android-client-sdk/pull/298) in [launchdarkly/android-client-sdk](https://github.com/launchdarkly/android-client-sdk)
+2. 💪 Opened PR [#298](https://github.com/launchdarkly/android-client-sdk/pull/298) in [launchdarkly/android-client-sdk](https://github.com/launchdarkly/android-client-sdk)
+3. 🎉 Merged PR [#35](https://github.com/launchdarkly/go-sdk-common/pull/35) in [launchdarkly/go-sdk-common](https://github.com/launchdarkly/go-sdk-common)
+4. 🎉 Merged PR [#34](https://github.com/launchdarkly/go-sdk-common/pull/34) in [launchdarkly/go-sdk-common](https://github.com/launchdarkly/go-sdk-common)
+5. 💪 Opened PR [#34](https://github.com/launchdarkly/go-sdk-common/pull/34) in [launchdarkly/go-sdk-common](https://github.com/launchdarkly/go-sdk-common)
 <!--END_SECTION:activity-->
 
 ### Github Stats
