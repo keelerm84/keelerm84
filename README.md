@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/launchdarkly/ld-relay-helm/pull/79) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-2. 💪 Opened PR [#79](https://github.com/launchdarkly/ld-relay-helm/pull/79) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-3. 🎉 Merged PR [#78](https://github.com/launchdarkly/ld-relay-helm/pull/78) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-4. 🎉 Merged PR [#77](https://github.com/launchdarkly/ld-relay-helm/pull/77) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-5. 🗣 Commented on [#77](https://github.com/launchdarkly/ld-relay-helm/pull/77#issuecomment-2894784218) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+1. ❌ Reopened PR [#477](https://github.com/launchdarkly/cpp-sdks/pull/477) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+2. 🎉 Merged PR [#502](https://github.com/launchdarkly/ld-relay/pull/502) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 🗣 Commented on [#502](https://github.com/launchdarkly/ld-relay/pull/502#issuecomment-2898322621) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 🎉 Merged PR [#79](https://github.com/launchdarkly/ld-relay-helm/pull/79) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+5. 💪 Opened PR [#79](https://github.com/launchdarkly/ld-relay-helm/pull/79) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
 <!--END_SECTION:activity-->
 
 ### Github Stats
