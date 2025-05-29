@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/launchdarkly/python-eventsource/issues/41#issuecomment-2917454026) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
-2. 💪 Opened PR [#271](https://github.com/launchdarkly/go-server-sdk/pull/271) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-3. ❌ Reopened PR [#477](https://github.com/launchdarkly/cpp-sdks/pull/477) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
-4. 🎉 Merged PR [#502](https://github.com/launchdarkly/ld-relay/pull/502) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 🗣 Commented on [#502](https://github.com/launchdarkly/ld-relay/pull/502#issuecomment-2898322621) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 💪 Opened PR [#43](https://github.com/launchdarkly/python-eventsource/pull/43) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+2. 🗣 Commented on [#41](https://github.com/launchdarkly/python-eventsource/issues/41#issuecomment-2917454026) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+3. 💪 Opened PR [#271](https://github.com/launchdarkly/go-server-sdk/pull/271) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+4. ❌ Reopened PR [#477](https://github.com/launchdarkly/cpp-sdks/pull/477) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+5. 🎉 Merged PR [#502](https://github.com/launchdarkly/ld-relay/pull/502) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
