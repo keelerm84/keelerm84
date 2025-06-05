@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#477](https://github.com/launchdarkly/cpp-sdks/pull/477) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
-2. 🎉 Merged PR [#282](https://github.com/launchdarkly/go-server-sdk/pull/282) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-3. 🎉 Merged PR [#283](https://github.com/launchdarkly/go-server-sdk/pull/283) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-4. 💪 Opened PR [#283](https://github.com/launchdarkly/go-server-sdk/pull/283) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-5. 💪 Opened PR [#282](https://github.com/launchdarkly/go-server-sdk/pull/282) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+1. 💪 Opened PR [#479](https://github.com/launchdarkly/cpp-sdks/pull/479) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+2. 🎉 Merged PR [#477](https://github.com/launchdarkly/cpp-sdks/pull/477) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+3. 🎉 Merged PR [#282](https://github.com/launchdarkly/go-server-sdk/pull/282) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+4. 🎉 Merged PR [#283](https://github.com/launchdarkly/go-server-sdk/pull/283) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+5. 💪 Opened PR [#283](https://github.com/launchdarkly/go-server-sdk/pull/283) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
