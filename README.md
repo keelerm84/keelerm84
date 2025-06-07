@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/launchdarkly/eventsource/pull/52) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
-2. 💪 Opened PR [#52](https://github.com/launchdarkly/eventsource/pull/52) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
-3. 🎉 Merged PR [#508](https://github.com/launchdarkly/ld-relay/pull/508) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. ❗ Opened issue [#38](https://github.com/keelerm84/dotfiles/issues/38) in [keelerm84/dotfiles](https://github.com/keelerm84/dotfiles)
-5. ❗ Opened issue [#37](https://github.com/keelerm84/dotfiles/issues/37) in [keelerm84/dotfiles](https://github.com/keelerm84/dotfiles)
+1. 🎉 Merged PR [#113](https://github.com/launchdarkly/lua-server-sdk/pull/113) in [launchdarkly/lua-server-sdk](https://github.com/launchdarkly/lua-server-sdk)
+2. 🎉 Merged PR [#112](https://github.com/launchdarkly/lua-server-sdk/pull/112) in [launchdarkly/lua-server-sdk](https://github.com/launchdarkly/lua-server-sdk)
+3. 🎉 Merged PR [#510](https://github.com/launchdarkly/ld-relay/pull/510) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. ❌ Reopened PR [#510](https://github.com/launchdarkly/ld-relay/pull/510) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. ❌ Closed PR [#510](https://github.com/launchdarkly/ld-relay/pull/510) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
