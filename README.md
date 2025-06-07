@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#37](https://github.com/keelerm84/dotfiles/issues/37) in [keelerm84/dotfiles](https://github.com/keelerm84/dotfiles)
-2. 🗣 Commented on [#33](https://github.com/keelerm84/dotfiles/pull/33#issuecomment-2947895745) in [keelerm84/dotfiles](https://github.com/keelerm84/dotfiles)
-3. 🎉 Merged PR [#36](https://github.com/keelerm84/dotfiles/pull/36) in [keelerm84/dotfiles](https://github.com/keelerm84/dotfiles)
-4. 🎉 Merged PR [#34](https://github.com/keelerm84/dotfiles/pull/34) in [keelerm84/dotfiles](https://github.com/keelerm84/dotfiles)
-5. 🎉 Merged PR [#509](https://github.com/launchdarkly/ld-relay/pull/509) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🎉 Merged PR [#508](https://github.com/launchdarkly/ld-relay/pull/508) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. ❗ Opened issue [#38](https://github.com/keelerm84/dotfiles/issues/38) in [keelerm84/dotfiles](https://github.com/keelerm84/dotfiles)
+3. ❗ Opened issue [#37](https://github.com/keelerm84/dotfiles/issues/37) in [keelerm84/dotfiles](https://github.com/keelerm84/dotfiles)
+4. 🗣 Commented on [#33](https://github.com/keelerm84/dotfiles/pull/33#issuecomment-2947895745) in [keelerm84/dotfiles](https://github.com/keelerm84/dotfiles)
+5. 🎉 Merged PR [#36](https://github.com/keelerm84/dotfiles/pull/36) in [keelerm84/dotfiles](https://github.com/keelerm84/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Github Stats
