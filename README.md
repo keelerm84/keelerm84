@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#144](https://github.com/launchdarkly/ruby-server-sdk/issues/144#issuecomment-3005831925) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-2. 🎉 Merged PR [#513](https://github.com/launchdarkly/ld-relay/pull/513) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 🎉 Merged PR [#285](https://github.com/launchdarkly/go-server-sdk/pull/285) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-4. 💪 Opened PR [#513](https://github.com/launchdarkly/ld-relay/pull/513) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 💪 Opened PR [#285](https://github.com/launchdarkly/go-server-sdk/pull/285) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+1. 🎉 Merged PR [#341](https://github.com/launchdarkly/python-server-sdk/pull/341) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+2. 💪 Opened PR [#341](https://github.com/launchdarkly/python-server-sdk/pull/341) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+3. 🎉 Merged PR [#339](https://github.com/launchdarkly/python-server-sdk/pull/339) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 💪 Opened PR [#339](https://github.com/launchdarkly/python-server-sdk/pull/339) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. 🗣 Commented on [#144](https://github.com/launchdarkly/ruby-server-sdk/issues/144#issuecomment-3005831925) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
