@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#341](https://github.com/launchdarkly/python-server-sdk/pull/341) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. 💪 Opened PR [#341](https://github.com/launchdarkly/python-server-sdk/pull/341) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 🎉 Merged PR [#339](https://github.com/launchdarkly/python-server-sdk/pull/339) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. 💪 Opened PR [#339](https://github.com/launchdarkly/python-server-sdk/pull/339) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🗣 Commented on [#144](https://github.com/launchdarkly/ruby-server-sdk/issues/144#issuecomment-3005831925) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+1. 🎉 Merged PR [#25](https://github.com/launchdarkly/openfeature-python-server/pull/25) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
+2. 🎉 Merged PR [#26](https://github.com/launchdarkly/hello-python/pull/26) in [launchdarkly/hello-python](https://github.com/launchdarkly/hello-python)
+3. 🎉 Merged PR [#7](https://github.com/launchdarkly/hello-openfeature-python-server/pull/7) in [launchdarkly/hello-openfeature-python-server](https://github.com/launchdarkly/hello-openfeature-python-server)
+4. 🎉 Merged PR [#341](https://github.com/launchdarkly/python-server-sdk/pull/341) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. 💪 Opened PR [#341](https://github.com/launchdarkly/python-server-sdk/pull/341) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
