@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/launchdarkly/openfeature-python-server/pull/26) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
-2. 🎉 Merged PR [#269](https://github.com/launchdarkly/sdk-meta/pull/269) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-3. 🎉 Merged PR [#34](https://github.com/launchdarkly/python-server-sdk-otel/pull/34) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
-4. 🎉 Merged PR [#49](https://github.com/launchdarkly/python-server-sdk-ai/pull/49) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
-5. 🎉 Merged PR [#50](https://github.com/launchdarkly/python-eventsource/pull/50) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+1. 🎉 Merged PR [#35](https://github.com/launchdarkly/python-server-sdk-otel/pull/35) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+2. 🎉 Merged PR [#36](https://github.com/launchdarkly/python-server-sdk-otel/pull/36) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+3. 🎉 Merged PR [#26](https://github.com/launchdarkly/openfeature-python-server/pull/26) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
+4. 🎉 Merged PR [#269](https://github.com/launchdarkly/sdk-meta/pull/269) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+5. 🎉 Merged PR [#34](https://github.com/launchdarkly/python-server-sdk-otel/pull/34) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
 <!--END_SECTION:activity-->
 
 ### Github Stats
