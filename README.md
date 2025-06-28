@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/launchdarkly/python-server-sdk-ai/pull/53) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
-2. 🎉 Merged PR [#51](https://github.com/launchdarkly/python-server-sdk-ai/pull/51) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
-3. 🎉 Merged PR [#50](https://github.com/launchdarkly/python-server-sdk-ai/pull/50) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
-4. 💪 Opened PR [#50](https://github.com/launchdarkly/python-server-sdk-ai/pull/50) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
-5. 🎉 Merged PR [#35](https://github.com/launchdarkly/python-server-sdk-otel/pull/35) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+1. 🎉 Merged PR [#52](https://github.com/launchdarkly/python-server-sdk-ai/pull/52) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+2. 🎉 Merged PR [#53](https://github.com/launchdarkly/python-server-sdk-ai/pull/53) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+3. 🎉 Merged PR [#51](https://github.com/launchdarkly/python-server-sdk-ai/pull/51) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+4. 🎉 Merged PR [#50](https://github.com/launchdarkly/python-server-sdk-ai/pull/50) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+5. 💪 Opened PR [#50](https://github.com/launchdarkly/python-server-sdk-ai/pull/50) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
 <!--END_SECTION:activity-->
 
 ### Github Stats
