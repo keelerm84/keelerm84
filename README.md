@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/launchdarkly/go-test-helpers/pull/23) in [launchdarkly/go-test-helpers](https://github.com/launchdarkly/go-test-helpers)
-2. 🎉 Merged PR [#22](https://github.com/launchdarkly/go-test-helpers/pull/22) in [launchdarkly/go-test-helpers](https://github.com/launchdarkly/go-test-helpers)
-3. 💪 Opened PR [#22](https://github.com/launchdarkly/go-test-helpers/pull/22) in [launchdarkly/go-test-helpers](https://github.com/launchdarkly/go-test-helpers)
-4. 💪 Opened PR [#37](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/37) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
-5. 🎉 Merged PR [#52](https://github.com/launchdarkly/python-server-sdk-ai/pull/52) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+1. 💪 Opened PR [#24](https://github.com/launchdarkly/go-test-helpers/pull/24) in [launchdarkly/go-test-helpers](https://github.com/launchdarkly/go-test-helpers)
+2. 🎉 Merged PR [#23](https://github.com/launchdarkly/go-test-helpers/pull/23) in [launchdarkly/go-test-helpers](https://github.com/launchdarkly/go-test-helpers)
+3. 🗣 Commented on [#36](https://github.com/launchdarkly/php-server-sdk-redis-predis/issues/36#issuecomment-3019651156) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+4. 🎉 Merged PR [#38](https://github.com/launchdarkly/php-server-sdk-redis-predis/pull/38) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
+5. 🔒 Closed issue [#36](https://github.com/launchdarkly/php-server-sdk-redis-predis/issues/36) in [launchdarkly/php-server-sdk-redis-predis](https://github.com/launchdarkly/php-server-sdk-redis-predis)
 <!--END_SECTION:activity-->
 
 ### Github Stats
