@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/launchdarkly/go-configtypes/pull/14#issuecomment-3049978343) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
-2. ❌ Closed PR [#14](https://github.com/launchdarkly/go-configtypes/pull/14) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
-3. 🗣 Commented on [#520](https://github.com/launchdarkly/ld-relay/pull/520#issuecomment-3049973313) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. ❌ Closed PR [#520](https://github.com/launchdarkly/ld-relay/pull/520) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 🎉 Merged PR [#265](https://github.com/launchdarkly/sdk-meta/pull/265) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+1. 🗣 Commented on [#517](https://github.com/launchdarkly/ld-relay/issues/517#issuecomment-3050111069) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 🔒 Closed issue [#517](https://github.com/launchdarkly/ld-relay/issues/517) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 🗣 Commented on [#14](https://github.com/launchdarkly/go-configtypes/pull/14#issuecomment-3049978343) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
+4. ❌ Closed PR [#14](https://github.com/launchdarkly/go-configtypes/pull/14) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
+5. 🗣 Commented on [#520](https://github.com/launchdarkly/ld-relay/pull/520#issuecomment-3049973313) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
