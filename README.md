@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/launchdarkly/ld-relay-helm/pull/80) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-2. 💪 Opened PR [#524](https://github.com/launchdarkly/ld-relay/pull/524) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. ❌ Reopened PR [#523](https://github.com/launchdarkly/ld-relay/pull/523) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. ❌ Closed PR [#523](https://github.com/launchdarkly/ld-relay/pull/523) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 🎉 Merged PR [#278](https://github.com/launchdarkly/sdk-meta/pull/278) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+1. 🎉 Merged PR [#281](https://github.com/launchdarkly/sdk-meta/pull/281) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+2. 🎉 Merged PR [#42](https://github.com/launchdarkly/hello-bootstrap-rails/pull/42) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+3. 🎉 Merged PR [#41](https://github.com/launchdarkly/hello-bootstrap-rails/pull/41) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+4. 🎉 Merged PR [#80](https://github.com/launchdarkly/ld-relay-helm/pull/80) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+5. 💪 Opened PR [#524](https://github.com/launchdarkly/ld-relay/pull/524) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
