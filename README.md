@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#528](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. ❌ Closed PR [#528](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 🗣 Commented on [#345](https://github.com/launchdarkly/python-server-sdk/pull/345#issuecomment-3161330130) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. 💪 Opened PR [#345](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🗣 Commented on [#33](https://github.com/launchdarkly/apex-server-sdk/pull/33#issuecomment-3151137763) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+1. 🗣 Commented on [#345](https://github.com/launchdarkly/python-server-sdk/pull/345#issuecomment-3161330130) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+2. 🎉 Merged PR [#285](https://github.com/launchdarkly/sdk-meta/pull/285) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+3. 🗣 Commented on [#33](https://github.com/launchdarkly/apex-server-sdk/pull/33#issuecomment-3151137763) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+4. 🎉 Merged PR [#527](https://github.com/launchdarkly/ld-relay/pull/527) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 🎉 Merged PR [#344](https://github.com/launchdarkly/python-server-sdk/pull/344) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
