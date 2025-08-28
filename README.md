@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/launchdarkly/ruby-eventsource/pull/69) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-2. 🎉 Merged PR [#30](https://github.com/launchdarkly/hello-go/pull/30) in [launchdarkly/hello-go](https://github.com/launchdarkly/hello-go)
-3. 🎉 Merged PR [#30](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/30) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
-4. 🎉 Merged PR [#55](https://github.com/launchdarkly/eventsource/pull/55) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
-5. 🎉 Merged PR [#30](https://github.com/launchdarkly/go-jsonstream/pull/30) in [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream)
+1. 🗣 Commented on [#64](https://github.com/launchdarkly/ruby-eventsource/pull/64#issuecomment-3233907142) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+2. 🎉 Merged PR [#69](https://github.com/launchdarkly/ruby-eventsource/pull/69) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+3. 🎉 Merged PR [#30](https://github.com/launchdarkly/hello-go/pull/30) in [launchdarkly/hello-go](https://github.com/launchdarkly/hello-go)
+4. 🎉 Merged PR [#30](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/30) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+5. 🎉 Merged PR [#55](https://github.com/launchdarkly/eventsource/pull/55) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
