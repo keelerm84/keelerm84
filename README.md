@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#350](https://github.com/launchdarkly/python-server-sdk/pull/350) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. 💪 Opened PR [#350](https://github.com/launchdarkly/python-server-sdk/pull/350) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 🎉 Merged PR [#348](https://github.com/launchdarkly/python-server-sdk/pull/348) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. ❌ Closed PR [#304](https://github.com/launchdarkly/python-server-sdk/pull/304) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. ❌ Closed PR [#349](https://github.com/launchdarkly/python-server-sdk/pull/349) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. ❌ Reopened PR [#536](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. ❌ Closed PR [#536](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. ❌ Labeled PR [#64](undefined) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+4. 🗣 Commented on [#64](https://github.com/launchdarkly/ruby-eventsource/pull/64#issuecomment-3253586136) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+5. 💪 Opened PR [#350](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
