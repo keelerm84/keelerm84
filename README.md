@@ -44,8 +44,8 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/launchdarkly/hello-bootstrap-rails/pull/45) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-2. 🎉 Merged PR [#350](https://github.com/launchdarkly/python-server-sdk/pull/350) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🗣 Commented on [#99](https://github.com/launchdarkly/rust-eventsource-client/pull/99#issuecomment-3371153762) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 🎉 Merged PR [#45](https://github.com/launchdarkly/hello-bootstrap-rails/pull/45) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
 3. 💪 Opened PR [#350](https://github.com/launchdarkly/python-server-sdk/pull/350) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 4. 🎉 Merged PR [#348](https://github.com/launchdarkly/python-server-sdk/pull/348) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 5. ❌ Closed PR [#304](https://github.com/launchdarkly/python-server-sdk/pull/304) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
