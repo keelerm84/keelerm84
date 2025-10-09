@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#334](https://github.com/launchdarkly/ruby-server-sdk/pull/334) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-2. ❌ Reopened PR [#537](https://github.com/launchdarkly/ld-relay/pull/537) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. ❌ Closed PR [#537](https://github.com/launchdarkly/ld-relay/pull/537) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 🗣 Commented on [#1](https://github.com/launchdarkly/go-server-sdk-firestore/pull/1#issuecomment-3371964001) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
-5. 💪 Opened PR [#1](https://github.com/launchdarkly/go-server-sdk-firestore/pull/1) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
+1. ❌ Reopened PR [#539](https://github.com/launchdarkly/ld-relay/pull/539) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. ❌ Closed PR [#539](https://github.com/launchdarkly/ld-relay/pull/539) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 🎉 Merged PR [#537](https://github.com/launchdarkly/ld-relay/pull/537) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 💪 Opened PR [#334](https://github.com/launchdarkly/ruby-server-sdk/pull/334) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+5. ❌ Reopened PR [#537](https://github.com/launchdarkly/ld-relay/pull/537) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
