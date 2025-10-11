@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#336](https://github.com/launchdarkly/ruby-server-sdk/pull/336) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-2. 💪 Opened PR [#336](https://github.com/launchdarkly/ruby-server-sdk/pull/336) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-3. 🎉 Merged PR [#539](https://github.com/launchdarkly/ld-relay/pull/539) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 🎉 Merged PR [#335](https://github.com/launchdarkly/ruby-server-sdk/pull/335) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-5. 💪 Opened PR [#335](https://github.com/launchdarkly/ruby-server-sdk/pull/335) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+1. 🎉 Merged PR [#47](https://github.com/launchdarkly/hello-bootstrap-rails/pull/47) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+2. 🎉 Merged PR [#337](https://github.com/launchdarkly/ruby-server-sdk/pull/337) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+3. 🔒 Closed issue [#333](https://github.com/launchdarkly/ruby-server-sdk/issues/333) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+4. 🎉 Merged PR [#334](https://github.com/launchdarkly/ruby-server-sdk/pull/334) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+5. 🎉 Merged PR [#336](https://github.com/launchdarkly/ruby-server-sdk/pull/336) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
