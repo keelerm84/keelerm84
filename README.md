@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#538](https://github.com/launchdarkly/ld-relay/pull/538) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 💪 Opened PR [#3](https://github.com/launchdarkly/go-server-sdk-firestore/pull/3) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
-3. 🎉 Merged PR [#47](https://github.com/launchdarkly/hello-bootstrap-rails/pull/47) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-4. 🎉 Merged PR [#337](https://github.com/launchdarkly/ruby-server-sdk/pull/337) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-5. 🔒 Closed issue [#333](https://github.com/launchdarkly/ruby-server-sdk/issues/333) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+1. 🎉 Merged PR [#2](https://github.com/launchdarkly/go-server-sdk-firestore/pull/2) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
+2. 🚀 Published release [v8.14.0-alpha.1](https://github.com/launchdarkly/ld-relay/releases/tag/v8.14.0-alpha.1) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 🎉 Merged PR [#3](https://github.com/launchdarkly/go-server-sdk-firestore/pull/3) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
+4. 🎉 Merged PR [#538](https://github.com/launchdarkly/ld-relay/pull/538) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 💪 Opened PR [#3](https://github.com/launchdarkly/go-server-sdk-firestore/pull/3) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
 <!--END_SECTION:activity-->
 
 ### Github Stats
