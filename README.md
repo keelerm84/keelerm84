@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/launchdarkly/go-server-sdk-consul/pull/25) in [launchdarkly/go-server-sdk-consul](https://github.com/launchdarkly/go-server-sdk-consul)
-2. 🎉 Merged PR [#26](https://github.com/launchdarkly/go-server-sdk-consul/pull/26) in [launchdarkly/go-server-sdk-consul](https://github.com/launchdarkly/go-server-sdk-consul)
-3. 🎉 Merged PR [#318](https://github.com/launchdarkly/go-server-sdk/pull/318) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-4. 💪 Opened PR [#31](https://github.com/launchdarkly/go-server-sdk-redis-go-redis/pull/31) in [launchdarkly/go-server-sdk-redis-go-redis](https://github.com/launchdarkly/go-server-sdk-redis-go-redis)
-5. 🎉 Merged PR [#319](https://github.com/launchdarkly/go-server-sdk/pull/319) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+1. 💪 Opened PR [#31](undefined) in [launchdarkly/go-server-sdk-redis-go-redis](https://github.com/launchdarkly/go-server-sdk-redis-go-redis)
+2. 💪 Opened PR [#27](undefined) in [launchdarkly/go-server-sdk-consul](https://github.com/launchdarkly/go-server-sdk-consul)
+3. 💪 Opened PR [#319](undefined) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+4. 🚀 Published release [v8.14.0-alpha.1](https://github.com/launchdarkly/ld-relay/releases/tag/v8.14.0-alpha.1) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 💪 Opened PR [#3](undefined) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
 <!--END_SECTION:activity-->
 
 ### Github Stats
