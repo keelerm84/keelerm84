@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](undefined) in [launchdarkly/go-server-sdk-redis-go-redis](https://github.com/launchdarkly/go-server-sdk-redis-go-redis)
-2. 💪 Opened PR [#27](undefined) in [launchdarkly/go-server-sdk-consul](https://github.com/launchdarkly/go-server-sdk-consul)
-3. 💪 Opened PR [#319](undefined) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-4. 🚀 Published release [v8.14.0-alpha.1](https://github.com/launchdarkly/ld-relay/releases/tag/v8.14.0-alpha.1) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 💪 Opened PR [#3](undefined) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
+1. 💪 Opened PR [#32](undefined) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+2. 💪 Opened PR [#29](undefined) in [launchdarkly/go-server-sdk-dynamodb](https://github.com/launchdarkly/go-server-sdk-dynamodb)
+3. 💪 Opened PR [#7](undefined) in [launchdarkly/go-ntlm-proxy-auth](https://github.com/launchdarkly/go-ntlm-proxy-auth)
+4. 💪 Opened PR [#57](undefined) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
+5. 💪 Opened PR [#31](undefined) in [launchdarkly/go-server-sdk-redis-go-redis](https://github.com/launchdarkly/go-server-sdk-redis-go-redis)
 <!--END_SECTION:activity-->
 
 ### Github Stats
