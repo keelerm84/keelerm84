@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#225](https://github.com/launchdarkly/php-server-sdk/issues/225#issuecomment-3423356205) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-2. 🗣 Commented on [#13](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/13#issuecomment-3422035588) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
-3. 💪 Opened PR [#7](undefined) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
-4. 💪 Opened PR [#4](undefined) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
-5. 💪 Opened PR [#32](undefined) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+1. 🔒 Closed issue [#225](https://github.com/launchdarkly/php-server-sdk/issues/225) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+2. 💪 Opened PR [#226](undefined) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+3. 🗣 Commented on [#225](https://github.com/launchdarkly/php-server-sdk/issues/225#issuecomment-3423356205) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+4. 🗣 Commented on [#13](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/13#issuecomment-3422035588) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+5. 💪 Opened PR [#7](undefined) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
 <!--END_SECTION:activity-->
 
 ### Github Stats
