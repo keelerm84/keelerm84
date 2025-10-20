@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](undefined) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
-2. 💪 Opened PR [#4](undefined) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
-3. 💪 Opened PR [#32](undefined) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
-4. 💪 Opened PR [#29](undefined) in [launchdarkly/go-server-sdk-dynamodb](https://github.com/launchdarkly/go-server-sdk-dynamodb)
-5. 💪 Opened PR [#7](undefined) in [launchdarkly/go-ntlm-proxy-auth](https://github.com/launchdarkly/go-ntlm-proxy-auth)
+1. 🗣 Commented on [#13](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/13#issuecomment-3422035588) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+2. 💪 Opened PR [#7](undefined) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
+3. 💪 Opened PR [#4](undefined) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
+4. 💪 Opened PR [#32](undefined) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+5. 💪 Opened PR [#29](undefined) in [launchdarkly/go-server-sdk-dynamodb](https://github.com/launchdarkly/go-server-sdk-dynamodb)
 <!--END_SECTION:activity-->
 
 ### Github Stats
