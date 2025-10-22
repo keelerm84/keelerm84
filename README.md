@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#356](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. 🔒 Closed issue [#225](https://github.com/launchdarkly/php-server-sdk/issues/225) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-3. 💪 Opened PR [#226](undefined) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-4. 🗣 Commented on [#225](https://github.com/launchdarkly/php-server-sdk/issues/225#issuecomment-3423356205) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-5. 🗣 Commented on [#13](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/13#issuecomment-3422035588) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+1. ❌ Reopened PR [#542](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. ❌ Closed PR [#542](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 💪 Opened PR [#356](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 🔒 Closed issue [#225](https://github.com/launchdarkly/php-server-sdk/issues/225) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+5. 💪 Opened PR [#226](undefined) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
