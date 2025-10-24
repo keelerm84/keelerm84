@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#357](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. ❌ Reopened PR [#542](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. ❌ Closed PR [#542](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 💪 Opened PR [#356](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🔒 Closed issue [#225](https://github.com/launchdarkly/php-server-sdk/issues/225) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+1. 💪 Opened PR [#358](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+2. 💪 Opened PR [#357](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+3. ❌ Reopened PR [#542](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. ❌ Closed PR [#542](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 💪 Opened PR [#356](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
