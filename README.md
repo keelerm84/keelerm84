@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#363](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. 💪 Opened PR [#51](undefined) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
-3. 💪 Opened PR [#33](undefined) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
-4. 💪 Opened PR [#362](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🗣 Commented on [#359](https://github.com/launchdarkly/python-server-sdk/pull/359#issuecomment-3453055612) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🗣 Commented on [#14](https://github.com/launchdarkly/ruby-server-sdk-otel/issues/14#issuecomment-3462848750) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+2. 💪 Opened PR [#15](undefined) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+3. 💪 Opened PR [#363](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 💪 Opened PR [#51](undefined) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+5. 💪 Opened PR [#33](undefined) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
 <!--END_SECTION:activity-->
 
 ### Github Stats
