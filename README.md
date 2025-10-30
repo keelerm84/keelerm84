@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#32](https://github.com/launchdarkly/openfeature-python-server/issues/32) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
-2. 🔒 Closed issue [#14](https://github.com/launchdarkly/ruby-server-sdk-otel/issues/14) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
-3. 💪 Opened PR [#34](undefined) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
-4. 🗣 Commented on [#14](https://github.com/launchdarkly/ruby-server-sdk-otel/issues/14#issuecomment-3462848750) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
-5. 💪 Opened PR [#15](undefined) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+1. 🗣 Commented on [#545](https://github.com/launchdarkly/ld-relay/pull/545#issuecomment-3468173861) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 🗣 Commented on [#544](https://github.com/launchdarkly/ld-relay/issues/544#issuecomment-3468171352) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 🗣 Commented on [#546](https://github.com/launchdarkly/ld-relay/issues/546#issuecomment-3468164517) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 🗣 Commented on [#547](https://github.com/launchdarkly/ld-relay/issues/547#issuecomment-3468156523) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 💪 Opened PR [#365](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
