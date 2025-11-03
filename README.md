@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#546](https://github.com/launchdarkly/ld-relay/issues/546#issuecomment-3474767852) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 🔒 Closed issue [#364](https://github.com/launchdarkly/python-server-sdk/issues/364) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 🗣 Commented on [#545](https://github.com/launchdarkly/ld-relay/pull/545#issuecomment-3468173861) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 🗣 Commented on [#544](https://github.com/launchdarkly/ld-relay/issues/544#issuecomment-3468171352) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 🗣 Commented on [#546](https://github.com/launchdarkly/ld-relay/issues/546#issuecomment-3468164517) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1.  Labeled issue [#546](https://github.com/launchdarkly/ld-relay/issues/546) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 🗣 Commented on [#546](https://github.com/launchdarkly/ld-relay/issues/546#issuecomment-3474767852) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 🔒 Closed issue [#364](https://github.com/launchdarkly/python-server-sdk/issues/364) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 🗣 Commented on [#545](https://github.com/launchdarkly/ld-relay/pull/545#issuecomment-3468173861) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 🗣 Commented on [#544](https://github.com/launchdarkly/ld-relay/issues/544#issuecomment-3468171352) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
