@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/launchdarkly/openfeature-python-server/issues/36#issuecomment-3488032077) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
-2. 🔒 Closed issue [#36](https://github.com/launchdarkly/openfeature-python-server/issues/36) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
-3. 💪 Opened PR [#37](undefined) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
-4. 💪 Opened PR [#53](undefined) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
-5. 💪 Opened PR [#367](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🗣 Commented on [#546](https://github.com/launchdarkly/ld-relay/issues/546#issuecomment-3488132602) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 🗣 Commented on [#36](https://github.com/launchdarkly/openfeature-python-server/issues/36#issuecomment-3488032077) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
+3. 🔒 Closed issue [#36](https://github.com/launchdarkly/openfeature-python-server/issues/36) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
+4. 💪 Opened PR [#37](undefined) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
+5. 💪 Opened PR [#53](undefined) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
