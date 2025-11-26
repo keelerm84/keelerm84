@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#550](https://github.com/launchdarkly/ld-relay/issues/550) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 💪 Opened PR [#555](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 🗣 Commented on [#550](https://github.com/launchdarkly/ld-relay/issues/550#issuecomment-3571902347) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 🗣 Commented on [#5](https://github.com/launchdarkly/go-server-sdk-firestore/pull/5#issuecomment-3564699558) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
-5. 🗣 Commented on [#31](https://github.com/launchdarkly/hello-go/pull/31#issuecomment-3564690277) in [launchdarkly/hello-go](https://github.com/launchdarkly/hello-go)
+1. 🗣 Commented on [#266](https://github.com/launchdarkly/python-server-sdk/issues/266#issuecomment-3583232172) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+2. 🔒 Closed issue [#550](https://github.com/launchdarkly/ld-relay/issues/550) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 💪 Opened PR [#555](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 🗣 Commented on [#550](https://github.com/launchdarkly/ld-relay/issues/550#issuecomment-3571902347) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 🗣 Commented on [#5](https://github.com/launchdarkly/go-server-sdk-firestore/pull/5#issuecomment-3564699558) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
 <!--END_SECTION:activity-->
 
 ### Github Stats
