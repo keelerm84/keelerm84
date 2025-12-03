@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#460](https://github.com/launchdarkly/ios-client-sdk/issues/460) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. 🗣 Commented on [#460](https://github.com/launchdarkly/ios-client-sdk/issues/460#issuecomment-3603856516) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 💪 Opened PR [#461](undefined) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 💪 Opened PR [#557](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. ❌ Merged PR [#333](undefined) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+1. ❌ Merged PR [#557](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 🔒 Closed issue [#460](https://github.com/launchdarkly/ios-client-sdk/issues/460) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+3. 🗣 Commented on [#460](https://github.com/launchdarkly/ios-client-sdk/issues/460#issuecomment-3603856516) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+4. 💪 Opened PR [#461](undefined) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 💪 Opened PR [#557](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
