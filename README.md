@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#385](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. 💪 Opened PR [#384](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 🚀 Published release [v9.0.0-alpha.2](https://github.com/launchdarkly/ld-relay/releases/tag/v9.0.0-alpha.2) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. ❌ Merged PR [#557](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 🔒 Closed issue [#460](https://github.com/launchdarkly/ios-client-sdk/issues/460) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+1. ❌ Merged PR [#384](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+2. 💪 Opened PR [#334](undefined) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+3. 💪 Opened PR [#385](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 💪 Opened PR [#384](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. 🚀 Published release [v9.0.0-alpha.2](https://github.com/launchdarkly/ld-relay/releases/tag/v9.0.0-alpha.2) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
