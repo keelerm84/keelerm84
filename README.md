@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v9.0.0-alpha.2](https://github.com/launchdarkly/ld-relay/releases/tag/v9.0.0-alpha.2) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. ❌ Merged PR [#557](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 🔒 Closed issue [#460](https://github.com/launchdarkly/ios-client-sdk/issues/460) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 🗣 Commented on [#460](https://github.com/launchdarkly/ios-client-sdk/issues/460#issuecomment-3603856516) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 💪 Opened PR [#461](undefined) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+1. 💪 Opened PR [#384](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+2. 🚀 Published release [v9.0.0-alpha.2](https://github.com/launchdarkly/ld-relay/releases/tag/v9.0.0-alpha.2) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. ❌ Merged PR [#557](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 🔒 Closed issue [#460](https://github.com/launchdarkly/ios-client-sdk/issues/460) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 🗣 Commented on [#460](https://github.com/launchdarkly/ios-client-sdk/issues/460#issuecomment-3603856516) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
