@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](undefined) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
-2. ❌ Merged PR [#388](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 💪 Opened PR [#388](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. ❌ Merged PR [#335](undefined) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-5. 🗣 Commented on [#561](https://github.com/launchdarkly/ld-relay/pull/561#issuecomment-3613593970) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🗣 Commented on [#71](https://github.com/launchdarkly/gh-actions/pull/71#issuecomment-3657357382) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+2. 💪 Opened PR [#71](undefined) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+3. 🗣 Commented on [#100](https://github.com/launchdarkly/rust-eventsource-client/issues/100#issuecomment-3657278870) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+4. 💪 Opened PR [#33](undefined) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+5. ❌ Merged PR [#388](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
