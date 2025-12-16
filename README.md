@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#33](undefined) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
-2. ❌ Merged PR [#71](undefined) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-3. 🗣 Commented on [#99](https://github.com/launchdarkly/haskell-server-sdk/issues/99#issuecomment-3660546994) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-4. 🗣 Commented on [#71](https://github.com/launchdarkly/gh-actions/pull/71#issuecomment-3657357382) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-5. 💪 Opened PR [#71](undefined) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+1. 💪 Opened PR [#102](undefined) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. ❌ Merged PR [#33](undefined) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+3. ❌ Merged PR [#71](undefined) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+4. 🗣 Commented on [#99](https://github.com/launchdarkly/haskell-server-sdk/issues/99#issuecomment-3660546994) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+5. 🗣 Commented on [#71](https://github.com/launchdarkly/gh-actions/pull/71#issuecomment-3657357382) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
 <!--END_SECTION:activity-->
 
 ### Github Stats
