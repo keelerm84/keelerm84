@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/launchdarkly/gh-actions/pull/71#issuecomment-3657357382) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-2. 💪 Opened PR [#71](undefined) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-3. 🗣 Commented on [#100](https://github.com/launchdarkly/rust-eventsource-client/issues/100#issuecomment-3657278870) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-4. 💪 Opened PR [#33](undefined) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
-5. ❌ Merged PR [#388](undefined) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🗣 Commented on [#99](https://github.com/launchdarkly/haskell-server-sdk/issues/99#issuecomment-3660546994) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. 🗣 Commented on [#71](https://github.com/launchdarkly/gh-actions/pull/71#issuecomment-3657357382) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+3. 💪 Opened PR [#71](undefined) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+4. 🗣 Commented on [#100](https://github.com/launchdarkly/rust-eventsource-client/issues/100#issuecomment-3657278870) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+5. 💪 Opened PR [#33](undefined) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
 <!--END_SECTION:activity-->
 
 ### Github Stats
