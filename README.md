@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#563](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 💪 Opened PR [#563](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. ❌ Merged PR [#102](undefined) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-4. 💪 Opened PR [#102](undefined) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-5. ❌ Merged PR [#33](undefined) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+1. 💪 Opened PR [#564](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. ❌ Merged PR [#563](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 💪 Opened PR [#563](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. ❌ Merged PR [#102](undefined) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+5. 💪 Opened PR [#102](undefined) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
