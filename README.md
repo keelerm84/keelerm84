@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#564](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. ❌ Merged PR [#563](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 💪 Opened PR [#563](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. ❌ Merged PR [#102](undefined) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-5. 💪 Opened PR [#102](undefined) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+1. 🗣 Commented on [#81](https://github.com/launchdarkly/ld-relay-helm/pull/81#issuecomment-3666406344) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+2. ❌ Merged PR [#83](undefined) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+3. 💪 Opened PR [#83](undefined) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+4. 💪 Opened PR [#564](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. ❌ Merged PR [#563](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
