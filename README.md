@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#566](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. ❌ Closed PR [#566](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. ❌ Merged PR [#564](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. ❌ Merged PR [#84](undefined) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-5. 💪 Opened PR [#129](undefined) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+1. ❌ Merged PR [#567](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. ❌ Merged PR [#128](undefined) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+3. 💪 Opened PR [#567](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. ❌ Merged PR [#129](undefined) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+5. ❌ Reopened PR [#566](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
