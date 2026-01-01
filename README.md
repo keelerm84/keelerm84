@@ -45,10 +45,10 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#103](https://github.com/launchdarkly/rust-eventsource-client/issues/103#issuecomment-3682837995) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-2. ❌ Merged PR [#568](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 💪 Opened PR [#568](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 🎉 Merged PR [#568](https://github.com/launchdarkly/ld-relay/pull/568) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 💪 Opened PR [#568](https://github.com/launchdarkly/ld-relay/pull/568) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 4. 🗣 Commented on [#82](https://github.com/launchdarkly/ld-relay-helm/pull/82#issuecomment-3670572818) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-5. ❌ Merged PR [#567](undefined) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 🎉 Merged PR [#567](https://github.com/launchdarkly/ld-relay/pull/567) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
