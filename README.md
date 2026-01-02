@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/launchdarkly/gh-actions/pull/73) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-2. 💪 Opened PR [#392](https://github.com/launchdarkly/python-server-sdk/pull/392) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 💪 Opened PR [#73](https://github.com/launchdarkly/gh-actions/pull/73) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-4. 💪 Opened PR [#339](https://github.com/launchdarkly/go-server-sdk/pull/339) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-5. 🚀 Published release [v3.0.0-alpha.1](https://github.com/launchdarkly/sdk-test-harness/releases/tag/v3.0.0-alpha.1) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 🎉 Merged PR [#339](https://github.com/launchdarkly/go-server-sdk/pull/339) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+2. 🎉 Merged PR [#73](https://github.com/launchdarkly/gh-actions/pull/73) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+3. 💪 Opened PR [#392](https://github.com/launchdarkly/python-server-sdk/pull/392) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 💪 Opened PR [#73](https://github.com/launchdarkly/gh-actions/pull/73) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+5. 💪 Opened PR [#339](https://github.com/launchdarkly/go-server-sdk/pull/339) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
