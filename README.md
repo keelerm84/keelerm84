@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#557](https://github.com/open-feature/python-sdk/pull/557) in [open-feature/python-sdk](https://github.com/open-feature/python-sdk)
-2. 💪 Opened PR [#131](https://github.com/launchdarkly/rust-server-sdk/pull/131) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-3. 💪 Opened PR [#105](https://github.com/launchdarkly/rust-eventsource-client/pull/105) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-4. 💪 Opened PR [#104](https://github.com/launchdarkly/rust-eventsource-client/pull/104) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-5. 💪 Opened PR [#557](https://github.com/open-feature/python-sdk/pull/557) in [open-feature/python-sdk](https://github.com/open-feature/python-sdk)
+1. 💪 Opened PR [#574](https://github.com/launchdarkly/ld-relay/pull/574) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 🎉 Merged PR [#557](https://github.com/open-feature/python-sdk/pull/557) in [open-feature/python-sdk](https://github.com/open-feature/python-sdk)
+3. 💪 Opened PR [#131](https://github.com/launchdarkly/rust-server-sdk/pull/131) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+4. 💪 Opened PR [#105](https://github.com/launchdarkly/rust-eventsource-client/pull/105) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+5. 💪 Opened PR [#104](https://github.com/launchdarkly/rust-eventsource-client/pull/104) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
 <!--END_SECTION:activity-->
 
 ### Github Stats
