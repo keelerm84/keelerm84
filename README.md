@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#132](https://github.com/launchdarkly/rust-server-sdk/pull/132) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-2. 🗣 Commented on [#132](https://github.com/launchdarkly/rust-server-sdk/pull/132#issuecomment-3729552497) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-3. 💪 Opened PR [#132](https://github.com/launchdarkly/rust-server-sdk/pull/132) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-4. 🎉 Merged PR [#574](https://github.com/launchdarkly/ld-relay/pull/574) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 🔒 Closed issue [#573](https://github.com/launchdarkly/ld-relay/issues/573) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🗣 Commented on [#133](https://github.com/launchdarkly/rust-server-sdk/pull/133#issuecomment-3738597333) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+2. 🎉 Merged PR [#132](https://github.com/launchdarkly/rust-server-sdk/pull/132) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+3. 🗣 Commented on [#132](https://github.com/launchdarkly/rust-server-sdk/pull/132#issuecomment-3729552497) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+4. 💪 Opened PR [#132](https://github.com/launchdarkly/rust-server-sdk/pull/132) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+5. 🎉 Merged PR [#574](https://github.com/launchdarkly/ld-relay/pull/574) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
