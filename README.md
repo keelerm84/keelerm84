@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#560](https://github.com/open-feature/python-sdk/pull/560#issuecomment-3756084825) in [open-feature/python-sdk](https://github.com/open-feature/python-sdk)
-2. 💪 Opened PR [#360](https://github.com/open-feature/spec/pull/360) in [open-feature/spec](https://github.com/open-feature/spec)
-3. 🎉 Merged PR [#561](https://github.com/open-feature/python-sdk/pull/561) in [open-feature/python-sdk](https://github.com/open-feature/python-sdk)
-4. ℹ️ Labeled PR [#133](https://github.com/launchdarkly/rust-server-sdk/pull/133) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-5. 🎉 Merged PR [#106](https://github.com/launchdarkly/rust-eventsource-client/pull/106) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+1. 💪 Opened PR [#340](https://github.com/launchdarkly/go-server-sdk/pull/340) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+2. 🗣 Commented on [#560](https://github.com/open-feature/python-sdk/pull/560#issuecomment-3756084825) in [open-feature/python-sdk](https://github.com/open-feature/python-sdk)
+3. 💪 Opened PR [#360](https://github.com/open-feature/spec/pull/360) in [open-feature/spec](https://github.com/open-feature/spec)
+4. 🎉 Merged PR [#561](https://github.com/open-feature/python-sdk/pull/561) in [open-feature/python-sdk](https://github.com/open-feature/python-sdk)
+5. ℹ️ Labeled PR [#133](https://github.com/launchdarkly/rust-server-sdk/pull/133) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
