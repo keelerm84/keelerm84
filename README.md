@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#145](https://github.com/launchdarkly/rust-server-sdk/pull/145) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-2. 💪 Opened PR [#108](https://github.com/launchdarkly/rust-eventsource-client/pull/108) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-3. 🎉 Merged PR [#560](https://github.com/open-feature/python-sdk/pull/560) in [open-feature/python-sdk](https://github.com/open-feature/python-sdk)
-4. 🎉 Merged PR [#360](https://github.com/open-feature/spec/pull/360) in [open-feature/spec](https://github.com/open-feature/spec)
-5. 💪 Opened PR [#143](https://github.com/launchdarkly/rust-server-sdk/pull/143) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+1. 🎉 Merged PR [#110](https://github.com/launchdarkly/rust-eventsource-client/pull/110) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 💪 Opened PR [#110](https://github.com/launchdarkly/rust-eventsource-client/pull/110) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. ❌ Closed PR [#109](https://github.com/launchdarkly/rust-eventsource-client/pull/109) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+4. 💪 Opened PR [#109](https://github.com/launchdarkly/rust-eventsource-client/pull/109) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+5. 🎉 Merged PR [#145](https://github.com/launchdarkly/rust-server-sdk/pull/145) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
