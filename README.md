@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#142](https://github.com/launchdarkly/rust-server-sdk/pull/142) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-2. 💪 Opened PR [#402](https://github.com/launchdarkly/python-server-sdk/pull/402) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 🎉 Merged PR [#38](https://github.com/launchdarkly/apex-server-sdk/pull/38) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-4. 💪 Opened PR [#38](https://github.com/launchdarkly/apex-server-sdk/pull/38) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-5. ℹ️ Reopened PR [#577](https://github.com/launchdarkly/ld-relay/pull/577) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. ℹ️ Reopened PR [#46](https://github.com/launchdarkly/go-server-sdk-evaluation/pull/46) in [launchdarkly/go-server-sdk-evaluation](https://github.com/launchdarkly/go-server-sdk-evaluation)
+2. ❌ Closed PR [#46](https://github.com/launchdarkly/go-server-sdk-evaluation/pull/46) in [launchdarkly/go-server-sdk-evaluation](https://github.com/launchdarkly/go-server-sdk-evaluation)
+3. ℹ️ Reopened PR [#44](https://github.com/launchdarkly/go-sdk-common/pull/44) in [launchdarkly/go-sdk-common](https://github.com/launchdarkly/go-sdk-common)
+4. ❌ Closed PR [#44](https://github.com/launchdarkly/go-sdk-common/pull/44) in [launchdarkly/go-sdk-common](https://github.com/launchdarkly/go-sdk-common)
+5. 🎉 Merged PR [#42](https://github.com/launchdarkly/go-sdk-common/pull/42) in [launchdarkly/go-sdk-common](https://github.com/launchdarkly/go-sdk-common)
 <!--END_SECTION:activity-->
 
 ### Github Stats
