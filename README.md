@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#402](https://github.com/launchdarkly/python-server-sdk/pull/402) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. 🗣 Commented on [#85](https://github.com/launchdarkly/ld-relay-helm/issues/85#issuecomment-3819078346) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-3. 🎉 Merged PR [#143](https://github.com/launchdarkly/rust-server-sdk/pull/143) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-4. 💪 Opened PR [#86](https://github.com/launchdarkly/ld-relay-helm/pull/86) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-5. 💪 Opened PR [#34](https://github.com/launchdarkly/go-jsonstream/pull/34) in [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream)
+1. 🗣 Commented on [#86](https://github.com/launchdarkly/ld-relay-helm/pull/86#issuecomment-3824137299) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+2. 🎉 Merged PR [#86](https://github.com/launchdarkly/ld-relay-helm/pull/86) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+3. 🔒 Closed issue [#85](https://github.com/launchdarkly/ld-relay-helm/issues/85) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+4. 🎉 Merged PR [#402](https://github.com/launchdarkly/python-server-sdk/pull/402) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. 🗣 Commented on [#85](https://github.com/launchdarkly/ld-relay-helm/issues/85#issuecomment-3819078346) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
 <!--END_SECTION:activity-->
 
 ### Github Stats
