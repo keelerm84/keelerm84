@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#338](https://github.com/launchdarkly/sdk-meta/pull/338) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-2. 🔒 Closed issue [#88](https://github.com/launchdarkly/ld-relay-helm/issues/88) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-3. 🗣 Commented on [#88](https://github.com/launchdarkly/ld-relay-helm/issues/88#issuecomment-3835107298) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-4. 💪 Opened PR [#338](https://github.com/launchdarkly/sdk-meta/pull/338) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-5. 🚀 Published release [v9.0.0-rc.1](https://github.com/launchdarkly/ld-relay/releases/tag/v9.0.0-rc.1) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🎉 Merged PR [#339](https://github.com/launchdarkly/sdk-meta/pull/339) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+2. 💪 Opened PR [#339](https://github.com/launchdarkly/sdk-meta/pull/339) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+3. 🎉 Merged PR [#1087](https://github.com/launchdarkly/js-core/pull/1087) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+4. 💪 Opened PR [#1087](https://github.com/launchdarkly/js-core/pull/1087) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+5. 🎉 Merged PR [#338](https://github.com/launchdarkly/sdk-meta/pull/338) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
 <!--END_SECTION:activity-->
 
 ### Github Stats
