@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/launchdarkly/rust-sdk-transport/pull/1) in [launchdarkly/rust-sdk-transport](https://github.com/launchdarkly/rust-sdk-transport)
-2. 💪 Opened PR [#3](https://github.com/launchdarkly/rust-sdk-transport/pull/3) in [launchdarkly/rust-sdk-transport](https://github.com/launchdarkly/rust-sdk-transport)
-3. 💪 Opened PR [#2](https://github.com/launchdarkly/rust-sdk-transport/pull/2) in [launchdarkly/rust-sdk-transport](https://github.com/launchdarkly/rust-sdk-transport)
-4. 💪 Opened PR [#1](https://github.com/launchdarkly/rust-sdk-transport/pull/1) in [launchdarkly/rust-sdk-transport](https://github.com/launchdarkly/rust-sdk-transport)
-5. ℹ️ Reopened PR [#347](https://github.com/launchdarkly/go-server-sdk/pull/347) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+1. 🎉 Merged PR [#3](https://github.com/launchdarkly/rust-sdk-transport/pull/3) in [launchdarkly/rust-sdk-transport](https://github.com/launchdarkly/rust-sdk-transport)
+2. 🎉 Merged PR [#2](https://github.com/launchdarkly/rust-sdk-transport/pull/2) in [launchdarkly/rust-sdk-transport](https://github.com/launchdarkly/rust-sdk-transport)
+3. 🎉 Merged PR [#1](https://github.com/launchdarkly/rust-sdk-transport/pull/1) in [launchdarkly/rust-sdk-transport](https://github.com/launchdarkly/rust-sdk-transport)
+4. 💪 Opened PR [#3](https://github.com/launchdarkly/rust-sdk-transport/pull/3) in [launchdarkly/rust-sdk-transport](https://github.com/launchdarkly/rust-sdk-transport)
+5. 💪 Opened PR [#2](https://github.com/launchdarkly/rust-sdk-transport/pull/2) in [launchdarkly/rust-sdk-transport](https://github.com/launchdarkly/rust-sdk-transport)
 <!--END_SECTION:activity-->
 
 ### Github Stats
