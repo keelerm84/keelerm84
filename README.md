@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#406](https://github.com/launchdarkly/python-server-sdk/issues/406#issuecomment-3915463068) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. ℹ️ Labeled issue [#406](https://github.com/launchdarkly/python-server-sdk/issues/406) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 🗣 Commented on [#406](https://github.com/launchdarkly/python-server-sdk/issues/406#issuecomment-3915307853) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. 🗣 Commented on [#582](https://github.com/launchdarkly/ld-relay/issues/582#issuecomment-3915203018) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. ℹ️ Reopened PR [#581](https://github.com/launchdarkly/ld-relay/pull/581) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 💪 Opened PR [#6](https://github.com/launchdarkly/rust-sdk-transport/pull/6) in [launchdarkly/rust-sdk-transport](https://github.com/launchdarkly/rust-sdk-transport)
+2. 🗣 Commented on [#406](https://github.com/launchdarkly/python-server-sdk/issues/406#issuecomment-3915463068) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+3. ℹ️ Labeled issue [#406](https://github.com/launchdarkly/python-server-sdk/issues/406) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 🗣 Commented on [#406](https://github.com/launchdarkly/python-server-sdk/issues/406#issuecomment-3915307853) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. 🗣 Commented on [#582](https://github.com/launchdarkly/ld-relay/issues/582#issuecomment-3915203018) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
