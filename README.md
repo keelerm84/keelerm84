@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#154](https://github.com/launchdarkly/rust-server-sdk/pull/154) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-2. 💪 Opened PR [#153](https://github.com/launchdarkly/rust-server-sdk/pull/153) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-3. 💪 Opened PR [#318](https://github.com/launchdarkly/sdk-test-harness/pull/318) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 🗣 Commented on [#97](https://github.com/launchdarkly/ld-relay-helm/issues/97#issuecomment-3937102030) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-5. 💪 Opened PR [#235](https://github.com/launchdarkly/php-server-sdk/pull/235) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+1. 🎉 Merged PR [#318](https://github.com/launchdarkly/sdk-test-harness/pull/318) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+2. 🗣 Commented on [#234](https://github.com/launchdarkly/php-server-sdk/issues/234#issuecomment-3945357827) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+3. 🔒 Closed issue [#234](https://github.com/launchdarkly/php-server-sdk/issues/234) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+4. 🎉 Merged PR [#235](https://github.com/launchdarkly/php-server-sdk/pull/235) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+5. 🗣 Commented on [#154](https://github.com/launchdarkly/rust-server-sdk/pull/154#issuecomment-3945305691) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
