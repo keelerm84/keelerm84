@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/launchdarkly/roku-client-sdk/pull/46) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
-2. 🎉 Merged PR [#98](https://github.com/launchdarkly/ld-relay-helm/pull/98) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-3. ℹ️ Reopened PR [#45](https://github.com/launchdarkly/hello-tvos/pull/45) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
-4. ❌ Closed PR [#45](https://github.com/launchdarkly/hello-tvos/pull/45) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
-5. 💪 Opened PR [#474](https://github.com/launchdarkly/ios-client-sdk/pull/474) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+1. ℹ️ Reopened PR [#55](https://github.com/launchdarkly/hello-ios/pull/55) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
+2. ❌ Closed PR [#55](https://github.com/launchdarkly/hello-ios/pull/55) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
+3. 💪 Opened PR [#121](https://github.com/launchdarkly/rust-eventsource-client/pull/121) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+4. 🎉 Merged PR [#15](https://github.com/launchdarkly/dotnet-logging-adapter-nlog/pull/15) in [launchdarkly/dotnet-logging-adapter-nlog](https://github.com/launchdarkly/dotnet-logging-adapter-nlog)
+5. ℹ️ Reopened PR [#50](https://github.com/launchdarkly/hello-ios-swift/pull/50) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
 <!--END_SECTION:activity-->
 
 ### Github Stats
