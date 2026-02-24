@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#154](https://github.com/launchdarkly/rust-server-sdk/pull/154) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-2. 🎉 Merged PR [#153](https://github.com/launchdarkly/rust-server-sdk/pull/153) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-3. 🎉 Merged PR [#152](https://github.com/launchdarkly/rust-server-sdk/pull/152) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-4. 🎉 Merged PR [#151](https://github.com/launchdarkly/rust-server-sdk/pull/151) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-5. 🎉 Merged PR [#318](https://github.com/launchdarkly/sdk-test-harness/pull/318) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 🎉 Merged PR [#46](https://github.com/launchdarkly/roku-client-sdk/pull/46) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
+2. 🎉 Merged PR [#98](https://github.com/launchdarkly/ld-relay-helm/pull/98) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+3. ℹ️ Reopened PR [#45](https://github.com/launchdarkly/hello-tvos/pull/45) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
+4. ❌ Closed PR [#45](https://github.com/launchdarkly/hello-tvos/pull/45) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
+5. 💪 Opened PR [#474](https://github.com/launchdarkly/ios-client-sdk/pull/474) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
