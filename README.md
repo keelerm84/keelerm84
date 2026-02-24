@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Reopened PR [#55](https://github.com/launchdarkly/hello-ios/pull/55) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
-2. ❌ Closed PR [#55](https://github.com/launchdarkly/hello-ios/pull/55) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
-3. 💪 Opened PR [#121](https://github.com/launchdarkly/rust-eventsource-client/pull/121) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-4. 🎉 Merged PR [#15](https://github.com/launchdarkly/dotnet-logging-adapter-nlog/pull/15) in [launchdarkly/dotnet-logging-adapter-nlog](https://github.com/launchdarkly/dotnet-logging-adapter-nlog)
-5. ℹ️ Reopened PR [#50](https://github.com/launchdarkly/hello-ios-swift/pull/50) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
+1. 🎉 Merged PR [#172](https://github.com/launchdarkly/erlang-server-sdk/pull/172) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
+2. 🎉 Merged PR [#104](https://github.com/launchdarkly/haskell-server-sdk/pull/104) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+3. ℹ️ Reopened PR [#55](https://github.com/launchdarkly/hello-ios/pull/55) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
+4. ❌ Closed PR [#55](https://github.com/launchdarkly/hello-ios/pull/55) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
+5. 💪 Opened PR [#121](https://github.com/launchdarkly/rust-eventsource-client/pull/121) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
 <!--END_SECTION:activity-->
 
 ### Github Stats
