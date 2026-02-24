@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#474](https://github.com/launchdarkly/ios-client-sdk/pull/474) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-2. ❌ Closed PR [#475](https://github.com/launchdarkly/ios-client-sdk/pull/475) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 🎉 Merged PR [#172](https://github.com/launchdarkly/erlang-server-sdk/pull/172) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
-4. 🎉 Merged PR [#104](https://github.com/launchdarkly/haskell-server-sdk/pull/104) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-5. ℹ️ Reopened PR [#55](https://github.com/launchdarkly/hello-ios/pull/55) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
+1. 🎉 Merged PR [#237](https://github.com/launchdarkly/php-server-sdk/pull/237) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+2. 🎉 Merged PR [#57](https://github.com/launchdarkly/python-eventsource/pull/57) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+3. 🎉 Merged PR [#73](https://github.com/launchdarkly/gha-flags/pull/73) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+4. 🎉 Merged PR [#55](https://github.com/launchdarkly/hello-ios/pull/55) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
+5. 🎉 Merged PR [#50](https://github.com/launchdarkly/hello-ios-swift/pull/50) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
 <!--END_SECTION:activity-->
 
 ### Github Stats
