@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#237](https://github.com/launchdarkly/php-server-sdk/pull/237) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-2. 🎉 Merged PR [#57](https://github.com/launchdarkly/python-eventsource/pull/57) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
-3. 🎉 Merged PR [#73](https://github.com/launchdarkly/gha-flags/pull/73) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
-4. 🎉 Merged PR [#55](https://github.com/launchdarkly/hello-ios/pull/55) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
-5. 🎉 Merged PR [#50](https://github.com/launchdarkly/hello-ios-swift/pull/50) in [launchdarkly/hello-ios-swift](https://github.com/launchdarkly/hello-ios-swift)
+1. 🎉 Merged PR [#44](https://github.com/launchdarkly/python-server-sdk-otel/pull/44) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+2. 🎉 Merged PR [#16](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/16) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
+3. 🎉 Merged PR [#24](https://github.com/launchdarkly/php-server-sdk-consul/pull/24) in [launchdarkly/php-server-sdk-consul](https://github.com/launchdarkly/php-server-sdk-consul)
+4. 🎉 Merged PR [#408](https://github.com/launchdarkly/python-server-sdk/pull/408) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. 🎉 Merged PR [#237](https://github.com/launchdarkly/php-server-sdk/pull/237) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
