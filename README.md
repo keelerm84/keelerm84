@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/launchdarkly/openfeature-ruby-server/pull/15) in [launchdarkly/openfeature-ruby-server](https://github.com/launchdarkly/openfeature-ruby-server)
-2. 💪 Opened PR [#15](https://github.com/launchdarkly/openfeature-ruby-server/pull/15) in [launchdarkly/openfeature-ruby-server](https://github.com/launchdarkly/openfeature-ruby-server)
-3. 🎉 Merged PR [#20](https://github.com/launchdarkly/openfeature-php-server/pull/20) in [launchdarkly/openfeature-php-server](https://github.com/launchdarkly/openfeature-php-server)
-4. 🎉 Merged PR [#24](https://github.com/launchdarkly/php-server-sdk-dynamodb/pull/24) in [launchdarkly/php-server-sdk-dynamodb](https://github.com/launchdarkly/php-server-sdk-dynamodb)
-5. 🎉 Merged PR [#44](https://github.com/launchdarkly/python-server-sdk-otel/pull/44) in [launchdarkly/python-server-sdk-otel](https://github.com/launchdarkly/python-server-sdk-otel)
+1. 💪 Opened PR [#477](https://github.com/launchdarkly/ios-client-sdk/pull/477) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+2. 🎉 Merged PR [#476](https://github.com/launchdarkly/ios-client-sdk/pull/476) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+3. 💪 Opened PR [#476](https://github.com/launchdarkly/ios-client-sdk/pull/476) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+4. 🎉 Merged PR [#14](https://github.com/launchdarkly/openfeature-ruby-server/pull/14) in [launchdarkly/openfeature-ruby-server](https://github.com/launchdarkly/openfeature-ruby-server)
+5. 🎉 Merged PR [#15](https://github.com/launchdarkly/openfeature-ruby-server/pull/15) in [launchdarkly/openfeature-ruby-server](https://github.com/launchdarkly/openfeature-ruby-server)
 <!--END_SECTION:activity-->
 
 ### Github Stats
