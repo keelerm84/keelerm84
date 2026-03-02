@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/launchdarkly/hello-tvos/pull/45) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
-2. 🎉 Merged PR [#481](https://github.com/launchdarkly/ios-client-sdk/pull/481) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-3. 💪 Opened PR [#481](https://github.com/launchdarkly/ios-client-sdk/pull/481) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-4. 🎉 Merged PR [#480](https://github.com/launchdarkly/ios-client-sdk/pull/480) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
-5. 🎉 Merged PR [#321](https://github.com/launchdarkly/sdk-test-harness/pull/321) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 🗣 Commented on [#365](https://github.com/launchdarkly/ruby-server-sdk/issues/365#issuecomment-3984969510) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+2. 💪 Opened PR [#80](https://github.com/launchdarkly/ruby-eventsource/pull/80) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+3. 🎉 Merged PR [#45](https://github.com/launchdarkly/hello-tvos/pull/45) in [launchdarkly/hello-tvos](https://github.com/launchdarkly/hello-tvos)
+4. 🎉 Merged PR [#481](https://github.com/launchdarkly/ios-client-sdk/pull/481) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
+5. 💪 Opened PR [#481](https://github.com/launchdarkly/ios-client-sdk/pull/481) in [launchdarkly/ios-client-sdk](https://github.com/launchdarkly/ios-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
