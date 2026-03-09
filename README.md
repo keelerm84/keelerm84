@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#586](https://github.com/launchdarkly/ld-relay/pull/586) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. ℹ️ Reopened PR [#585](https://github.com/launchdarkly/ld-relay/pull/585) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. ❌ Closed PR [#585](https://github.com/launchdarkly/ld-relay/pull/585) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. ℹ️ Reopened PR [#160](https://github.com/launchdarkly/rust-server-sdk/pull/160) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-5. ❌ Closed PR [#160](https://github.com/launchdarkly/rust-server-sdk/pull/160) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+1. ℹ️ Reopened PR [#29](https://github.com/launchdarkly/go-test-helpers/pull/29) in [launchdarkly/go-test-helpers](https://github.com/launchdarkly/go-test-helpers)
+2. ❌ Closed PR [#29](https://github.com/launchdarkly/go-test-helpers/pull/29) in [launchdarkly/go-test-helpers](https://github.com/launchdarkly/go-test-helpers)
+3. ℹ️ Reopened PR [#20](https://github.com/launchdarkly/go-semver/pull/20) in [launchdarkly/go-semver](https://github.com/launchdarkly/go-semver)
+4. ❌ Closed PR [#20](https://github.com/launchdarkly/go-semver/pull/20) in [launchdarkly/go-semver](https://github.com/launchdarkly/go-semver)
+5. ℹ️ Reopened PR [#8](https://github.com/launchdarkly/go-server-sdk-firestore/pull/8) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
 <!--END_SECTION:activity-->
 
 ### Github Stats
