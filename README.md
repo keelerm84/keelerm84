@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1159](https://github.com/launchdarkly/js-core/pull/1159) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-2. ℹ️ Reopened PR [#29](https://github.com/launchdarkly/go-test-helpers/pull/29) in [launchdarkly/go-test-helpers](https://github.com/launchdarkly/go-test-helpers)
-3. ❌ Closed PR [#29](https://github.com/launchdarkly/go-test-helpers/pull/29) in [launchdarkly/go-test-helpers](https://github.com/launchdarkly/go-test-helpers)
-4. ℹ️ Reopened PR [#20](https://github.com/launchdarkly/go-semver/pull/20) in [launchdarkly/go-semver](https://github.com/launchdarkly/go-semver)
-5. ❌ Closed PR [#20](https://github.com/launchdarkly/go-semver/pull/20) in [launchdarkly/go-semver](https://github.com/launchdarkly/go-semver)
+1. 🗣 Commented on [#30](https://github.com/launchdarkly/go-test-helpers/pull/30#issuecomment-4030975423) in [launchdarkly/go-test-helpers](https://github.com/launchdarkly/go-test-helpers)
+2. 🎉 Merged PR [#1159](https://github.com/launchdarkly/js-core/pull/1159) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+3. ℹ️ Reopened PR [#29](https://github.com/launchdarkly/go-test-helpers/pull/29) in [launchdarkly/go-test-helpers](https://github.com/launchdarkly/go-test-helpers)
+4. ❌ Closed PR [#29](https://github.com/launchdarkly/go-test-helpers/pull/29) in [launchdarkly/go-test-helpers](https://github.com/launchdarkly/go-test-helpers)
+5. ℹ️ Reopened PR [#20](https://github.com/launchdarkly/go-semver/pull/20) in [launchdarkly/go-semver](https://github.com/launchdarkly/go-semver)
 <!--END_SECTION:activity-->
 
 ### Github Stats
