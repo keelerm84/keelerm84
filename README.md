@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/launchdarkly/gh-actions/pull/75) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-2. 🗣 Commented on [#30](https://github.com/launchdarkly/go-test-helpers/pull/30#issuecomment-4030975423) in [launchdarkly/go-test-helpers](https://github.com/launchdarkly/go-test-helpers)
-3. 🎉 Merged PR [#1159](https://github.com/launchdarkly/js-core/pull/1159) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-4. ℹ️ Reopened PR [#29](https://github.com/launchdarkly/go-test-helpers/pull/29) in [launchdarkly/go-test-helpers](https://github.com/launchdarkly/go-test-helpers)
-5. ❌ Closed PR [#29](https://github.com/launchdarkly/go-test-helpers/pull/29) in [launchdarkly/go-test-helpers](https://github.com/launchdarkly/go-test-helpers)
+1. ❌ Closed PR [#581](https://github.com/launchdarkly/ld-relay/pull/581) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. ℹ️ Reopened PR [#30](https://github.com/launchdarkly/go-server-sdk-dynamodb/pull/30) in [launchdarkly/go-server-sdk-dynamodb](https://github.com/launchdarkly/go-server-sdk-dynamodb)
+3. ❌ Closed PR [#30](https://github.com/launchdarkly/go-server-sdk-dynamodb/pull/30) in [launchdarkly/go-server-sdk-dynamodb](https://github.com/launchdarkly/go-server-sdk-dynamodb)
+4. 🎉 Merged PR [#586](https://github.com/launchdarkly/ld-relay/pull/586) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 💪 Opened PR [#75](https://github.com/launchdarkly/gh-actions/pull/75) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
 <!--END_SECTION:activity-->
 
 ### Github Stats
