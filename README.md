@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#76](https://github.com/launchdarkly/gha-flags/pull/76) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
-2. 🎉 Merged PR [#99](https://github.com/launchdarkly/ld-relay-helm/pull/99) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-3. 💪 Opened PR [#99](https://github.com/launchdarkly/ld-relay-helm/pull/99) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-4. 💪 Opened PR [#58](https://github.com/launchdarkly/python-eventsource/pull/58) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
-5. 🎉 Merged PR [#75](https://github.com/launchdarkly/gh-actions/pull/75) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+1. 🎉 Merged PR [#78](https://github.com/launchdarkly/gha-flags/pull/78) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+2. 💪 Opened PR [#78](https://github.com/launchdarkly/gha-flags/pull/78) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+3. 🗣 Commented on [#74](https://github.com/launchdarkly/gha-flags/pull/74#issuecomment-4057600073) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+4. 🔒 Closed issue [#75](https://github.com/launchdarkly/gha-flags/issues/75) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+5. 🎉 Merged PR [#76](https://github.com/launchdarkly/gha-flags/pull/76) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
 <!--END_SECTION:activity-->
 
 ### Github Stats
