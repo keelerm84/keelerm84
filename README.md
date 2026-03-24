@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/launchdarkly/hello-bootstrap-rails/pull/50#issuecomment-4120580313) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-2. 🗣 Commented on [#54](https://github.com/launchdarkly/hello-bootstrap-rails/pull/54#issuecomment-4120573349) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-3. 🗣 Commented on [#36](https://github.com/launchdarkly/go-jsonstream/pull/36#issuecomment-4120526576) in [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream)
-4. 🗣 Commented on [#373](https://github.com/launchdarkly/ruby-server-sdk/issues/373#issuecomment-4100748046) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-5. 🎉 Merged PR [#597](https://github.com/launchdarkly/ld-relay/pull/597) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🎉 Merged PR [#58](https://github.com/launchdarkly/python-eventsource/pull/58) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
+2. 💪 Opened PR [#82](https://github.com/launchdarkly/ruby-eventsource/pull/82) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+3. 🗣 Commented on [#50](https://github.com/launchdarkly/hello-bootstrap-rails/pull/50#issuecomment-4120580313) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+4. 🗣 Commented on [#54](https://github.com/launchdarkly/hello-bootstrap-rails/pull/54#issuecomment-4120573349) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+5. 🗣 Commented on [#36](https://github.com/launchdarkly/go-jsonstream/pull/36#issuecomment-4120526576) in [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream)
 <!--END_SECTION:activity-->
 
 ### Github Stats
