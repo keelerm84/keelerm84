@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/launchdarkly/python-eventsource/pull/58) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
-2. 💪 Opened PR [#82](https://github.com/launchdarkly/ruby-eventsource/pull/82) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-3. 🗣 Commented on [#50](https://github.com/launchdarkly/hello-bootstrap-rails/pull/50#issuecomment-4120580313) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-4. 🗣 Commented on [#54](https://github.com/launchdarkly/hello-bootstrap-rails/pull/54#issuecomment-4120573349) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-5. 🗣 Commented on [#36](https://github.com/launchdarkly/go-jsonstream/pull/36#issuecomment-4120526576) in [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream)
+1. 🎉 Merged PR [#43](https://github.com/launchdarkly/openfeature-python-server/pull/43) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
+2. 💪 Opened PR [#43](https://github.com/launchdarkly/openfeature-python-server/pull/43) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
+3. 💪 Opened PR [#602](https://github.com/launchdarkly/ld-relay/pull/602) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 💪 Opened PR [#601](https://github.com/launchdarkly/ld-relay/pull/601) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 🎉 Merged PR [#58](https://github.com/launchdarkly/python-eventsource/pull/58) in [launchdarkly/python-eventsource](https://github.com/launchdarkly/python-eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
