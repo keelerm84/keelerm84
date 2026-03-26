@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#601](https://github.com/launchdarkly/ld-relay/pull/601) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 🎉 Merged PR [#82](https://github.com/launchdarkly/ruby-eventsource/pull/82) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-3. 🎉 Merged PR [#43](https://github.com/launchdarkly/openfeature-python-server/pull/43) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
-4. 💪 Opened PR [#43](https://github.com/launchdarkly/openfeature-python-server/pull/43) in [launchdarkly/openfeature-python-server](https://github.com/launchdarkly/openfeature-python-server)
-5. 💪 Opened PR [#602](https://github.com/launchdarkly/ld-relay/pull/602) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🎉 Merged PR [#602](https://github.com/launchdarkly/ld-relay/pull/602) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 🎉 Merged PR [#599](https://github.com/launchdarkly/ld-relay/pull/599) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 🗣 Commented on [#85](https://github.com/launchdarkly/gha-flags/pull/85#issuecomment-4135979132) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+4. 🗣 Commented on [#83](https://github.com/launchdarkly/gha-flags/pull/83#issuecomment-4135916535) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+5. 🎉 Merged PR [#601](https://github.com/launchdarkly/ld-relay/pull/601) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
