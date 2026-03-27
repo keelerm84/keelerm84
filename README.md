@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#375](https://github.com/launchdarkly/ruby-server-sdk/pull/375) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-2. 🎉 Merged PR [#602](https://github.com/launchdarkly/ld-relay/pull/602) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 🎉 Merged PR [#599](https://github.com/launchdarkly/ld-relay/pull/599) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 🗣 Commented on [#85](https://github.com/launchdarkly/gha-flags/pull/85#issuecomment-4135979132) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
-5. 🗣 Commented on [#83](https://github.com/launchdarkly/gha-flags/pull/83#issuecomment-4135916535) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+1. 🗣 Commented on [#373](https://github.com/launchdarkly/ruby-server-sdk/issues/373#issuecomment-4142334727) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+2. 🎉 Merged PR [#375](https://github.com/launchdarkly/ruby-server-sdk/pull/375) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+3. 🔒 Closed issue [#373](https://github.com/launchdarkly/ruby-server-sdk/issues/373) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+4. 💪 Opened PR [#375](https://github.com/launchdarkly/ruby-server-sdk/pull/375) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+5. 🎉 Merged PR [#602](https://github.com/launchdarkly/ld-relay/pull/602) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
