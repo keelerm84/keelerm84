@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#617](https://github.com/launchdarkly/ld-relay/pull/617) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 🎉 Merged PR [#611](https://github.com/launchdarkly/ld-relay/pull/611) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 💪 Opened PR [#611](https://github.com/launchdarkly/ld-relay/pull/611) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 🎉 Merged PR [#609](https://github.com/launchdarkly/ld-relay/pull/609) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 💪 Opened PR [#609](https://github.com/launchdarkly/ld-relay/pull/609) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 💪 Opened PR [#516](https://github.com/launchdarkly/cpp-sdks/pull/516) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+2. 💪 Opened PR [#239](https://github.com/launchdarkly/dotnet-core/pull/239) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+3. 💪 Opened PR [#19](https://github.com/launchdarkly/openfeature-ruby-server/pull/19) in [launchdarkly/openfeature-ruby-server](https://github.com/launchdarkly/openfeature-ruby-server)
+4. 💪 Opened PR [#106](https://github.com/launchdarkly/haskell-server-sdk/pull/106) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+5. 💪 Opened PR [#413](https://github.com/launchdarkly/python-server-sdk/pull/413) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
