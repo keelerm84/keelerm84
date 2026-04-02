@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/launchdarkly/dotnet-logging/pull/16) in [launchdarkly/dotnet-logging](https://github.com/launchdarkly/dotnet-logging)
-2. 🎉 Merged PR [#377](https://github.com/launchdarkly/ruby-server-sdk/pull/377) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-3. 🎉 Merged PR [#118](https://github.com/launchdarkly/python-server-sdk-ai/pull/118) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
-4. 🎉 Merged PR [#18](https://github.com/launchdarkly/dotnet-logging-adapter-commonlogging/pull/18) in [launchdarkly/dotnet-logging-adapter-commonlogging](https://github.com/launchdarkly/dotnet-logging-adapter-commonlogging)
-5. 🎉 Merged PR [#34](https://github.com/launchdarkly/dotnet-logging-adapter-ms/pull/34) in [launchdarkly/dotnet-logging-adapter-ms](https://github.com/launchdarkly/dotnet-logging-adapter-ms)
+1. 🎉 Merged PR [#239](https://github.com/launchdarkly/dotnet-core/pull/239) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+2. 🎉 Merged PR [#619](https://github.com/launchdarkly/ld-relay/pull/619) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 🎉 Merged PR [#16](https://github.com/launchdarkly/dotnet-logging/pull/16) in [launchdarkly/dotnet-logging](https://github.com/launchdarkly/dotnet-logging)
+4. 🎉 Merged PR [#377](https://github.com/launchdarkly/ruby-server-sdk/pull/377) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+5. 🎉 Merged PR [#118](https://github.com/launchdarkly/python-server-sdk-ai/pull/118) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
 <!--END_SECTION:activity-->
 
 ### Github Stats
