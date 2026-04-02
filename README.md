@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/launchdarkly/openfeature-ruby-server/pull/21) in [launchdarkly/openfeature-ruby-server](https://github.com/launchdarkly/openfeature-ruby-server)
-2. 🎉 Merged PR [#618](https://github.com/launchdarkly/ld-relay/pull/618) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 💪 Opened PR [#20](https://github.com/launchdarkly/openfeature-ruby-server/pull/20) in [launchdarkly/openfeature-ruby-server](https://github.com/launchdarkly/openfeature-ruby-server)
-4. 🎉 Merged PR [#38](https://github.com/launchdarkly/go-sdk-events/pull/38) in [launchdarkly/go-sdk-events](https://github.com/launchdarkly/go-sdk-events)
-5. 💪 Opened PR [#619](https://github.com/launchdarkly/ld-relay/pull/619) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🎉 Merged PR [#16](https://github.com/launchdarkly/dotnet-logging/pull/16) in [launchdarkly/dotnet-logging](https://github.com/launchdarkly/dotnet-logging)
+2. 🎉 Merged PR [#377](https://github.com/launchdarkly/ruby-server-sdk/pull/377) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+3. 🎉 Merged PR [#118](https://github.com/launchdarkly/python-server-sdk-ai/pull/118) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+4. 🎉 Merged PR [#18](https://github.com/launchdarkly/dotnet-logging-adapter-commonlogging/pull/18) in [launchdarkly/dotnet-logging-adapter-commonlogging](https://github.com/launchdarkly/dotnet-logging-adapter-commonlogging)
+5. 🎉 Merged PR [#34](https://github.com/launchdarkly/dotnet-logging-adapter-ms/pull/34) in [launchdarkly/dotnet-logging-adapter-ms](https://github.com/launchdarkly/dotnet-logging-adapter-ms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
