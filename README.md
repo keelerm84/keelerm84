@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/43) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-2. 🎉 Merged PR [#41](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/41) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-3. ℹ️ Labeled issue [#414](https://github.com/launchdarkly/python-server-sdk/issues/414) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-4. 🗣 Commented on [#414](https://github.com/launchdarkly/python-server-sdk/issues/414#issuecomment-4193697161) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 💪 Opened PR [#107](https://github.com/launchdarkly/haskell-server-sdk/pull/107) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+1. 🎉 Merged PR [#48](https://github.com/launchdarkly/roku-client-sdk/pull/48) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
+2. 🎉 Merged PR [#413](https://github.com/launchdarkly/python-server-sdk/pull/413) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+3. 💪 Opened PR [#632](https://github.com/launchdarkly/ld-relay/pull/632) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 💪 Opened PR [#43](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/43) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+5. 🎉 Merged PR [#41](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/41) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
 <!--END_SECTION:activity-->
 
 ### Github Stats
