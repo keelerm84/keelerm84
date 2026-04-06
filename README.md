@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#631](https://github.com/launchdarkly/ld-relay/pull/631) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 🎉 Merged PR [#630](https://github.com/launchdarkly/ld-relay/pull/630) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 🎉 Merged PR [#629](https://github.com/launchdarkly/ld-relay/pull/629) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 🎉 Merged PR [#628](https://github.com/launchdarkly/ld-relay/pull/628) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 🎉 Merged PR [#627](https://github.com/launchdarkly/ld-relay/pull/627) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 💪 Opened PR [#107](https://github.com/launchdarkly/haskell-server-sdk/pull/107) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+2. 💪 Opened PR [#378](https://github.com/launchdarkly/ruby-server-sdk/pull/378) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+3. 💪 Opened PR [#20](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/20) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
+4. 💪 Opened PR [#124](https://github.com/launchdarkly/python-server-sdk-ai/pull/124) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
+5. 💪 Opened PR [#240](https://github.com/launchdarkly/dotnet-core/pull/240) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
 <!--END_SECTION:activity-->
 
 ### Github Stats
