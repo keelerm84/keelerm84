@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#107](https://github.com/launchdarkly/haskell-server-sdk/pull/107) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-2. 💪 Opened PR [#378](https://github.com/launchdarkly/ruby-server-sdk/pull/378) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-3. 💪 Opened PR [#20](https://github.com/launchdarkly/ruby-server-sdk-otel/pull/20) in [launchdarkly/ruby-server-sdk-otel](https://github.com/launchdarkly/ruby-server-sdk-otel)
-4. 💪 Opened PR [#124](https://github.com/launchdarkly/python-server-sdk-ai/pull/124) in [launchdarkly/python-server-sdk-ai](https://github.com/launchdarkly/python-server-sdk-ai)
-5. 💪 Opened PR [#240](https://github.com/launchdarkly/dotnet-core/pull/240) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+1. 🎉 Merged PR [#41](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/41) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+2. ℹ️ Labeled issue [#414](https://github.com/launchdarkly/python-server-sdk/issues/414) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+3. 🗣 Commented on [#414](https://github.com/launchdarkly/python-server-sdk/issues/414#issuecomment-4193697161) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 💪 Opened PR [#107](https://github.com/launchdarkly/haskell-server-sdk/pull/107) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+5. 💪 Opened PR [#378](https://github.com/launchdarkly/ruby-server-sdk/pull/378) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
