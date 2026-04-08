@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#634](https://github.com/launchdarkly/ld-relay/pull/634) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 🗣 Commented on [#60](https://github.com/launchdarkly/hello-bootstrap-rails/pull/60#issuecomment-4208004202) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-3. 🎉 Merged PR [#632](https://github.com/launchdarkly/ld-relay/pull/632) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 🎉 Merged PR [#43](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/43) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-5. 🎉 Merged PR [#102](https://github.com/launchdarkly/ld-relay-helm/pull/102) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+1. ℹ️ Reopened PR [#633](https://github.com/launchdarkly/ld-relay/pull/633) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. ❌ Closed PR [#633](https://github.com/launchdarkly/ld-relay/pull/633) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 💪 Opened PR [#634](https://github.com/launchdarkly/ld-relay/pull/634) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 🗣 Commented on [#60](https://github.com/launchdarkly/hello-bootstrap-rails/pull/60#issuecomment-4208004202) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+5. 🎉 Merged PR [#632](https://github.com/launchdarkly/ld-relay/pull/632) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
