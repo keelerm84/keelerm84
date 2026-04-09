@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#634](https://github.com/launchdarkly/ld-relay/pull/634) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. ❌ Closed PR [#13](https://github.com/launchdarkly/go-configtypes/pull/13) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
-3. 🗣 Commented on [#104](https://github.com/launchdarkly/ld-relay-helm/pull/104#issuecomment-4215636425) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-4. 🗣 Commented on [#106](https://github.com/launchdarkly/ld-relay-helm/pull/106#issuecomment-4215634757) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-5. 🗣 Commented on [#105](https://github.com/launchdarkly/ld-relay-helm/pull/105#issuecomment-4215635829) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+1. 🎉 Merged PR [#85](https://github.com/launchdarkly/ruby-eventsource/pull/85) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+2. 💪 Opened PR [#85](https://github.com/launchdarkly/ruby-eventsource/pull/85) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+3. 🎉 Merged PR [#636](https://github.com/launchdarkly/ld-relay/pull/636) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 💪 Opened PR [#636](https://github.com/launchdarkly/ld-relay/pull/636) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 🎉 Merged PR [#635](https://github.com/launchdarkly/ld-relay/pull/635) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
