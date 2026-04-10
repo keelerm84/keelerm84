@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/launchdarkly/apex-server-sdk/pull/44) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-2. 💪 Opened PR [#44](https://github.com/launchdarkly/apex-server-sdk/pull/44) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-3. 🗣 Commented on [#42](https://github.com/launchdarkly/apex-server-sdk/pull/42#issuecomment-4225366298) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-4. 🎉 Merged PR [#43](https://github.com/launchdarkly/apex-server-sdk/pull/43) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-5. 🚀 Published release [v9.0.0-rc.2](https://github.com/launchdarkly/ld-relay/releases/tag/v9.0.0-rc.2) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🎉 Merged PR [#86](https://github.com/launchdarkly/ruby-eventsource/pull/86) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+2. ❌ Closed PR [#80](https://github.com/launchdarkly/gh-actions/pull/80) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+3. 💪 Opened PR [#86](https://github.com/launchdarkly/ruby-eventsource/pull/86) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
+4. 💪 Opened PR [#80](https://github.com/launchdarkly/gh-actions/pull/80) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+5. 🎉 Merged PR [#44](https://github.com/launchdarkly/apex-server-sdk/pull/44) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
