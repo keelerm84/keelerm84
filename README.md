@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/launchdarkly/apex-server-sdk/pull/44) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-2. 🗣 Commented on [#42](https://github.com/launchdarkly/apex-server-sdk/pull/42#issuecomment-4225366298) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-3. 🎉 Merged PR [#43](https://github.com/launchdarkly/apex-server-sdk/pull/43) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-4. 🚀 Published release [v9.0.0-rc.2](https://github.com/launchdarkly/ld-relay/releases/tag/v9.0.0-rc.2) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 🎉 Merged PR [#641](https://github.com/launchdarkly/ld-relay/pull/641) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🎉 Merged PR [#44](https://github.com/launchdarkly/apex-server-sdk/pull/44) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+2. 💪 Opened PR [#44](https://github.com/launchdarkly/apex-server-sdk/pull/44) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+3. 🗣 Commented on [#42](https://github.com/launchdarkly/apex-server-sdk/pull/42#issuecomment-4225366298) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+4. 🎉 Merged PR [#43](https://github.com/launchdarkly/apex-server-sdk/pull/43) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+5. 🚀 Published release [v9.0.0-rc.2](https://github.com/launchdarkly/ld-relay/releases/tag/v9.0.0-rc.2) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
