@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#129](https://github.com/launchdarkly/rust-eventsource-client/pull/129) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-2. 🗣 Commented on [#128](https://github.com/launchdarkly/rust-eventsource-client/issues/128#issuecomment-4237278734) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
-3. 💪 Opened PR [#86](https://github.com/launchdarkly/ruby-eventsource/pull/86) in [launchdarkly/ruby-eventsource](https://github.com/launchdarkly/ruby-eventsource)
-4. 💪 Opened PR [#80](https://github.com/launchdarkly/gh-actions/pull/80) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
-5. 🎉 Merged PR [#44](https://github.com/launchdarkly/apex-server-sdk/pull/44) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+1. 🔒 Closed issue [#128](https://github.com/launchdarkly/rust-eventsource-client/issues/128) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+2. 🗣 Commented on [#128](https://github.com/launchdarkly/rust-eventsource-client/issues/128#issuecomment-4238135848) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+3. 🎉 Merged PR [#129](https://github.com/launchdarkly/rust-eventsource-client/pull/129) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+4. 💪 Opened PR [#129](https://github.com/launchdarkly/rust-eventsource-client/pull/129) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+5. 🗣 Commented on [#128](https://github.com/launchdarkly/rust-eventsource-client/issues/128#issuecomment-4237278734) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
 <!--END_SECTION:activity-->
 
 ### Github Stats
