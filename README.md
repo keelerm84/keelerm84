@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Reopened PR [#13](https://github.com/launchdarkly/rust-sdk-transport/pull/13) in [launchdarkly/rust-sdk-transport](https://github.com/launchdarkly/rust-sdk-transport)
-2. ❌ Closed PR [#13](https://github.com/launchdarkly/rust-sdk-transport/pull/13) in [launchdarkly/rust-sdk-transport](https://github.com/launchdarkly/rust-sdk-transport)
-3. ℹ️ Reopened PR [#46](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/46) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-4. ❌ Closed PR [#46](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/46) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-5. ℹ️ Reopened PR [#164](https://github.com/launchdarkly/rust-server-sdk/pull/164) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+1. 🎉 Merged PR [#647](https://github.com/launchdarkly/ld-relay/pull/647) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. ℹ️ Reopened PR [#13](https://github.com/launchdarkly/rust-sdk-transport/pull/13) in [launchdarkly/rust-sdk-transport](https://github.com/launchdarkly/rust-sdk-transport)
+3. ❌ Closed PR [#13](https://github.com/launchdarkly/rust-sdk-transport/pull/13) in [launchdarkly/rust-sdk-transport](https://github.com/launchdarkly/rust-sdk-transport)
+4. ℹ️ Reopened PR [#46](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/46) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+5. ❌ Closed PR [#46](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/46) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
 <!--END_SECTION:activity-->
 
 ### Github Stats
