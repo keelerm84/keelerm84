@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/launchdarkly/php-server-sdk-otel/pull/12) in [launchdarkly/php-server-sdk-otel](https://github.com/launchdarkly/php-server-sdk-otel)
-2. 💪 Opened PR [#12](https://github.com/launchdarkly/php-server-sdk-otel/pull/12) in [launchdarkly/php-server-sdk-otel](https://github.com/launchdarkly/php-server-sdk-otel)
-3. 🎉 Merged PR [#10](https://github.com/launchdarkly/php-server-sdk-otel/pull/10) in [launchdarkly/php-server-sdk-otel](https://github.com/launchdarkly/php-server-sdk-otel)
-4. 🎉 Merged PR [#9](https://github.com/launchdarkly/php-server-sdk-otel/pull/9) in [launchdarkly/php-server-sdk-otel](https://github.com/launchdarkly/php-server-sdk-otel)
-5. 🎉 Merged PR [#8](https://github.com/launchdarkly/php-server-sdk-otel/pull/8) in [launchdarkly/php-server-sdk-otel](https://github.com/launchdarkly/php-server-sdk-otel)
+1. 🎉 Merged PR [#336](https://github.com/launchdarkly/sdk-test-harness/pull/336) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+2. 🎉 Merged PR [#242](https://github.com/launchdarkly/php-server-sdk/pull/242) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+3. 💪 Opened PR [#13](https://github.com/launchdarkly/php-server-sdk-otel/pull/13) in [launchdarkly/php-server-sdk-otel](https://github.com/launchdarkly/php-server-sdk-otel)
+4. 💪 Opened PR [#242](https://github.com/launchdarkly/php-server-sdk/pull/242) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+5. 🎉 Merged PR [#12](https://github.com/launchdarkly/php-server-sdk-otel/pull/12) in [launchdarkly/php-server-sdk-otel](https://github.com/launchdarkly/php-server-sdk-otel)
 <!--END_SECTION:activity-->
 
 ### Github Stats
