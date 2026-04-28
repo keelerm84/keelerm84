@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/launchdarkly/php-server-sdk-otel/pull/15) in [launchdarkly/php-server-sdk-otel](https://github.com/launchdarkly/php-server-sdk-otel)
-2. 🎉 Merged PR [#14](https://github.com/launchdarkly/php-server-sdk-otel/pull/14) in [launchdarkly/php-server-sdk-otel](https://github.com/launchdarkly/php-server-sdk-otel)
-3. 💪 Opened PR [#14](https://github.com/launchdarkly/php-server-sdk-otel/pull/14) in [launchdarkly/php-server-sdk-otel](https://github.com/launchdarkly/php-server-sdk-otel)
-4. 🎉 Merged PR [#365](https://github.com/launchdarkly/go-server-sdk/pull/365) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-5. 🎉 Merged PR [#13](https://github.com/launchdarkly/php-server-sdk-otel/pull/13) in [launchdarkly/php-server-sdk-otel](https://github.com/launchdarkly/php-server-sdk-otel)
+1. 🎉 Merged PR [#15](https://github.com/launchdarkly/php-server-sdk-otel/pull/15) in [launchdarkly/php-server-sdk-otel](https://github.com/launchdarkly/php-server-sdk-otel)
+2. 💪 Opened PR [#15](https://github.com/launchdarkly/php-server-sdk-otel/pull/15) in [launchdarkly/php-server-sdk-otel](https://github.com/launchdarkly/php-server-sdk-otel)
+3. 🎉 Merged PR [#14](https://github.com/launchdarkly/php-server-sdk-otel/pull/14) in [launchdarkly/php-server-sdk-otel](https://github.com/launchdarkly/php-server-sdk-otel)
+4. 💪 Opened PR [#14](https://github.com/launchdarkly/php-server-sdk-otel/pull/14) in [launchdarkly/php-server-sdk-otel](https://github.com/launchdarkly/php-server-sdk-otel)
+5. 🎉 Merged PR [#365](https://github.com/launchdarkly/go-server-sdk/pull/365) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
