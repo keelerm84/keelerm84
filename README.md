@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/22) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
-2. 💪 Opened PR [#21](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/21) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
-3. 💪 Opened PR [#20](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/20) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
-4. 💪 Opened PR [#19](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/19) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
-5. 💪 Opened PR [#18](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/18) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
+1. 🎉 Merged PR [#24](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/24) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
+2. 💪 Opened PR [#24](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/24) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
+3. 🎉 Merged PR [#23](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/23) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
+4. 💪 Opened PR [#338](https://github.com/launchdarkly/sdk-test-harness/pull/338) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. 💪 Opened PR [#23](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/23) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
 <!--END_SECTION:activity-->
 
 ### Github Stats
