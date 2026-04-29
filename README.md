@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/24) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
-2. 💪 Opened PR [#24](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/24) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
-3. 🎉 Merged PR [#23](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/23) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
-4. 💪 Opened PR [#338](https://github.com/launchdarkly/sdk-test-harness/pull/338) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-5. 💪 Opened PR [#23](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/23) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
+1. 🚀 Published release [v3.0.0-alpha.6](https://github.com/launchdarkly/sdk-test-harness/releases/tag/v3.0.0-alpha.6) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+2. 🎉 Merged PR [#338](https://github.com/launchdarkly/sdk-test-harness/pull/338) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+3. 🎉 Merged PR [#655](https://github.com/launchdarkly/ld-relay/pull/655) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 🗣 Commented on [#655](https://github.com/launchdarkly/ld-relay/pull/655#issuecomment-4345992107) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 💪 Opened PR [#655](https://github.com/launchdarkly/ld-relay/pull/655) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
