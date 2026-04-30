@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#368](https://github.com/launchdarkly/go-server-sdk/pull/368) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-2. 🚀 Published release [v3.0.0-alpha.6](https://github.com/launchdarkly/sdk-test-harness/releases/tag/v3.0.0-alpha.6) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 🎉 Merged PR [#338](https://github.com/launchdarkly/sdk-test-harness/pull/338) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 🎉 Merged PR [#655](https://github.com/launchdarkly/ld-relay/pull/655) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 🗣 Commented on [#655](https://github.com/launchdarkly/ld-relay/pull/655#issuecomment-4345992107) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 💪 Opened PR [#251](https://github.com/launchdarkly/dotnet-core/pull/251) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+2. 🎉 Merged PR [#369](https://github.com/launchdarkly/go-server-sdk/pull/369) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+3. 🎉 Merged PR [#422](https://github.com/launchdarkly/python-server-sdk/pull/422) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+4. 🎉 Merged PR [#380](https://github.com/launchdarkly/ruby-server-sdk/pull/380) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+5. 🎉 Merged PR [#1341](https://github.com/launchdarkly/js-core/pull/1341) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
 <!--END_SECTION:activity-->
 
 ### Github Stats
