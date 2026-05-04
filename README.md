@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#416](https://github.com/launchdarkly/python-server-sdk/issues/416#issuecomment-4373178864) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-2. 🎉 Merged PR [#657](https://github.com/launchdarkly/ld-relay/pull/657) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 💪 Opened PR [#251](https://github.com/launchdarkly/dotnet-core/pull/251) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
-4. 🎉 Merged PR [#369](https://github.com/launchdarkly/go-server-sdk/pull/369) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-5. 🎉 Merged PR [#422](https://github.com/launchdarkly/python-server-sdk/pull/422) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🚀 Published release [v9.0.0-rc.3](https://github.com/launchdarkly/ld-relay/releases/tag/v9.0.0-rc.3) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 🎉 Merged PR [#658](https://github.com/launchdarkly/ld-relay/pull/658) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 💪 Opened PR [#658](https://github.com/launchdarkly/ld-relay/pull/658) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 🗣 Commented on [#416](https://github.com/launchdarkly/python-server-sdk/issues/416#issuecomment-4373178864) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. 🎉 Merged PR [#657](https://github.com/launchdarkly/ld-relay/pull/657) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
