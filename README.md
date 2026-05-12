@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#158](https://github.com/launchdarkly/java-core/pull/158) in [launchdarkly/java-core](https://github.com/launchdarkly/java-core)
-2. 🎉 Merged PR [#50](https://github.com/launchdarkly/apex-server-sdk/pull/50) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-3. 💪 Opened PR [#50](https://github.com/launchdarkly/apex-server-sdk/pull/50) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-4. 💪 Opened PR [#373](https://github.com/launchdarkly/go-server-sdk/pull/373) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-5. 💪 Opened PR [#384](https://github.com/launchdarkly/ruby-server-sdk/pull/384) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+1. 🎉 Merged PR [#428](https://github.com/launchdarkly/python-server-sdk/pull/428) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+2. 🎉 Merged PR [#386](https://github.com/launchdarkly/ruby-server-sdk/pull/386) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+3. 🎉 Merged PR [#1376](https://github.com/launchdarkly/js-core/pull/1376) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+4. 🎉 Merged PR [#161](https://github.com/launchdarkly/java-core/pull/161) in [launchdarkly/java-core](https://github.com/launchdarkly/java-core)
+5. 🎉 Merged PR [#257](https://github.com/launchdarkly/dotnet-core/pull/257) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
 <!--END_SECTION:activity-->
 
 ### Github Stats
