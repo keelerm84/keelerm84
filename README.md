@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#111](https://github.com/launchdarkly/haskell-server-sdk/pull/111) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-2. 💪 Opened PR [#532](https://github.com/launchdarkly/cpp-sdks/pull/532) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
-3. 💪 Opened PR [#1377](https://github.com/launchdarkly/js-core/pull/1377) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-4. 💪 Opened PR [#162](https://github.com/launchdarkly/java-core/pull/162) in [launchdarkly/java-core](https://github.com/launchdarkly/java-core)
-5. 💪 Opened PR [#181](https://github.com/launchdarkly/erlang-server-sdk/pull/181) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
+1. 💪 Opened PR [#170](https://github.com/launchdarkly/rust-server-sdk/pull/170) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+2. 💪 Opened PR [#111](https://github.com/launchdarkly/haskell-server-sdk/pull/111) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+3. 💪 Opened PR [#532](https://github.com/launchdarkly/cpp-sdks/pull/532) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+4. 💪 Opened PR [#1377](https://github.com/launchdarkly/js-core/pull/1377) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+5. 💪 Opened PR [#162](https://github.com/launchdarkly/java-core/pull/162) in [launchdarkly/java-core](https://github.com/launchdarkly/java-core)
 <!--END_SECTION:activity-->
 
 ### Github Stats
