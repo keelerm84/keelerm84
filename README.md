@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#170](https://github.com/launchdarkly/rust-server-sdk/pull/170) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-2. 💪 Opened PR [#111](https://github.com/launchdarkly/haskell-server-sdk/pull/111) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-3. 💪 Opened PR [#532](https://github.com/launchdarkly/cpp-sdks/pull/532) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
-4. 💪 Opened PR [#1377](https://github.com/launchdarkly/js-core/pull/1377) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-5. 💪 Opened PR [#162](https://github.com/launchdarkly/java-core/pull/162) in [launchdarkly/java-core](https://github.com/launchdarkly/java-core)
+1. ❌ Closed PR [#378](https://github.com/launchdarkly/go-server-sdk/pull/378) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+2. 💪 Opened PR [#378](https://github.com/launchdarkly/go-server-sdk/pull/378) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+3. 💪 Opened PR [#170](https://github.com/launchdarkly/rust-server-sdk/pull/170) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+4. 💪 Opened PR [#111](https://github.com/launchdarkly/haskell-server-sdk/pull/111) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+5. 💪 Opened PR [#532](https://github.com/launchdarkly/cpp-sdks/pull/532) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
 <!--END_SECTION:activity-->
 
 ### Github Stats
