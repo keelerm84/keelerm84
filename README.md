@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1011](https://github.com/asheshgoplani/agent-deck/pull/1011) in [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)
-2. 🗣 Commented on [#1011](https://github.com/asheshgoplani/agent-deck/pull/1011#issuecomment-4466367894) in [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)
-3. 🗣 Commented on [#1011](https://github.com/asheshgoplani/agent-deck/pull/1011#issuecomment-4464560846) in [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)
-4. 💪 Opened PR [#1011](https://github.com/asheshgoplani/agent-deck/pull/1011) in [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)
-5. 🎉 Merged PR [#379](https://github.com/launchdarkly/go-server-sdk/pull/379) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+1. 🎉 Merged PR [#1377](https://github.com/launchdarkly/js-core/pull/1377) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+2. ❌ Closed PR [#1011](https://github.com/asheshgoplani/agent-deck/pull/1011) in [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)
+3. 🗣 Commented on [#1011](https://github.com/asheshgoplani/agent-deck/pull/1011#issuecomment-4466367894) in [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)
+4. 🗣 Commented on [#1011](https://github.com/asheshgoplani/agent-deck/pull/1011#issuecomment-4464560846) in [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)
+5. 💪 Opened PR [#1011](https://github.com/asheshgoplani/agent-deck/pull/1011) in [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)
 <!--END_SECTION:activity-->
 
 ### Github Stats
