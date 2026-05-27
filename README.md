@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#671](https://github.com/launchdarkly/ld-relay/issues/671#issuecomment-4547377474) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 🗣 Commented on [#670](https://github.com/launchdarkly/ld-relay/issues/670#issuecomment-4547349502) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 💪 Opened PR [#672](https://github.com/launchdarkly/ld-relay/pull/672) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 🎉 Merged PR [#51](https://github.com/launchdarkly/apex-server-sdk/pull/51) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-5. 🗣 Commented on [#664](https://github.com/launchdarkly/ld-relay/pull/664#issuecomment-4500597813) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🎉 Merged PR [#672](https://github.com/launchdarkly/ld-relay/pull/672) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 🗣 Commented on [#671](https://github.com/launchdarkly/ld-relay/issues/671#issuecomment-4547377474) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 🗣 Commented on [#670](https://github.com/launchdarkly/ld-relay/issues/670#issuecomment-4547349502) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 💪 Opened PR [#672](https://github.com/launchdarkly/ld-relay/pull/672) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 🎉 Merged PR [#51](https://github.com/launchdarkly/apex-server-sdk/pull/51) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
