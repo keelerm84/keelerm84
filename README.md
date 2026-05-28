@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#183](https://github.com/launchdarkly/erlang-server-sdk/pull/183) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
-2. 💪 Opened PR [#183](https://github.com/launchdarkly/erlang-server-sdk/pull/183) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
-3. 🎉 Merged PR [#375](https://github.com/launchdarkly/go-server-sdk/pull/375) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-4. 🎉 Merged PR [#111](https://github.com/launchdarkly/haskell-server-sdk/pull/111) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-5. 🎉 Merged PR [#181](https://github.com/launchdarkly/erlang-server-sdk/pull/181) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
+1. 🎉 Merged PR [#674](https://github.com/launchdarkly/ld-relay/pull/674) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 🎉 Merged PR [#532](https://github.com/launchdarkly/cpp-sdks/pull/532) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+3. 🎉 Merged PR [#678](https://github.com/launchdarkly/ld-relay/pull/678) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 💪 Opened PR [#678](https://github.com/launchdarkly/ld-relay/pull/678) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 🎉 Merged PR [#676](https://github.com/launchdarkly/ld-relay/pull/676) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
