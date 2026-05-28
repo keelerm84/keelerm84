@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#675](https://github.com/launchdarkly/ld-relay/pull/675) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 💪 Opened PR [#674](https://github.com/launchdarkly/ld-relay/pull/674) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 🎉 Merged PR [#373](https://github.com/launchdarkly/go-server-sdk/pull/373) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-4. 🎉 Merged PR [#162](https://github.com/launchdarkly/java-core/pull/162) in [launchdarkly/java-core](https://github.com/launchdarkly/java-core)
-5. 🎉 Merged PR [#258](https://github.com/launchdarkly/dotnet-core/pull/258) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+1. 🎉 Merged PR [#183](https://github.com/launchdarkly/erlang-server-sdk/pull/183) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
+2. 💪 Opened PR [#183](https://github.com/launchdarkly/erlang-server-sdk/pull/183) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
+3. 🎉 Merged PR [#375](https://github.com/launchdarkly/go-server-sdk/pull/375) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+4. 🎉 Merged PR [#111](https://github.com/launchdarkly/haskell-server-sdk/pull/111) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+5. 🎉 Merged PR [#181](https://github.com/launchdarkly/erlang-server-sdk/pull/181) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
