@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#674](https://github.com/launchdarkly/ld-relay/pull/674) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 🎉 Merged PR [#532](https://github.com/launchdarkly/cpp-sdks/pull/532) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
-3. 🎉 Merged PR [#678](https://github.com/launchdarkly/ld-relay/pull/678) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 💪 Opened PR [#678](https://github.com/launchdarkly/ld-relay/pull/678) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 🎉 Merged PR [#676](https://github.com/launchdarkly/ld-relay/pull/676) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🎉 Merged PR [#170](https://github.com/launchdarkly/rust-server-sdk/pull/170) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+2. 🎉 Merged PR [#674](https://github.com/launchdarkly/ld-relay/pull/674) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 🎉 Merged PR [#532](https://github.com/launchdarkly/cpp-sdks/pull/532) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+4. 🎉 Merged PR [#678](https://github.com/launchdarkly/ld-relay/pull/678) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 💪 Opened PR [#678](https://github.com/launchdarkly/ld-relay/pull/678) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
