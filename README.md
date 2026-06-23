@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/launchdarkly/apex-server-sdk/pull/57) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-2. ❌ Closed PR [#29](https://github.com/launchdarkly/sdks-ci-docker/pull/29) in [launchdarkly/sdks-ci-docker](https://github.com/launchdarkly/sdks-ci-docker)
-3. ℹ️ Assigned PR [#57](https://github.com/launchdarkly/apex-server-sdk/pull/57) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-4. 💪 Opened PR [#57](https://github.com/launchdarkly/apex-server-sdk/pull/57) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-5. 💪 Opened PR [#30](https://github.com/launchdarkly/sdks-ci-docker/pull/30) in [launchdarkly/sdks-ci-docker](https://github.com/launchdarkly/sdks-ci-docker)
+1. 🗣 Commented on [#29](https://github.com/launchdarkly/sdks-ci-docker/pull/29#issuecomment-4771291805) in [launchdarkly/sdks-ci-docker](https://github.com/launchdarkly/sdks-ci-docker)
+2. 🎉 Merged PR [#57](https://github.com/launchdarkly/apex-server-sdk/pull/57) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+3. ❌ Closed PR [#29](https://github.com/launchdarkly/sdks-ci-docker/pull/29) in [launchdarkly/sdks-ci-docker](https://github.com/launchdarkly/sdks-ci-docker)
+4. ℹ️ Assigned PR [#57](https://github.com/launchdarkly/apex-server-sdk/pull/57) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+5. 💪 Opened PR [#57](https://github.com/launchdarkly/apex-server-sdk/pull/57) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
