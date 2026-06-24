@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/launchdarkly/sdks-ci-docker/pull/29#issuecomment-4771291805) in [launchdarkly/sdks-ci-docker](https://github.com/launchdarkly/sdks-ci-docker)
-2. 🎉 Merged PR [#57](https://github.com/launchdarkly/apex-server-sdk/pull/57) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-3. ❌ Closed PR [#29](https://github.com/launchdarkly/sdks-ci-docker/pull/29) in [launchdarkly/sdks-ci-docker](https://github.com/launchdarkly/sdks-ci-docker)
-4. ℹ️ Assigned PR [#57](https://github.com/launchdarkly/apex-server-sdk/pull/57) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-5. 💪 Opened PR [#57](https://github.com/launchdarkly/apex-server-sdk/pull/57) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+1. 💪 Opened PR [#101](https://github.com/launchdarkly/swift-eventsource/pull/101) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+2. 🗣 Commented on [#29](https://github.com/launchdarkly/sdks-ci-docker/pull/29#issuecomment-4771291805) in [launchdarkly/sdks-ci-docker](https://github.com/launchdarkly/sdks-ci-docker)
+3. 🎉 Merged PR [#57](https://github.com/launchdarkly/apex-server-sdk/pull/57) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+4. ❌ Closed PR [#29](https://github.com/launchdarkly/sdks-ci-docker/pull/29) in [launchdarkly/sdks-ci-docker](https://github.com/launchdarkly/sdks-ci-docker)
+5. ℹ️ Assigned PR [#57](https://github.com/launchdarkly/apex-server-sdk/pull/57) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
