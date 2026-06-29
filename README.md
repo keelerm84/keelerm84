@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#35](https://github.com/keelerm84/dotfiles/pull/35) in [keelerm84/dotfiles](https://github.com/keelerm84/dotfiles)
-2. 🎉 Merged PR [#260](https://github.com/launchdarkly/php-server-sdk/pull/260) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-3. 💪 Opened PR [#260](https://github.com/launchdarkly/php-server-sdk/pull/260) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-4. 🎉 Merged PR [#105](https://github.com/launchdarkly/swift-eventsource/pull/105) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-5. 🎉 Merged PR [#104](https://github.com/launchdarkly/swift-eventsource/pull/104) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+1. 🗣 Commented on [#125](https://github.com/launchdarkly/ld-relay-helm/pull/125#issuecomment-4832877215) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+2. 💪 Opened PR [#106](https://github.com/launchdarkly/swift-eventsource/pull/106) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+3. ❌ Closed PR [#35](https://github.com/keelerm84/dotfiles/pull/35) in [keelerm84/dotfiles](https://github.com/keelerm84/dotfiles)
+4. 🎉 Merged PR [#260](https://github.com/launchdarkly/php-server-sdk/pull/260) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+5. 💪 Opened PR [#260](https://github.com/launchdarkly/php-server-sdk/pull/260) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
