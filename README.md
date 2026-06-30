@@ -44,7 +44,7 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/launchdarkly/hello-bootstrap-rails/pull/69#issuecomment-4835221869) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+1. 🎉 Merged PR [#516](https://github.com/launchdarkly/cpp-sdks/pull/516) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
 2. 🗣 Commented on [#68](https://github.com/launchdarkly/hello-bootstrap-rails/pull/68#issuecomment-4835220509) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
 3. ❌ Closed PR [#35](https://github.com/keelerm84/dotfiles/pull/35) in [keelerm84/dotfiles](https://github.com/keelerm84/dotfiles)
 4. 🎉 Merged PR [#260](https://github.com/launchdarkly/php-server-sdk/pull/260) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
