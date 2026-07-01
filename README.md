@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#108](https://github.com/launchdarkly/swift-eventsource/pull/108) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-2. 🎉 Merged PR [#107](https://github.com/launchdarkly/swift-eventsource/pull/107) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-3. 💪 Opened PR [#107](https://github.com/launchdarkly/swift-eventsource/pull/107) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-4. 🗣 Commented on [#721](https://github.com/launchdarkly/ld-relay/pull/721#issuecomment-4857676960) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. ❌ Closed PR [#721](https://github.com/launchdarkly/ld-relay/pull/721) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. ❌ Closed PR [#109](https://github.com/launchdarkly/swift-eventsource/pull/109) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+2. ℹ️ Assigned PR [#735](https://github.com/launchdarkly/ld-relay/pull/735) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 💪 Opened PR [#735](https://github.com/launchdarkly/ld-relay/pull/735) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 🗣 Commented on [#360](https://github.com/launchdarkly/go-server-sdk/pull/360#issuecomment-4859042088) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+5. 💪 Opened PR [#109](https://github.com/launchdarkly/swift-eventsource/pull/109) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
