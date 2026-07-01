@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#360](https://github.com/launchdarkly/go-server-sdk/pull/360#issuecomment-4845483746) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-2. 🗣 Commented on [#88](https://github.com/launchdarkly/gha-flags/pull/88#issuecomment-4844647774) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
-3. 🗣 Commented on [#95](https://github.com/launchdarkly/gha-flags/pull/95#issuecomment-4844021293) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
-4. 🗣 Commented on [#69](https://github.com/launchdarkly/hello-ios/pull/69#issuecomment-4844015933) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
-5. ❌ Closed PR [#69](https://github.com/launchdarkly/hello-ios/pull/69) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
+1. 🎉 Merged PR [#106](https://github.com/launchdarkly/swift-eventsource/pull/106) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+2. 🗣 Commented on [#360](https://github.com/launchdarkly/go-server-sdk/pull/360#issuecomment-4845483746) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+3. 🗣 Commented on [#88](https://github.com/launchdarkly/gha-flags/pull/88#issuecomment-4844647774) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+4. 🗣 Commented on [#95](https://github.com/launchdarkly/gha-flags/pull/95#issuecomment-4844021293) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+5. 🗣 Commented on [#69](https://github.com/launchdarkly/hello-ios/pull/69#issuecomment-4844015933) in [launchdarkly/hello-ios](https://github.com/launchdarkly/hello-ios)
 <!--END_SECTION:activity-->
 
 ### Github Stats
