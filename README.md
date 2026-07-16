@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com/launchdarkly/swift-eventsource/pull/110) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-2. 💪 Opened PR [#111](https://github.com/launchdarkly/swift-eventsource/pull/111) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-3. 💪 Opened PR [#110](https://github.com/launchdarkly/swift-eventsource/pull/110) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-4. 💪 Opened PR [#744](https://github.com/launchdarkly/ld-relay/pull/744) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 🎉 Merged PR [#108](https://github.com/launchdarkly/swift-eventsource/pull/108) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
+1. 💪 Opened PR [#750](https://github.com/launchdarkly/ld-relay/pull/750) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 🎉 Merged PR [#380](https://github.com/launchdarkly/sdk-test-harness/pull/380) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+3. 🎉 Merged PR [#379](https://github.com/launchdarkly/sdk-test-harness/pull/379) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+4. 💪 Opened PR [#380](https://github.com/launchdarkly/sdk-test-harness/pull/380) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. 💪 Opened PR [#112](https://github.com/launchdarkly/swift-eventsource/pull/112) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
