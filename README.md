@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#262](https://github.com/launchdarkly/php-server-sdk/pull/262) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-2. 💪 Opened PR [#1809](https://github.com/launchdarkly/js-core/pull/1809) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-3. 💪 Opened PR [#376](https://github.com/launchdarkly/android-client-sdk/pull/376) in [launchdarkly/android-client-sdk](https://github.com/launchdarkly/android-client-sdk)
-4. 🎉 Merged PR [#766](https://github.com/launchdarkly/ld-relay/pull/766) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 💪 Opened PR [#193](https://github.com/launchdarkly/java-core/pull/193) in [launchdarkly/java-core](https://github.com/launchdarkly/java-core)
+1. 💪 Opened PR [#310](https://github.com/launchdarkly/dotnet-core/pull/310) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+2. 🎉 Merged PR [#767](https://github.com/launchdarkly/ld-relay/pull/767) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 🗣 Commented on [#767](https://github.com/launchdarkly/ld-relay/pull/767#issuecomment-5024717799) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 🎉 Merged PR [#376](https://github.com/launchdarkly/android-client-sdk/pull/376) in [launchdarkly/android-client-sdk](https://github.com/launchdarkly/android-client-sdk)
+5. 🎉 Merged PR [#193](https://github.com/launchdarkly/java-core/pull/193) in [launchdarkly/java-core](https://github.com/launchdarkly/java-core)
 <!--END_SECTION:activity-->
 
 ### Github Stats
