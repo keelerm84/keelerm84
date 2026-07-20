@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#133](https://github.com/launchdarkly/ld-relay-helm/pull/133) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-2. 💪 Opened PR [#59](https://github.com/launchdarkly/eventsource/pull/59) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
-3. 🎉 Merged PR [#112](https://github.com/launchdarkly/swift-eventsource/pull/112) in [launchdarkly/swift-eventsource](https://github.com/launchdarkly/swift-eventsource)
-4. 💪 Opened PR [#133](https://github.com/launchdarkly/ld-relay-helm/pull/133) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-5. 💪 Opened PR [#757](https://github.com/launchdarkly/ld-relay/pull/757) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 💪 Opened PR [#262](https://github.com/launchdarkly/php-server-sdk/pull/262) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+2. 💪 Opened PR [#1809](https://github.com/launchdarkly/js-core/pull/1809) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+3. 💪 Opened PR [#376](https://github.com/launchdarkly/android-client-sdk/pull/376) in [launchdarkly/android-client-sdk](https://github.com/launchdarkly/android-client-sdk)
+4. 🎉 Merged PR [#766](https://github.com/launchdarkly/ld-relay/pull/766) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 💪 Opened PR [#193](https://github.com/launchdarkly/java-core/pull/193) in [launchdarkly/java-core](https://github.com/launchdarkly/java-core)
 <!--END_SECTION:activity-->
 
 ### Github Stats
