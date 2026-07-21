@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#314](https://github.com/launchdarkly/dotnet-core/pull/314) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
-2. 💪 Opened PR [#313](https://github.com/launchdarkly/dotnet-core/pull/313) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
-3. 🎉 Merged PR [#195](https://github.com/launchdarkly/java-core/pull/195) in [launchdarkly/java-core](https://github.com/launchdarkly/java-core)
-4. 🎉 Merged PR [#194](https://github.com/launchdarkly/java-core/pull/194) in [launchdarkly/java-core](https://github.com/launchdarkly/java-core)
-5. 🗣 Commented on [#312](https://github.com/launchdarkly/dotnet-core/pull/312#issuecomment-5035324004) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+1. 🗣 Commented on [#314](https://github.com/launchdarkly/dotnet-core/pull/314#issuecomment-5037345705) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+2. 💪 Opened PR [#408](https://github.com/launchdarkly/ruby-server-sdk/pull/408) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+3. 💪 Opened PR [#392](https://github.com/launchdarkly/sdk-test-harness/pull/392) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+4. 💪 Opened PR [#391](https://github.com/launchdarkly/sdk-test-harness/pull/391) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. 🗣 Commented on [#314](https://github.com/launchdarkly/dotnet-core/pull/314#issuecomment-5037050995) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
 <!--END_SECTION:activity-->
 
 ### Github Stats
