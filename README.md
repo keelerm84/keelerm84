@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1809](https://github.com/launchdarkly/js-core/pull/1809) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-2. 🗣 Commented on [#761](https://github.com/launchdarkly/ld-relay/pull/761#issuecomment-5027029008) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 🗣 Commented on [#311](https://github.com/launchdarkly/dotnet-core/pull/311#issuecomment-5026778280) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
-4. 💪 Opened PR [#311](https://github.com/launchdarkly/dotnet-core/pull/311) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
-5. 🎉 Merged PR [#310](https://github.com/launchdarkly/dotnet-core/pull/310) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+1. 💪 Opened PR [#194](https://github.com/launchdarkly/java-core/pull/194) in [launchdarkly/java-core](https://github.com/launchdarkly/java-core)
+2. 💪 Opened PR [#191](https://github.com/launchdarkly/erlang-server-sdk/pull/191) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
+3. 🎉 Merged PR [#1809](https://github.com/launchdarkly/js-core/pull/1809) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+4. 🗣 Commented on [#761](https://github.com/launchdarkly/ld-relay/pull/761#issuecomment-5027029008) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 🗣 Commented on [#311](https://github.com/launchdarkly/dotnet-core/pull/311#issuecomment-5026778280) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
 <!--END_SECTION:activity-->
 
 ### Github Stats
