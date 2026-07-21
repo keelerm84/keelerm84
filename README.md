@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#194](https://github.com/launchdarkly/java-core/pull/194) in [launchdarkly/java-core](https://github.com/launchdarkly/java-core)
-2. 💪 Opened PR [#191](https://github.com/launchdarkly/erlang-server-sdk/pull/191) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
-3. 🎉 Merged PR [#1809](https://github.com/launchdarkly/js-core/pull/1809) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-4. 🗣 Commented on [#761](https://github.com/launchdarkly/ld-relay/pull/761#issuecomment-5027029008) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 🗣 Commented on [#311](https://github.com/launchdarkly/dotnet-core/pull/311#issuecomment-5026778280) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+1. 🎉 Merged PR [#181](https://github.com/launchdarkly/rust-server-sdk/pull/181) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+2. 🎉 Merged PR [#262](https://github.com/launchdarkly/php-server-sdk/pull/262) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+3. 🎉 Merged PR [#191](https://github.com/launchdarkly/erlang-server-sdk/pull/191) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
+4. 🎉 Merged PR [#1814](https://github.com/launchdarkly/js-core/pull/1814) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+5. 🎉 Merged PR [#389](https://github.com/launchdarkly/sdk-test-harness/pull/389) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
 <!--END_SECTION:activity-->
 
 ### Github Stats
