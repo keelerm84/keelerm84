@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#181](https://github.com/launchdarkly/rust-server-sdk/pull/181) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-2. 🎉 Merged PR [#262](https://github.com/launchdarkly/php-server-sdk/pull/262) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-3. 🎉 Merged PR [#191](https://github.com/launchdarkly/erlang-server-sdk/pull/191) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
-4. 🎉 Merged PR [#1814](https://github.com/launchdarkly/js-core/pull/1814) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-5. 🎉 Merged PR [#389](https://github.com/launchdarkly/sdk-test-harness/pull/389) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 💪 Opened PR [#314](https://github.com/launchdarkly/dotnet-core/pull/314) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+2. 💪 Opened PR [#313](https://github.com/launchdarkly/dotnet-core/pull/313) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+3. 🎉 Merged PR [#195](https://github.com/launchdarkly/java-core/pull/195) in [launchdarkly/java-core](https://github.com/launchdarkly/java-core)
+4. 🎉 Merged PR [#194](https://github.com/launchdarkly/java-core/pull/194) in [launchdarkly/java-core](https://github.com/launchdarkly/java-core)
+5. 🗣 Commented on [#312](https://github.com/launchdarkly/dotnet-core/pull/312#issuecomment-5035324004) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
 <!--END_SECTION:activity-->
 
 ### Github Stats
