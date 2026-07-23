@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#582](https://github.com/launchdarkly/cpp-sdks/pull/582#issuecomment-5061470517) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
-2. 🎉 Merged PR [#583](https://github.com/launchdarkly/cpp-sdks/pull/583) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
-3. 💪 Opened PR [#583](https://github.com/launchdarkly/cpp-sdks/pull/583) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
-4. 🎉 Merged PR [#319](https://github.com/launchdarkly/dotnet-core/pull/319) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
-5. 🗣 Commented on [#319](https://github.com/launchdarkly/dotnet-core/pull/319#issuecomment-5047661097) in [launchdarkly/dotnet-core](https://github.com/launchdarkly/dotnet-core)
+1. 💪 Opened PR [#12](https://github.com/launchdarkly/go-ntlm-proxy-auth/pull/12) in [launchdarkly/go-ntlm-proxy-auth](https://github.com/launchdarkly/go-ntlm-proxy-auth)
+2. 💪 Opened PR [#29](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/29) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
+3. 🗣 Commented on [#582](https://github.com/launchdarkly/cpp-sdks/pull/582#issuecomment-5061470517) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+4. 🎉 Merged PR [#583](https://github.com/launchdarkly/cpp-sdks/pull/583) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+5. 💪 Opened PR [#583](https://github.com/launchdarkly/cpp-sdks/pull/583) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
 <!--END_SECTION:activity-->
 
 ### Github Stats
