@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#59](https://github.com/launchdarkly/eventsource/pull/59) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
-2. 🎉 Merged PR [#757](https://github.com/launchdarkly/ld-relay/pull/757) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 💪 Opened PR [#12](https://github.com/launchdarkly/go-ntlm-proxy-auth/pull/12) in [launchdarkly/go-ntlm-proxy-auth](https://github.com/launchdarkly/go-ntlm-proxy-auth)
-4. 💪 Opened PR [#29](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/29) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
-5. 🗣 Commented on [#582](https://github.com/launchdarkly/cpp-sdks/pull/582#issuecomment-5061470517) in [launchdarkly/cpp-sdks](https://github.com/launchdarkly/cpp-sdks)
+1. 💪 Opened PR [#64](https://github.com/launchdarkly/eventsource/pull/64) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
+2. ❌ Closed PR [#59](https://github.com/launchdarkly/eventsource/pull/59) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
+3. 🎉 Merged PR [#757](https://github.com/launchdarkly/ld-relay/pull/757) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 💪 Opened PR [#12](https://github.com/launchdarkly/go-ntlm-proxy-auth/pull/12) in [launchdarkly/go-ntlm-proxy-auth](https://github.com/launchdarkly/go-ntlm-proxy-auth)
+5. 💪 Opened PR [#29](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/29) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
 <!--END_SECTION:activity-->
 
 ### Github Stats
