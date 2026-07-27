@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com/launchdarkly/eventsource/pull/64) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
-2. ❌ Closed PR [#59](https://github.com/launchdarkly/eventsource/pull/59) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
-3. 🎉 Merged PR [#757](https://github.com/launchdarkly/ld-relay/pull/757) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 💪 Opened PR [#12](https://github.com/launchdarkly/go-ntlm-proxy-auth/pull/12) in [launchdarkly/go-ntlm-proxy-auth](https://github.com/launchdarkly/go-ntlm-proxy-auth)
-5. 💪 Opened PR [#29](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/29) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
+1. 💪 Opened PR [#13](https://github.com/launchdarkly/go-ntlm-proxy-auth/pull/13) in [launchdarkly/go-ntlm-proxy-auth](https://github.com/launchdarkly/go-ntlm-proxy-auth)
+2. 🗣 Commented on [#776](https://github.com/launchdarkly/ld-relay/pull/776#issuecomment-5093034993) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 🎉 Merged PR [#12](https://github.com/launchdarkly/go-ntlm-proxy-auth/pull/12) in [launchdarkly/go-ntlm-proxy-auth](https://github.com/launchdarkly/go-ntlm-proxy-auth)
+4. 🎉 Merged PR [#29](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver/pull/29) in [launchdarkly/opencensus-go-exporter-stackdriver](https://github.com/launchdarkly/opencensus-go-exporter-stackdriver)
+5. 💪 Opened PR [#776](https://github.com/launchdarkly/ld-relay/pull/776) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
