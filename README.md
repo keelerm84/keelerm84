@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#781](https://github.com/launchdarkly/ld-relay/pull/781) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 🎉 Merged PR [#64](https://github.com/launchdarkly/eventsource/pull/64) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
-3. 💪 Opened PR [#46](https://github.com/launchdarkly/go-jsonstream/pull/46) in [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream)
-4. 🎉 Merged PR [#777](https://github.com/launchdarkly/ld-relay/pull/777) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 💪 Opened PR [#777](https://github.com/launchdarkly/ld-relay/pull/777) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🎉 Merged PR [#50](https://github.com/launchdarkly/go-jsonstream/pull/50) in [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream)
+2. 💪 Opened PR [#50](https://github.com/launchdarkly/go-jsonstream/pull/50) in [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream)
+3. 🎉 Merged PR [#45](https://github.com/launchdarkly/go-jsonstream/pull/45) in [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream)
+4. 🎉 Merged PR [#48](https://github.com/launchdarkly/go-jsonstream/pull/48) in [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream)
+5. 💪 Opened PR [#48](https://github.com/launchdarkly/go-jsonstream/pull/48) in [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream)
 <!--END_SECTION:activity-->
 
 ### Github Stats
