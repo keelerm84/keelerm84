@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#183](https://github.com/launchdarkly/rust-server-sdk/issues/183#issuecomment-5195674592) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-2. 🗣 Commented on [#55](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/55#issuecomment-5194137464) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-3. 💪 Opened PR [#67](https://github.com/launchdarkly/eventsource/pull/67) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
-4. 💪 Opened PR [#55](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/55) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-5. 🎉 Merged PR [#794](https://github.com/launchdarkly/ld-relay/pull/794) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 🗣 Commented on [#49](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/49#issuecomment-5205908916) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+2. 🗣 Commented on [#50](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/50#issuecomment-5205907790) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+3. 💪 Opened PR [#797](https://github.com/launchdarkly/ld-relay/pull/797) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 💪 Opened PR [#49](https://github.com/launchdarkly/go-server-sdk-redis-go-redis/pull/49) in [launchdarkly/go-server-sdk-redis-go-redis](https://github.com/launchdarkly/go-server-sdk-redis-go-redis)
+5. 🎉 Merged PR [#52](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/52) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
 <!--END_SECTION:activity-->
 
 ### Github Stats
