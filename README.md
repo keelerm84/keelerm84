@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#184](https://github.com/launchdarkly/rust-server-sdk/pull/184) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-2. 💪 Opened PR [#798](https://github.com/launchdarkly/ld-relay/pull/798) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 🎉 Merged PR [#49](https://github.com/launchdarkly/go-server-sdk-redis-go-redis/pull/49) in [launchdarkly/go-server-sdk-redis-go-redis](https://github.com/launchdarkly/go-server-sdk-redis-go-redis)
-4. 💪 Opened PR [#184](https://github.com/launchdarkly/rust-server-sdk/pull/184) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-5. 🎉 Merged PR [#55](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/55) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+1. 💪 Opened PR [#50](https://github.com/launchdarkly/go-server-sdk-consul/pull/50) in [launchdarkly/go-server-sdk-consul](https://github.com/launchdarkly/go-server-sdk-consul)
+2. 🎉 Merged PR [#184](https://github.com/launchdarkly/rust-server-sdk/pull/184) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+3. 💪 Opened PR [#798](https://github.com/launchdarkly/ld-relay/pull/798) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 🎉 Merged PR [#49](https://github.com/launchdarkly/go-server-sdk-redis-go-redis/pull/49) in [launchdarkly/go-server-sdk-redis-go-redis](https://github.com/launchdarkly/go-server-sdk-redis-go-redis)
+5. 💪 Opened PR [#184](https://github.com/launchdarkly/rust-server-sdk/pull/184) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
