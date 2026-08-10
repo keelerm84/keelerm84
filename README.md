@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/launchdarkly/go-ntlmssp/pull/12#issuecomment-5241184228) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
-2. 💪 Opened PR [#12](https://github.com/launchdarkly/go-ntlmssp/pull/12) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
-3. 💪 Opened PR [#801](https://github.com/launchdarkly/ld-relay/pull/801) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 🗣 Commented on [#298](https://github.com/launchdarkly/ruby-server-sdk/pull/298#issuecomment-5220181552) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-5. ❌ Closed PR [#298](https://github.com/launchdarkly/ruby-server-sdk/pull/298) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+1. 🎉 Merged PR [#12](https://github.com/launchdarkly/go-ntlmssp/pull/12) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
+2. 🗣 Commented on [#12](https://github.com/launchdarkly/go-ntlmssp/pull/12#issuecomment-5241184228) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
+3. 💪 Opened PR [#12](https://github.com/launchdarkly/go-ntlmssp/pull/12) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
+4. 💪 Opened PR [#801](https://github.com/launchdarkly/ld-relay/pull/801) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 🗣 Commented on [#298](https://github.com/launchdarkly/ruby-server-sdk/pull/298#issuecomment-5220181552) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
