@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#802](https://github.com/launchdarkly/ld-relay/pull/802) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 💪 Opened PR [#13](https://github.com/launchdarkly/go-ntlmssp/pull/13) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
-3. 🎉 Merged PR [#12](https://github.com/launchdarkly/go-ntlmssp/pull/12) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
-4. 🗣 Commented on [#12](https://github.com/launchdarkly/go-ntlmssp/pull/12#issuecomment-5241184228) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
-5. 💪 Opened PR [#12](https://github.com/launchdarkly/go-ntlmssp/pull/12) in [launchdarkly/go-ntlmssp](https://github.com/launchdarkly/go-ntlmssp)
+1. 🗣 Commented on [#781](https://github.com/launchdarkly/ld-relay/pull/781#issuecomment-5256138115) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 🗣 Commented on [#801](https://github.com/launchdarkly/ld-relay/pull/801#issuecomment-5255937263) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. ❌ Closed PR [#801](https://github.com/launchdarkly/ld-relay/pull/801) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. ❌ Closed PR [#47](https://github.com/launchdarkly/go-jsonstream/pull/47) in [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream)
+5. 🎉 Merged PR [#55](https://github.com/launchdarkly/go-jsonstream/pull/55) in [launchdarkly/go-jsonstream](https://github.com/launchdarkly/go-jsonstream)
 <!--END_SECTION:activity-->
 
 ### Github Stats
