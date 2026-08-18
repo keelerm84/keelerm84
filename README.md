@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/59) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
-2. 💪 Opened PR [#58](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/58) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
-3. 💪 Opened PR [#57](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/57) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
-4. 💪 Opened PR [#56](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/56) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
-5. 💪 Opened PR [#55](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/55) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+1. 💪 Opened PR [#831](https://github.com/launchdarkly/ld-relay/pull/831) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. ❌ Closed PR [#811](https://github.com/launchdarkly/ld-relay/pull/811) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 💪 Opened PR [#59](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/59) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+4. 💪 Opened PR [#58](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/58) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+5. 💪 Opened PR [#57](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/57) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
 <!--END_SECTION:activity-->
 
 ### Github Stats
