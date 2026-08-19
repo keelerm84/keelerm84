@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#831](https://github.com/launchdarkly/ld-relay/pull/831) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 💪 Opened PR [#831](https://github.com/launchdarkly/ld-relay/pull/831) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. ❌ Closed PR [#811](https://github.com/launchdarkly/ld-relay/pull/811) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 💪 Opened PR [#59](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/59) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
-5. 💪 Opened PR [#58](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/58) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+1. 💪 Opened PR [#835](https://github.com/launchdarkly/ld-relay/pull/835) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. ℹ️ Assigned PR [#579](https://github.com/launchdarkly/sdk-meta/pull/579) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+3. 💪 Opened PR [#579](https://github.com/launchdarkly/sdk-meta/pull/579) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+4. 🎉 Merged PR [#831](https://github.com/launchdarkly/ld-relay/pull/831) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 💪 Opened PR [#831](https://github.com/launchdarkly/ld-relay/pull/831) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
