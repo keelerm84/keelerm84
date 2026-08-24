@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/launchdarkly/go-server-sdk-firestore/pull/63#issuecomment-5400246467) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
-2. 💪 Opened PR [#65](https://github.com/launchdarkly/apex-server-sdk/pull/65) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-3. 🎉 Merged PR [#579](https://github.com/launchdarkly/sdk-meta/pull/579) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-4. 🎉 Merged PR [#63](https://github.com/launchdarkly/apex-server-sdk/pull/63) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-5. 💪 Opened PR [#64](https://github.com/launchdarkly/apex-server-sdk/pull/64) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+1. 🗣 Commented on [#59](https://github.com/launchdarkly/go-sdk-events/pull/59#issuecomment-5400465675) in [launchdarkly/go-sdk-events](https://github.com/launchdarkly/go-sdk-events)
+2. 🗣 Commented on [#63](https://github.com/launchdarkly/go-server-sdk-firestore/pull/63#issuecomment-5400246467) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
+3. 💪 Opened PR [#65](https://github.com/launchdarkly/apex-server-sdk/pull/65) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+4. 🎉 Merged PR [#579](https://github.com/launchdarkly/sdk-meta/pull/579) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+5. 🎉 Merged PR [#63](https://github.com/launchdarkly/apex-server-sdk/pull/63) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
