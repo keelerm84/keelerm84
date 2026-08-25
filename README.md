@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#137](https://github.com/launchdarkly/ld-relay-helm/pull/137) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-2. 💪 Opened PR [#137](https://github.com/launchdarkly/ld-relay-helm/pull/137) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-3. 🗣 Commented on [#819](https://github.com/launchdarkly/ld-relay/pull/819#issuecomment-5412054982) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. ❌ Closed PR [#819](https://github.com/launchdarkly/ld-relay/pull/819) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 🗣 Commented on [#423](https://github.com/launchdarkly/sdk-test-harness/pull/423#issuecomment-5412013003) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 🗣 Commented on [#43](https://github.com/launchdarkly/go-server-sdk-consul/pull/43#issuecomment-5413681281) in [launchdarkly/go-server-sdk-consul](https://github.com/launchdarkly/go-server-sdk-consul)
+2. 🗣 Commented on [#43](https://github.com/launchdarkly/go-server-sdk-consul/pull/43#issuecomment-5413677471) in [launchdarkly/go-server-sdk-consul](https://github.com/launchdarkly/go-server-sdk-consul)
+3. 🎉 Merged PR [#55](https://github.com/launchdarkly/go-server-sdk-consul/pull/55) in [launchdarkly/go-server-sdk-consul](https://github.com/launchdarkly/go-server-sdk-consul)
+4. 💪 Opened PR [#55](https://github.com/launchdarkly/go-server-sdk-consul/pull/55) in [launchdarkly/go-server-sdk-consul](https://github.com/launchdarkly/go-server-sdk-consul)
+5. 🎉 Merged PR [#137](https://github.com/launchdarkly/ld-relay-helm/pull/137) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
 <!--END_SECTION:activity-->
 
 ### Github Stats
