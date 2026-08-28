@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/launchdarkly/apex-server-sdk/pull/64) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-2. 🗣 Commented on [#422](https://github.com/launchdarkly/ruby-server-sdk/pull/422#issuecomment-5426932941) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-3. 💪 Opened PR [#422](https://github.com/launchdarkly/ruby-server-sdk/pull/422) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-4. 🎉 Merged PR [#65](https://github.com/launchdarkly/apex-server-sdk/pull/65) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-5. 🗣 Commented on [#43](https://github.com/launchdarkly/go-server-sdk-consul/pull/43#issuecomment-5413681281) in [launchdarkly/go-server-sdk-consul](https://github.com/launchdarkly/go-server-sdk-consul)
+1. 💪 Opened PR [#429](https://github.com/launchdarkly/ruby-server-sdk/pull/429) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+2. 🎉 Merged PR [#56](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/56) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+3. 🎉 Merged PR [#427](https://github.com/launchdarkly/ruby-server-sdk/pull/427) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+4. 🎉 Merged PR [#426](https://github.com/launchdarkly/ruby-server-sdk/pull/426) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+5. 💪 Opened PR [#427](https://github.com/launchdarkly/ruby-server-sdk/pull/427) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
