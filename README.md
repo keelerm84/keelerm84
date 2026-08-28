@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#429](https://github.com/launchdarkly/ruby-server-sdk/pull/429) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-2. 🎉 Merged PR [#56](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/56) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
-3. 🎉 Merged PR [#427](https://github.com/launchdarkly/ruby-server-sdk/pull/427) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-4. 🎉 Merged PR [#426](https://github.com/launchdarkly/ruby-server-sdk/pull/426) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-5. 💪 Opened PR [#427](https://github.com/launchdarkly/ruby-server-sdk/pull/427) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+1. 🎉 Merged PR [#61](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/61) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+2. 🎉 Merged PR [#59](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/59) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+3. 🎉 Merged PR [#58](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/58) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+4. 🎉 Merged PR [#66](https://github.com/launchdarkly/apex-server-sdk/pull/66) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
+5. 🎉 Merged PR [#57](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/57) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
 <!--END_SECTION:activity-->
 
 ### Github Stats
