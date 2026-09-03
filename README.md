@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/launchdarkly/go-configtypes/pull/29) in [launchdarkly/go-configtypes](https://github.com/launchdarkly/go-configtypes)
-2. 🎉 Merged PR [#66](https://github.com/launchdarkly/go-server-sdk-evaluation/pull/66) in [launchdarkly/go-server-sdk-evaluation](https://github.com/launchdarkly/go-server-sdk-evaluation)
-3. 🎉 Merged PR [#65](https://github.com/launchdarkly/go-server-sdk-evaluation/pull/65) in [launchdarkly/go-server-sdk-evaluation](https://github.com/launchdarkly/go-server-sdk-evaluation)
-4. 🎉 Merged PR [#69](https://github.com/launchdarkly/go-server-sdk-firestore/pull/69) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
-5. 🎉 Merged PR [#63](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/63) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+1. 🗣 Commented on [#53](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/53#issuecomment-5528056769) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+2. 🎉 Merged PR [#854](https://github.com/launchdarkly/ld-relay/pull/854) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 💪 Opened PR [#854](https://github.com/launchdarkly/ld-relay/pull/854) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 🗣 Commented on [#853](https://github.com/launchdarkly/ld-relay/pull/853#issuecomment-5526733513) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. ❌ Closed PR [#853](https://github.com/launchdarkly/ld-relay/pull/853) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
