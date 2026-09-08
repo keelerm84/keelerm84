@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#855](https://github.com/launchdarkly/ld-relay/pull/855) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 🎉 Merged PR [#73](https://github.com/launchdarkly/apex-server-sdk/pull/73) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-3. 🗣 Commented on [#846](https://github.com/launchdarkly/ld-relay/pull/846#issuecomment-5531063944) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 💪 Opened PR [#73](https://github.com/launchdarkly/apex-server-sdk/pull/73) in [launchdarkly/apex-server-sdk](https://github.com/launchdarkly/apex-server-sdk)
-5. 🗣 Commented on [#53](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/53#issuecomment-5528056769) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
+1. 🎉 Merged PR [#445](https://github.com/launchdarkly/go-server-sdk/pull/445) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+2. 💪 Opened PR [#857](https://github.com/launchdarkly/ld-relay/pull/857) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 💪 Opened PR [#44](https://github.com/launchdarkly/go-server-sdk-dynamodb/pull/44) in [launchdarkly/go-server-sdk-dynamodb](https://github.com/launchdarkly/go-server-sdk-dynamodb)
+4. 💪 Opened PR [#73](https://github.com/launchdarkly/go-server-sdk-firestore/pull/73) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
+5. 💪 Opened PR [#64](https://github.com/launchdarkly/go-server-sdk-redis-redigo/pull/64) in [launchdarkly/go-server-sdk-redis-redigo](https://github.com/launchdarkly/go-server-sdk-redis-redigo)
 <!--END_SECTION:activity-->
 
 ### Github Stats
