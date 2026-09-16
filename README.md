@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](https://github.com/launchdarkly/go-server-sdk-firestore/pull/77) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
-2. 🎉 Merged PR [#76](https://github.com/launchdarkly/eventsource/pull/76) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
-3. 🎉 Merged PR [#873](https://github.com/launchdarkly/ld-relay/pull/873) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-4. 🎉 Merged PR [#874](https://github.com/launchdarkly/ld-relay/pull/874) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. ❌ Closed PR [#75](https://github.com/launchdarkly/eventsource/pull/75) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
+1. 🎉 Merged PR [#866](https://github.com/launchdarkly/ld-relay/pull/866) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 💪 Opened PR [#77](https://github.com/launchdarkly/go-server-sdk-firestore/pull/77) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
+3. 🎉 Merged PR [#76](https://github.com/launchdarkly/eventsource/pull/76) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
+4. 🎉 Merged PR [#873](https://github.com/launchdarkly/ld-relay/pull/873) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 🎉 Merged PR [#874](https://github.com/launchdarkly/ld-relay/pull/874) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
