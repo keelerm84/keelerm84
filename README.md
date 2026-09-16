@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#875](https://github.com/launchdarkly/ld-relay/pull/875) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 🗣 Commented on [#875](https://github.com/launchdarkly/ld-relay/pull/875#issuecomment-5700538873) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 💪 Opened PR [#75](https://github.com/launchdarkly/eventsource/pull/75) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
-4. 💪 Opened PR [#875](https://github.com/launchdarkly/ld-relay/pull/875) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 💪 Opened PR [#874](https://github.com/launchdarkly/ld-relay/pull/874) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+1. 💪 Opened PR [#77](https://github.com/launchdarkly/go-server-sdk-firestore/pull/77) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
+2. 🎉 Merged PR [#76](https://github.com/launchdarkly/eventsource/pull/76) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
+3. 🎉 Merged PR [#873](https://github.com/launchdarkly/ld-relay/pull/873) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 🎉 Merged PR [#874](https://github.com/launchdarkly/ld-relay/pull/874) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. ❌ Closed PR [#75](https://github.com/launchdarkly/eventsource/pull/75) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
