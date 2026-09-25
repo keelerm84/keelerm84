@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#457](https://github.com/launchdarkly/go-server-sdk/pull/457) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-2. 💪 Opened PR [#63](https://github.com/launchdarkly/go-sdk-events/pull/63) in [launchdarkly/go-sdk-events](https://github.com/launchdarkly/go-sdk-events)
-3. 🎉 Merged PR [#816](https://github.com/launchdarkly/ldcli/pull/816) in [launchdarkly/ldcli](https://github.com/launchdarkly/ldcli)
-4. 💪 Opened PR [#816](https://github.com/launchdarkly/ldcli/pull/816) in [launchdarkly/ldcli](https://github.com/launchdarkly/ldcli)
-5. 🗣 Commented on [#114](https://github.com/launchdarkly/gha-flags/pull/114#issuecomment-5815561673) in [launchdarkly/gha-flags](https://github.com/launchdarkly/gha-flags)
+1. 🗣 Commented on [#69](https://github.com/launchdarkly/go-server-sdk-evaluation/pull/69#issuecomment-5836607865) in [launchdarkly/go-server-sdk-evaluation](https://github.com/launchdarkly/go-server-sdk-evaluation)
+2. 💪 Opened PR [#898](https://github.com/launchdarkly/ld-relay/pull/898) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 💪 Opened PR [#897](https://github.com/launchdarkly/ld-relay/pull/897) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 💪 Opened PR [#896](https://github.com/launchdarkly/ld-relay/pull/896) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 💪 Opened PR [#895](https://github.com/launchdarkly/ld-relay/pull/895) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
