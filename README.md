@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#896](https://github.com/launchdarkly/ld-relay/pull/896#issuecomment-5916450722) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 🗣 Commented on [#482](https://github.com/launchdarkly/sdk-test-harness/pull/482#issuecomment-5912461121) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 🗣 Commented on [#483](https://github.com/launchdarkly/sdk-test-harness/pull/483#issuecomment-5912460052) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 🎉 Merged PR [#894](https://github.com/launchdarkly/ld-relay/pull/894) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 🎉 Merged PR [#470](https://github.com/launchdarkly/sdk-test-harness/pull/470) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 💪 Opened PR [#81](https://github.com/launchdarkly/eventsource/pull/81) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
+2. 🗣 Commented on [#896](https://github.com/launchdarkly/ld-relay/pull/896#issuecomment-5935260120) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 🗣 Commented on [#896](https://github.com/launchdarkly/ld-relay/pull/896#issuecomment-5933957397) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 🗣 Commented on [#69](https://github.com/launchdarkly/go-server-sdk-evaluation/pull/69#issuecomment-5933279928) in [launchdarkly/go-server-sdk-evaluation](https://github.com/launchdarkly/go-server-sdk-evaluation)
+5. 💪 Opened PR [#80](https://github.com/launchdarkly/eventsource/pull/80) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
 <!--END_SECTION:activity-->
 
 ### Github Stats
