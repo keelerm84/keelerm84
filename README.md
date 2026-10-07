@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#916](https://github.com/launchdarkly/ld-relay/pull/916) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 🎉 Merged PR [#912](https://github.com/launchdarkly/ld-relay/pull/912) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-3. 💪 Opened PR [#464](https://github.com/launchdarkly/go-server-sdk/pull/464) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
-4. 🎉 Merged PR [#898](https://github.com/launchdarkly/ld-relay/pull/898) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 💪 Opened PR [#463](https://github.com/launchdarkly/go-server-sdk/pull/463) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+1. 🎉 Merged PR [#463](https://github.com/launchdarkly/go-server-sdk/pull/463) in [launchdarkly/go-server-sdk](https://github.com/launchdarkly/go-server-sdk)
+2. 🎉 Merged PR [#81](https://github.com/launchdarkly/eventsource/pull/81) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
+3. 🗣 Commented on [#148](https://github.com/launchdarkly/rust-eventsource-client/pull/148#issuecomment-6039056743) in [launchdarkly/rust-eventsource-client](https://github.com/launchdarkly/rust-eventsource-client)
+4. 🎉 Merged PR [#74](https://github.com/launchdarkly/go-server-sdk-evaluation/pull/74) in [launchdarkly/go-server-sdk-evaluation](https://github.com/launchdarkly/go-server-sdk-evaluation)
+5. 💪 Opened PR [#74](https://github.com/launchdarkly/go-server-sdk-evaluation/pull/74) in [launchdarkly/go-server-sdk-evaluation](https://github.com/launchdarkly/go-server-sdk-evaluation)
 <!--END_SECTION:activity-->
 
 ### Github Stats
