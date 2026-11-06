@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#486](https://github.com/launchdarkly/ruby-server-sdk/pull/486#issuecomment-6669262413) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-2. 🗣 Commented on [#117](https://github.com/launchdarkly/haskell-server-sdk/pull/117#issuecomment-6666683375) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-3. 🗣 Commented on [#486](https://github.com/launchdarkly/ruby-server-sdk/pull/486#issuecomment-6669263127) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-4. 🗣 Commented on [#486](https://github.com/launchdarkly/ruby-server-sdk/pull/486#issuecomment-6669261897) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-5. 💪 Opened PR [#570](https://github.com/launchdarkly/python-server-sdk/pull/570) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+1. 🎉 Merged PR [#970](https://github.com/launchdarkly/ld-relay/pull/970) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+2. 💪 Opened PR [#970](https://github.com/launchdarkly/ld-relay/pull/970) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+3. 🎉 Merged PR [#969](https://github.com/launchdarkly/ld-relay/pull/969) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+4. 🎉 Merged PR [#968](https://github.com/launchdarkly/ld-relay/pull/968) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 💪 Opened PR [#969](https://github.com/launchdarkly/ld-relay/pull/969) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
