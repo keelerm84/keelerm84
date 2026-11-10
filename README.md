@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#294](https://github.com/launchdarkly/php-server-sdk/pull/294) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-2. 💪 Opened PR [#258](https://github.com/launchdarkly/java-core/pull/258) in [launchdarkly/java-core](https://github.com/launchdarkly/java-core)
-3. 💪 Opened PR [#293](https://github.com/launchdarkly/php-server-sdk/pull/293) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-4. 💪 Opened PR [#292](https://github.com/launchdarkly/php-server-sdk/pull/292) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-5. 💪 Opened PR [#291](https://github.com/launchdarkly/php-server-sdk/pull/291) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+1. 🗣 Commented on [#98](https://github.com/launchdarkly/go-server-sdk-firestore/pull/98#issuecomment-6751001553) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
+2. 💪 Opened PR [#82](https://github.com/launchdarkly/go-server-sdk-evaluation/pull/82) in [launchdarkly/go-server-sdk-evaluation](https://github.com/launchdarkly/go-server-sdk-evaluation)
+3. 🗣 Commented on [#290](https://github.com/launchdarkly/php-server-sdk/pull/290#issuecomment-6746164521) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+4. 💪 Opened PR [#294](https://github.com/launchdarkly/php-server-sdk/pull/294) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+5. 💪 Opened PR [#258](https://github.com/launchdarkly/java-core/pull/258) in [launchdarkly/java-core](https://github.com/launchdarkly/java-core)
 <!--END_SECTION:activity-->
 
 ### Github Stats
