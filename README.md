@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#497](https://github.com/launchdarkly/ruby-server-sdk/pull/497) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-2. 🎉 Merged PR [#578](https://github.com/launchdarkly/python-server-sdk/pull/578) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-3. 🎉 Merged PR [#495](https://github.com/launchdarkly/ruby-server-sdk/pull/495) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-4. 🎉 Merged PR [#494](https://github.com/launchdarkly/ruby-server-sdk/pull/494) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
-5. 🎉 Merged PR [#492](https://github.com/launchdarkly/ruby-server-sdk/pull/492) in [launchdarkly/ruby-server-sdk](https://github.com/launchdarkly/ruby-server-sdk)
+1. 💪 Opened PR [#212](https://github.com/launchdarkly/erlang-server-sdk/pull/212) in [launchdarkly/erlang-server-sdk](https://github.com/launchdarkly/erlang-server-sdk)
+2. 💪 Opened PR [#297](https://github.com/launchdarkly/php-server-sdk/pull/297) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+3. 💪 Opened PR [#130](https://github.com/launchdarkly/haskell-server-sdk/pull/130) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+4. 💪 Opened PR [#129](https://github.com/launchdarkly/haskell-server-sdk/pull/129) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+5. 🎉 Merged PR [#978](https://github.com/launchdarkly/ld-relay/pull/978) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
