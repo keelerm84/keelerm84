@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#742](https://github.com/launchdarkly/sdk-meta/pull/742) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
-2. 💪 Opened PR [#31](https://github.com/launchdarkly/hello-rust/pull/31) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
-3. 💪 Opened PR [#40](https://github.com/launchdarkly/hello-ruby/pull/40) in [launchdarkly/hello-ruby](https://github.com/launchdarkly/hello-ruby)
-4. 💪 Opened PR [#21](https://github.com/launchdarkly/hello-r/pull/21) in [launchdarkly/hello-r](https://github.com/launchdarkly/hello-r)
-5. 💪 Opened PR [#38](https://github.com/launchdarkly/hello-python/pull/38) in [launchdarkly/hello-python](https://github.com/launchdarkly/hello-python)
+1. 💪 Opened PR [#131](https://github.com/launchdarkly/gh-actions/pull/131) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+2. 🎉 Merged PR [#742](https://github.com/launchdarkly/sdk-meta/pull/742) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+3. 💪 Opened PR [#743](https://github.com/launchdarkly/sdk-meta/pull/743) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+4. 🎉 Merged PR [#29](https://github.com/launchdarkly/hello-haskell-server/pull/29) in [launchdarkly/hello-haskell-server](https://github.com/launchdarkly/hello-haskell-server)
+5. 💪 Opened PR [#32](https://github.com/launchdarkly/hello-rust/pull/32) in [launchdarkly/hello-rust](https://github.com/launchdarkly/hello-rust)
 <!--END_SECTION:activity-->
 
 ### Github Stats
