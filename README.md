@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#989](https://github.com/launchdarkly/ld-relay/pull/989) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-2. 💪 Opened PR [#134](https://github.com/launchdarkly/lua-server-sdk/pull/134) in [launchdarkly/lua-server-sdk](https://github.com/launchdarkly/lua-server-sdk)
-3. 🎉 Merged PR [#26](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/26) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
-4. 🗣 Commented on [#25](https://github.com/launchdarkly/hello-openfeature-ruby-server/pull/25#issuecomment-6990994479) in [launchdarkly/hello-openfeature-ruby-server](https://github.com/launchdarkly/hello-openfeature-ruby-server)
-5. 🎉 Merged PR [#743](https://github.com/launchdarkly/sdk-meta/pull/743) in [launchdarkly/sdk-meta](https://github.com/launchdarkly/sdk-meta)
+1. 🎉 Merged PR [#134](https://github.com/launchdarkly/lua-server-sdk/pull/134) in [launchdarkly/lua-server-sdk](https://github.com/launchdarkly/lua-server-sdk)
+2. 🎉 Merged PR [#121](https://github.com/launchdarkly/okhttp-eventsource/pull/121) in [launchdarkly/okhttp-eventsource](https://github.com/launchdarkly/okhttp-eventsource)
+3. 🎉 Merged PR [#27](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/27) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
+4. 💪 Opened PR [#221](https://github.com/launchdarkly/rust-server-sdk/pull/221) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
+5. 💪 Opened PR [#68](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/68) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
 <!--END_SECTION:activity-->
 
 ### Github Stats
