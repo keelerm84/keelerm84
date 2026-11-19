@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#134](https://github.com/launchdarkly/lua-server-sdk/pull/134) in [launchdarkly/lua-server-sdk](https://github.com/launchdarkly/lua-server-sdk)
-2. 🎉 Merged PR [#121](https://github.com/launchdarkly/okhttp-eventsource/pull/121) in [launchdarkly/okhttp-eventsource](https://github.com/launchdarkly/okhttp-eventsource)
-3. 🎉 Merged PR [#27](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/27) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
-4. 💪 Opened PR [#221](https://github.com/launchdarkly/rust-server-sdk/pull/221) in [launchdarkly/rust-server-sdk](https://github.com/launchdarkly/rust-server-sdk)
-5. 💪 Opened PR [#68](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/68) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+1. 💪 Opened PR [#29](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/29) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
+2. 💪 Opened PR [#138](https://github.com/launchdarkly/haskell-server-sdk/pull/138) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+3. 💪 Opened PR [#111](https://github.com/launchdarkly/hello-bootstrap-rails/pull/111) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
+4. 💪 Opened PR [#991](https://github.com/launchdarkly/ld-relay/pull/991) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
+5. 💪 Opened PR [#165](https://github.com/launchdarkly/ld-relay-helm/pull/165) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
 <!--END_SECTION:activity-->
 
 ### Github Stats
