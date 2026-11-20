@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/launchdarkly/java-server-sdk-dynamodb/pull/42#issuecomment-7023323315) in [launchdarkly/java-server-sdk-dynamodb](https://github.com/launchdarkly/java-server-sdk-dynamodb)
-2. 🗣 Commented on [#45](https://github.com/launchdarkly/java-server-sdk-dynamodb/pull/45#issuecomment-7023327570) in [launchdarkly/java-server-sdk-dynamodb](https://github.com/launchdarkly/java-server-sdk-dynamodb)
-3. ❌ Closed PR [#45](https://github.com/launchdarkly/java-server-sdk-dynamodb/pull/45) in [launchdarkly/java-server-sdk-dynamodb](https://github.com/launchdarkly/java-server-sdk-dynamodb)
-4. ❌ Closed PR [#42](https://github.com/launchdarkly/java-server-sdk-dynamodb/pull/42) in [launchdarkly/java-server-sdk-dynamodb](https://github.com/launchdarkly/java-server-sdk-dynamodb)
-5. 🎉 Merged PR [#46](https://github.com/launchdarkly/java-server-sdk-dynamodb/pull/46) in [launchdarkly/java-server-sdk-dynamodb](https://github.com/launchdarkly/java-server-sdk-dynamodb)
+1. 🎉 Merged PR [#69](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/69) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+2. 🎉 Merged PR [#70](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/70) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
+3. 🗣 Commented on [#139](https://github.com/launchdarkly/haskell-server-sdk/pull/139#issuecomment-7048146118) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
+4. 🎉 Merged PR [#591](https://github.com/launchdarkly/python-server-sdk/pull/591) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
+5. 🎉 Merged PR [#135](https://github.com/launchdarkly/gh-actions/pull/135) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
 <!--END_SECTION:activity-->
 
 ### Github Stats
