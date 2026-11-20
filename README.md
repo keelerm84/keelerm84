@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis/pull/29) in [launchdarkly/haskell-server-sdk-redis-hedis](https://github.com/launchdarkly/haskell-server-sdk-redis-hedis)
-2. 💪 Opened PR [#138](https://github.com/launchdarkly/haskell-server-sdk/pull/138) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-3. 💪 Opened PR [#111](https://github.com/launchdarkly/hello-bootstrap-rails/pull/111) in [launchdarkly/hello-bootstrap-rails](https://github.com/launchdarkly/hello-bootstrap-rails)
-4. 💪 Opened PR [#991](https://github.com/launchdarkly/ld-relay/pull/991) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
-5. 💪 Opened PR [#165](https://github.com/launchdarkly/ld-relay-helm/pull/165) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+1. 🗣 Commented on [#42](https://github.com/launchdarkly/java-server-sdk-dynamodb/pull/42#issuecomment-7023323315) in [launchdarkly/java-server-sdk-dynamodb](https://github.com/launchdarkly/java-server-sdk-dynamodb)
+2. 🗣 Commented on [#45](https://github.com/launchdarkly/java-server-sdk-dynamodb/pull/45#issuecomment-7023327570) in [launchdarkly/java-server-sdk-dynamodb](https://github.com/launchdarkly/java-server-sdk-dynamodb)
+3. ❌ Closed PR [#45](https://github.com/launchdarkly/java-server-sdk-dynamodb/pull/45) in [launchdarkly/java-server-sdk-dynamodb](https://github.com/launchdarkly/java-server-sdk-dynamodb)
+4. ❌ Closed PR [#42](https://github.com/launchdarkly/java-server-sdk-dynamodb/pull/42) in [launchdarkly/java-server-sdk-dynamodb](https://github.com/launchdarkly/java-server-sdk-dynamodb)
+5. 🎉 Merged PR [#46](https://github.com/launchdarkly/java-server-sdk-dynamodb/pull/46) in [launchdarkly/java-server-sdk-dynamodb](https://github.com/launchdarkly/java-server-sdk-dynamodb)
 <!--END_SECTION:activity-->
 
 ### Github Stats
