@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/69) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-2. 🎉 Merged PR [#70](https://github.com/launchdarkly/rust-server-sdk-evaluation/pull/70) in [launchdarkly/rust-server-sdk-evaluation](https://github.com/launchdarkly/rust-server-sdk-evaluation)
-3. 🗣 Commented on [#139](https://github.com/launchdarkly/haskell-server-sdk/pull/139#issuecomment-7048146118) in [launchdarkly/haskell-server-sdk](https://github.com/launchdarkly/haskell-server-sdk)
-4. 🎉 Merged PR [#591](https://github.com/launchdarkly/python-server-sdk/pull/591) in [launchdarkly/python-server-sdk](https://github.com/launchdarkly/python-server-sdk)
-5. 🎉 Merged PR [#135](https://github.com/launchdarkly/gh-actions/pull/135) in [launchdarkly/gh-actions](https://github.com/launchdarkly/gh-actions)
+1. 🎉 Merged PR [#27](https://github.com/launchdarkly/dotnet-logging-adapter-commonlogging/pull/27) in [launchdarkly/dotnet-logging-adapter-commonlogging](https://github.com/launchdarkly/dotnet-logging-adapter-commonlogging)
+2. 🎉 Merged PR [#23](https://github.com/launchdarkly/dotnet-logging-adapter-log4net/pull/23) in [launchdarkly/dotnet-logging-adapter-log4net](https://github.com/launchdarkly/dotnet-logging-adapter-log4net)
+3. 🎉 Merged PR [#130](https://github.com/launchdarkly/dotnet-eventsource/pull/130) in [launchdarkly/dotnet-eventsource](https://github.com/launchdarkly/dotnet-eventsource)
+4. 🎉 Merged PR [#27](https://github.com/launchdarkly/dotnet-logging/pull/27) in [launchdarkly/dotnet-logging](https://github.com/launchdarkly/dotnet-logging)
+5. 🎉 Merged PR [#57](https://github.com/launchdarkly/go-server-sdk-redis-go-redis/pull/57) in [launchdarkly/go-server-sdk-redis-go-redis](https://github.com/launchdarkly/go-server-sdk-redis-go-redis)
 <!--END_SECTION:activity-->
 
 ### Github Stats
