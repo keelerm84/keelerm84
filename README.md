@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/launchdarkly/dotnet-logging-adapter-commonlogging/pull/27) in [launchdarkly/dotnet-logging-adapter-commonlogging](https://github.com/launchdarkly/dotnet-logging-adapter-commonlogging)
-2. 🎉 Merged PR [#23](https://github.com/launchdarkly/dotnet-logging-adapter-log4net/pull/23) in [launchdarkly/dotnet-logging-adapter-log4net](https://github.com/launchdarkly/dotnet-logging-adapter-log4net)
-3. 🎉 Merged PR [#130](https://github.com/launchdarkly/dotnet-eventsource/pull/130) in [launchdarkly/dotnet-eventsource](https://github.com/launchdarkly/dotnet-eventsource)
-4. 🎉 Merged PR [#27](https://github.com/launchdarkly/dotnet-logging/pull/27) in [launchdarkly/dotnet-logging](https://github.com/launchdarkly/dotnet-logging)
-5. 🎉 Merged PR [#57](https://github.com/launchdarkly/go-server-sdk-redis-go-redis/pull/57) in [launchdarkly/go-server-sdk-redis-go-redis](https://github.com/launchdarkly/go-server-sdk-redis-go-redis)
+1. 💪 Opened PR [#170](https://github.com/launchdarkly/ld-relay-helm/pull/170) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+2. 🗣 Commented on [#305](https://github.com/launchdarkly/php-server-sdk/pull/305#issuecomment-7108549434) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+3. 🗣 Commented on [#25](https://github.com/launchdarkly/php-server-sdk-otel/pull/25#issuecomment-7108549758) in [launchdarkly/php-server-sdk-otel](https://github.com/launchdarkly/php-server-sdk-otel)
+4. 🗣 Commented on [#87](https://github.com/launchdarkly/node-client-sdk/pull/87#issuecomment-7108548168) in [launchdarkly/node-client-sdk](https://github.com/launchdarkly/node-client-sdk)
+5. 🗣 Commented on [#168](https://github.com/launchdarkly/ld-relay-helm/pull/168#issuecomment-7108547887) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
 <!--END_SECTION:activity-->
 
 ### Github Stats
