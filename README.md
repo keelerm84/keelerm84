@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#306](https://github.com/launchdarkly/php-server-sdk/pull/306#issuecomment-7114518412) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-2. 💪 Opened PR [#170](https://github.com/launchdarkly/ld-relay-helm/pull/170) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-3. 🗣 Commented on [#305](https://github.com/launchdarkly/php-server-sdk/pull/305#issuecomment-7108549434) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
-4. 🗣 Commented on [#25](https://github.com/launchdarkly/php-server-sdk-otel/pull/25#issuecomment-7108549758) in [launchdarkly/php-server-sdk-otel](https://github.com/launchdarkly/php-server-sdk-otel)
-5. 🗣 Commented on [#87](https://github.com/launchdarkly/node-client-sdk/pull/87#issuecomment-7108548168) in [launchdarkly/node-client-sdk](https://github.com/launchdarkly/node-client-sdk)
+1. 🎉 Merged PR [#692](https://github.com/launchdarkly/sdk-test-harness/pull/692) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+2. 🎉 Merged PR [#691](https://github.com/launchdarkly/sdk-test-harness/pull/691) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+3. 💪 Opened PR [#692](https://github.com/launchdarkly/sdk-test-harness/pull/692) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+4. 🎉 Merged PR [#170](https://github.com/launchdarkly/ld-relay-helm/pull/170) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+5. 💪 Opened PR [#67](https://github.com/launchdarkly/roku-client-sdk/pull/67) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
 <!--END_SECTION:activity-->
 
 ### Github Stats
