@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2248](https://github.com/launchdarkly/js-core/pull/2248) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-2. 💪 Opened PR [#2247](https://github.com/launchdarkly/js-core/pull/2247) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
-3. 🎉 Merged PR [#68](https://github.com/launchdarkly/roku-client-sdk/pull/68) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
-4. 🎉 Merged PR [#695](https://github.com/launchdarkly/sdk-test-harness/pull/695) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-5. 🎉 Merged PR [#696](https://github.com/launchdarkly/sdk-test-harness/pull/696) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+1. 🗣 Commented on [#171](https://github.com/launchdarkly/ld-relay-helm/pull/171#issuecomment-7174501258) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
+2. 🗣 Commented on [#306](https://github.com/launchdarkly/php-server-sdk/pull/306#issuecomment-7174429679) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+3. 💪 Opened PR [#309](https://github.com/launchdarkly/php-server-sdk/pull/309) in [launchdarkly/php-server-sdk](https://github.com/launchdarkly/php-server-sdk)
+4. 💪 Opened PR [#85](https://github.com/launchdarkly/eventsource/pull/85) in [launchdarkly/eventsource](https://github.com/launchdarkly/eventsource)
+5. 💪 Opened PR [#1005](https://github.com/launchdarkly/ld-relay/pull/1005) in [launchdarkly/ld-relay](https://github.com/launchdarkly/ld-relay)
 <!--END_SECTION:activity-->
 
 ### Github Stats
