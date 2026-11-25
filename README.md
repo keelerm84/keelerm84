@@ -44,11 +44,11 @@ I enjoy modernizing legacy systems, by breathing new life into an aging code bas
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#692](https://github.com/launchdarkly/sdk-test-harness/pull/692) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-2. 🎉 Merged PR [#691](https://github.com/launchdarkly/sdk-test-harness/pull/691) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-3. 💪 Opened PR [#692](https://github.com/launchdarkly/sdk-test-harness/pull/692) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
-4. 🎉 Merged PR [#170](https://github.com/launchdarkly/ld-relay-helm/pull/170) in [launchdarkly/ld-relay-helm](https://github.com/launchdarkly/ld-relay-helm)
-5. 💪 Opened PR [#67](https://github.com/launchdarkly/roku-client-sdk/pull/67) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
+1. 💪 Opened PR [#2248](https://github.com/launchdarkly/js-core/pull/2248) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+2. 💪 Opened PR [#2247](https://github.com/launchdarkly/js-core/pull/2247) in [launchdarkly/js-core](https://github.com/launchdarkly/js-core)
+3. 🎉 Merged PR [#68](https://github.com/launchdarkly/roku-client-sdk/pull/68) in [launchdarkly/roku-client-sdk](https://github.com/launchdarkly/roku-client-sdk)
+4. 🎉 Merged PR [#695](https://github.com/launchdarkly/sdk-test-harness/pull/695) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
+5. 🎉 Merged PR [#696](https://github.com/launchdarkly/sdk-test-harness/pull/696) in [launchdarkly/sdk-test-harness](https://github.com/launchdarkly/sdk-test-harness)
 <!--END_SECTION:activity-->
 
 ### Github Stats
